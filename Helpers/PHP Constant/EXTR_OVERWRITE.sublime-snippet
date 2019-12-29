@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+EXTR_OVERWRITE
+]]>
+	</content>
+	<tabTrigger>EXTR_OVERWRITE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - EXTR_OVERWRITE</description>
+</snippet>

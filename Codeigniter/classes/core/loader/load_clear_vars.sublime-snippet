@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->clear_vars();
+]]>
+	</content>
+	<tabTrigger>load_clear_vars</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Clear Vars</description>
+</snippet>

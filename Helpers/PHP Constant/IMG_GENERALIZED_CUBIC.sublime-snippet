@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_GENERALIZED_CUBIC
+]]>
+	</content>
+	<tabTrigger>IMG_GENERALIZED_CUBIC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_GENERALIZED_CUBIC</description>
+</snippet>

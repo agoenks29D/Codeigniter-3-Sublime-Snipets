@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENCQUOTEDPRINTABLE
+]]>
+	</content>
+	<tabTrigger>ENCQUOTEDPRINTABLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENCQUOTEDPRINTABLE</description>
+</snippet>

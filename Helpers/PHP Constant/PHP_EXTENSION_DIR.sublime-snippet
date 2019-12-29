@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_EXTENSION_DIR
+]]>
+	</content>
+	<tabTrigger>PHP_EXTENSION_DIR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_EXTENSION_DIR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+pagination
+]]>
+	</content>
+	<tabTrigger>_library_pagination</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Pagination Library</description>
+</snippet>

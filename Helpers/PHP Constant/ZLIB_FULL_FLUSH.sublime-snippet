@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_FULL_FLUSH
+]]>
+	</content>
+	<tabTrigger>ZLIB_FULL_FLUSH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_FULL_FLUSH</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+HTML_SPECIALCHARS
+]]>
+	</content>
+	<tabTrigger>HTML_SPECIALCHARS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - HTML_SPECIALCHARS</description>
+</snippet>

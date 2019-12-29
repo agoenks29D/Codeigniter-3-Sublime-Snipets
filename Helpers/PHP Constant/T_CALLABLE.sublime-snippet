@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CALLABLE
+]]>
+	</content>
+	<tabTrigger>T_CALLABLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CALLABLE</description>
+</snippet>

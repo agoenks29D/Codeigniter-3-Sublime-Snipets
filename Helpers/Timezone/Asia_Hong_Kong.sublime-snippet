@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Hong_Kong
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Hong_Kong</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Hong_Kong</description>
+</snippet>

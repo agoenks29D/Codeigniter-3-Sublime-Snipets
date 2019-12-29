@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_GOST
+]]>
+	</content>
+	<tabTrigger>MHASH_GOST</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_GOST</description>
+</snippet>

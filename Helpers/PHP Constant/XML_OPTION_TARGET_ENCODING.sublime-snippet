@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_OPTION_TARGET_ENCODING
+]]>
+	</content>
+	<tabTrigger>XML_OPTION_TARGET_ENCODING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_OPTION_TARGET_ENCODING</description>
+</snippet>

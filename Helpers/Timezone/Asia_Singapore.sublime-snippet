@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Singapore
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Singapore</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Singapore</description>
+</snippet>

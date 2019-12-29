@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_SYSLOG
+]]>
+	</content>
+	<tabTrigger>LOG_SYSLOG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_SYSLOG</description>
+</snippet>

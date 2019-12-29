@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_CLIENT_SSL_VERIFY_SERVER_CERT
+]]>
+	</content>
+	<tabTrigger>MYSQLI_CLIENT_SSL_VERIFY_SERVER_CERT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_CLIENT_SSL_VERIFY_SERVER_CERT</description>
+</snippet>

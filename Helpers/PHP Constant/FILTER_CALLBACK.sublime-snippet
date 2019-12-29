@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_CALLBACK
+]]>
+	</content>
+	<tabTrigger>FILTER_CALLBACK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_CALLBACK</description>
+</snippet>

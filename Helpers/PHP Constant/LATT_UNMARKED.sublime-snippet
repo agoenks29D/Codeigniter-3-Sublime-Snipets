@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LATT_UNMARKED
+]]>
+	</content>
+	<tabTrigger>LATT_UNMARKED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LATT_UNMARKED</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_CLIENT_PERSISTENT
+]]>
+	</content>
+	<tabTrigger>STREAM_CLIENT_PERSISTENT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_CLIENT_PERSISTENT</description>
+</snippet>

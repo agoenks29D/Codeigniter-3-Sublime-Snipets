@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLHEADER_SEPARATE
+]]>
+	</content>
+	<tabTrigger>CURLHEADER_SEPARATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLHEADER_SEPARATE</description>
+</snippet>

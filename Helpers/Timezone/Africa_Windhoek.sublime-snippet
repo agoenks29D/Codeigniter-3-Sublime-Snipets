@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Windhoek
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Windhoek</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Windhoek</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_TIMEVALUE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_TIMEVALUE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_TIMEVALUE</description>
+</snippet>

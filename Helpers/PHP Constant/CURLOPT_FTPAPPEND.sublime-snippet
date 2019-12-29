@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FTPAPPEND
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FTPAPPEND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FTPAPPEND</description>
+</snippet>

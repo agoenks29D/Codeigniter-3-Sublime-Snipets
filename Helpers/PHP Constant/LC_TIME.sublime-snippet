@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LC_TIME
+]]>
+	</content>
+	<tabTrigger>LC_TIME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LC_TIME</description>
+</snippet>

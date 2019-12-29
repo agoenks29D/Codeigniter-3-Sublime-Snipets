@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TYPE_FLOAT
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TYPE_FLOAT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TYPE_FLOAT</description>
+</snippet>

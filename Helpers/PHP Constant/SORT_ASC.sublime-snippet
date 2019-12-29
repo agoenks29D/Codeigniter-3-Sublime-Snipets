@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORT_ASC
+]]>
+	</content>
+	<tabTrigger>SORT_ASC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORT_ASC</description>
+</snippet>

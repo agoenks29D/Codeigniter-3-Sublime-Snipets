@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Kentucky/Louisville
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Kentucky_Louisville</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Kentucky/Louisville</description>
+</snippet>

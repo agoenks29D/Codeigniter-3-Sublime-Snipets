@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Indian/Mayotte
+]]>
+	</content>
+	<tabTrigger>_timezone_Indian_Mayotte</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Indian/Mayotte</description>
+</snippet>

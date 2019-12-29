@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_PARTIAL_CONTENT
+]]>
+	</content>
+	<tabTrigger>rest_http_206</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_PARTIAL_CONTENT (206)</description>
+</snippet>

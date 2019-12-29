@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_HEX_AMP
+]]>
+	</content>
+	<tabTrigger>JSON_HEX_AMP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_HEX_AMP</description>
+</snippet>

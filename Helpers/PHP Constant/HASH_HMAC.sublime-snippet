@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+HASH_HMAC
+]]>
+	</content>
+	<tabTrigger>HASH_HMAC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - HASH_HMAC</description>
+</snippet>

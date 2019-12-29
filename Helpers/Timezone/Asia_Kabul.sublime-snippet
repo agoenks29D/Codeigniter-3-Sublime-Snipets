@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Kabul
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Kabul</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Kabul</description>
+</snippet>

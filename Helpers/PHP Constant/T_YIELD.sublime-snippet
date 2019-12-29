@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_YIELD
+]]>
+	</content>
+	<tabTrigger>T_YIELD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_YIELD</description>
+</snippet>

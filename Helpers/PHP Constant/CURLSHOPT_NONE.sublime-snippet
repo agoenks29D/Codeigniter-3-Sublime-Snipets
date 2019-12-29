@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLSHOPT_NONE
+]]>
+	</content>
+	<tabTrigger>CURLSHOPT_NONE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLSHOPT_NONE</description>
+</snippet>

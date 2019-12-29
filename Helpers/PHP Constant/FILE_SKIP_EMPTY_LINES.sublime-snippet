@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILE_SKIP_EMPTY_LINES
+]]>
+	</content>
+	<tabTrigger>FILE_SKIP_EMPTY_LINES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILE_SKIP_EMPTY_LINES</description>
+</snippet>

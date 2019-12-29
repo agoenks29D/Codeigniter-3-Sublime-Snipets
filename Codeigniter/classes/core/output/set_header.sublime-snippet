@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->set_header('${1:HTTP/1.0 200 OK}');
+]]>
+	</content>
+	<tabTrigger>set_header</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Set Header</description>
+</snippet>

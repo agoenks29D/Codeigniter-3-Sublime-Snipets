@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_POW_EQUAL
+]]>
+	</content>
+	<tabTrigger>T_POW_EQUAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_POW_EQUAL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SQLITE3_BOTH
+]]>
+	</content>
+	<tabTrigger>SQLITE3_BOTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SQLITE3_BOTH</description>
+</snippet>

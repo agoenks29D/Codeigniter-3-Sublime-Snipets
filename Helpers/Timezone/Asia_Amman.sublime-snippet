@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Amman
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Amman</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Amman</description>
+</snippet>

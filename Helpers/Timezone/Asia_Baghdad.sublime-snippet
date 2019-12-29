@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Baghdad
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Baghdad</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Baghdad</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_BOOL_CAST
+]]>
+	</content>
+	<tabTrigger>T_BOOL_CAST</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_BOOL_CAST</description>
+</snippet>

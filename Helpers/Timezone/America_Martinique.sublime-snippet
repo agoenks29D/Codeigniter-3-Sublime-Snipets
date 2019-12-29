@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Martinique
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Martinique</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Martinique</description>
+</snippet>

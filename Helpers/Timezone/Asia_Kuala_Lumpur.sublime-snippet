@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Kuala_Lumpur
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Kuala_Lumpur</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Kuala_Lumpur</description>
+</snippet>

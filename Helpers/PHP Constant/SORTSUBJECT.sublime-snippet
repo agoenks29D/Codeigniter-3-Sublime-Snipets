@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORTSUBJECT
+]]>
+	</content>
+	<tabTrigger>SORTSUBJECT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORTSUBJECT</description>
+</snippet>

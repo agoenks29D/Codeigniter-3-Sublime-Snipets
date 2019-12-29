@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_NOPROGRESS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_NOPROGRESS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_NOPROGRESS</description>
+</snippet>

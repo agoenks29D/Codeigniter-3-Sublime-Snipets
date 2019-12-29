@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->get_content_type();
+]]>
+	</content>
+	<tabTrigger>output_get_content_type</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Get Content Type</description>
+</snippet>

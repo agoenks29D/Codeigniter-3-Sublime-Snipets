@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_TIFF_II
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_TIFF_II</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_TIFF_II</description>
+</snippet>

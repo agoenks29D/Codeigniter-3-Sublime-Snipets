@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CL_EXPUNGE
+]]>
+	</content>
+	<tabTrigger>CL_EXPUNGE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CL_EXPUNGE</description>
+</snippet>

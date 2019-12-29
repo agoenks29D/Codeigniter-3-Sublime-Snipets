@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_REQUEST_URI_TOO_LONG
+]]>
+	</content>
+	<tabTrigger>rest_http_request_uri_too_long</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_REQUEST_URI_TOO_LONG (414)</description>
+</snippet>

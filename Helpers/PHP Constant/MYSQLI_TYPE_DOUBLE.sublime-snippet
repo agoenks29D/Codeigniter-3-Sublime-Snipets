@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TYPE_DOUBLE
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TYPE_DOUBLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TYPE_DOUBLE</description>
+</snippet>

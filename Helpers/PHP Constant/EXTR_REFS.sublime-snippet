@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+EXTR_REFS
+]]>
+	</content>
+	<tabTrigger>EXTR_REFS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - EXTR_REFS</description>
+</snippet>

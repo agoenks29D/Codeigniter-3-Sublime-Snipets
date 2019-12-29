@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTPMETHOD_SINGLECWD
+]]>
+	</content>
+	<tabTrigger>CURLFTPMETHOD_SINGLECWD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTPMETHOD_SINGLECWD</description>
+</snippet>

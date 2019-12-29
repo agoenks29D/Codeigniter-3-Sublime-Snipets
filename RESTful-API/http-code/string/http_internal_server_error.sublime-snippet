@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_INTERNAL_SERVER_ERROR
+]]>
+	</content>
+	<tabTrigger>rest_http_internal_server_error</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_INTERNAL_SERVER_ERROR (500)</description>
+</snippet>

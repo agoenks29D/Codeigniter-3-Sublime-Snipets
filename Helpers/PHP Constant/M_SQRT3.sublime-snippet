@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+M_SQRT3
+]]>
+	</content>
+	<tabTrigger>M_SQRT3</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - M_SQRT3</description>
+</snippet>

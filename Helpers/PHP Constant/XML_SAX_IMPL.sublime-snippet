@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_SAX_IMPL
+]]>
+	</content>
+	<tabTrigger>XML_SAX_IMPL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_SAX_IMPL</description>
+</snippet>

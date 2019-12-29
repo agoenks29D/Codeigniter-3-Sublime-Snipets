@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Cambridge_Bay
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Cambridge_Bay</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Cambridge_Bay</description>
+</snippet>

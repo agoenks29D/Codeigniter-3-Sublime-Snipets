@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_LOCK_DATA_DNS
+]]>
+	</content>
+	<tabTrigger>CURL_LOCK_DATA_DNS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_LOCK_DATA_DNS</description>
+</snippet>

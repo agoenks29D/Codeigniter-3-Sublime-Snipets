@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Sarajevo
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Sarajevo</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Sarajevo</description>
+</snippet>

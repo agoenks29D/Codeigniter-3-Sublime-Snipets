@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+UTC
+]]>
+	</content>
+	<tabTrigger>_timezone_UTC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - UTC</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->parse_exec_vars = ${1:false};
+]]>
+	</content>
+	<tabTrigger>output_parse_exec_vars</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Parse Exec Vars</description>
+</snippet>

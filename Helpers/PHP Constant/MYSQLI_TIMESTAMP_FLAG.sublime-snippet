@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TIMESTAMP_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TIMESTAMP_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TIMESTAMP_FLAG</description>
+</snippet>

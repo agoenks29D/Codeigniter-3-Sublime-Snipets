@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Almaty
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Almaty</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Almaty</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_BAD_REQUEST
+]]>
+	</content>
+	<tabTrigger>rest_http_bad_request</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_BAD_REQUEST (400)</description>
+</snippet>

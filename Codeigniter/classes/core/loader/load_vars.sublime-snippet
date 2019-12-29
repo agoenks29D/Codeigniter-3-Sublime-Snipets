@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->vars('${1:var}');
+]]>
+	</content>
+	<tabTrigger>load_vars</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Var</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_SMB
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_SMB</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_SMB</description>
+</snippet>

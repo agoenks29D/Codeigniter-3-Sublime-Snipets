@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/North_Dakota/Center
+]]>
+	</content>
+	<tabTrigger>_timezone_America_North_Dakota_Center</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/North_Dakota/Center</description>
+</snippet>

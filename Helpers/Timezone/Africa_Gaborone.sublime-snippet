@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Gaborone
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Gaborone</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Gaborone</description>
+</snippet>

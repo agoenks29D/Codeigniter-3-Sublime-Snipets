@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+xmlrpcs
+]]>
+	</content>
+	<tabTrigger>_library_xmlrpcs</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Xmlrpcs Library</description>
+</snippet>

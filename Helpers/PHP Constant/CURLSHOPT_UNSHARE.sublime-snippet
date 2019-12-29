@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLSHOPT_UNSHARE
+]]>
+	</content>
+	<tabTrigger>CURLSHOPT_UNSHARE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLSHOPT_UNSHARE</description>
+</snippet>

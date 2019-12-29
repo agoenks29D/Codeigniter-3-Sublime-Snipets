@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->benchmark->elapsed_time('${1:start}','${2:end}');
+]]>
+	</content>
+	<tabTrigger>benchmark_elapsed_time</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Benchmark ~ Elapsed Time</description>
+</snippet>

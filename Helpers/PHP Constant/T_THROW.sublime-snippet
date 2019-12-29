@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_THROW
+]]>
+	</content>
+	<tabTrigger>T_THROW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_THROW</description>
+</snippet>

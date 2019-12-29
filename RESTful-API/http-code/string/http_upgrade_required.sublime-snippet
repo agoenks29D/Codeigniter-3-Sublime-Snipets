@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_UPGRADE_REQUIRED
+]]>
+	</content>
+	<tabTrigger>rest_http_upgrade_required</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_UPGRADE_REQUIRED (426)</description>
+</snippet>

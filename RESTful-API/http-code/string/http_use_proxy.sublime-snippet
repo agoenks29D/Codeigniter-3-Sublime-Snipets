@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_USE_PROXY
+]]>
+	</content>
+	<tabTrigger>rest_http_use_proxy</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_USE_PROXY (305)</description>
+</snippet>

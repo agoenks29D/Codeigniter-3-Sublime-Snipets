@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOCK_EX
+]]>
+	</content>
+	<tabTrigger>LOCK_EX</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOCK_EX</description>
+</snippet>

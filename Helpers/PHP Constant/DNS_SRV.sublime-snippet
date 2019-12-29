@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DNS_SRV
+]]>
+	</content>
+	<tabTrigger>DNS_SRV</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DNS_SRV</description>
+</snippet>

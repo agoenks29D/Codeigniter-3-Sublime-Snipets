@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+encrypt
+]]>
+	</content>
+	<tabTrigger>_library_encrypt</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Encrypt Library</description>
+</snippet>

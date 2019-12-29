@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+X509_PURPOSE_CRL_SIGN
+]]>
+	</content>
+	<tabTrigger>X509_PURPOSE_CRL_SIGN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - X509_PURPOSE_CRL_SIGN</description>
+</snippet>

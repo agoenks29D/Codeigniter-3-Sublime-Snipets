@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+COUNT_RECURSIVE
+]]>
+	</content>
+	<tabTrigger>COUNT_RECURSIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - COUNT_RECURSIVE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_BAD_CONTENT_ENCODING
+]]>
+	</content>
+	<tabTrigger>CURLE_BAD_CONTENT_ENCODING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_BAD_CONTENT_ENCODING</description>
+</snippet>

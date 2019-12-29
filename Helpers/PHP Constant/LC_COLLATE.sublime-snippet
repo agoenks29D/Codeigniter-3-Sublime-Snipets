@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LC_COLLATE
+]]>
+	</content>
+	<tabTrigger>LC_COLLATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LC_COLLATE</description>
+</snippet>

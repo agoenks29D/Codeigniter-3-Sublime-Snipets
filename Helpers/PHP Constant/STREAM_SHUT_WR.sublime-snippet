@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_SHUT_WR
+]]>
+	</content>
+	<tabTrigger>STREAM_SHUT_WR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_SHUT_WR</description>
+</snippet>

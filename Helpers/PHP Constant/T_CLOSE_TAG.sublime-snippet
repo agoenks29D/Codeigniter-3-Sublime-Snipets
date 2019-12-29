@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CLOSE_TAG
+]]>
+	</content>
+	<tabTrigger>T_CLOSE_TAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CLOSE_TAG</description>
+</snippet>

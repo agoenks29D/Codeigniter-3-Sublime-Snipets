@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Ojinaga
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Ojinaga</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Ojinaga</description>
+</snippet>

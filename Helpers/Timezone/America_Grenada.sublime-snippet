@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Grenada
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Grenada</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Grenada</description>
+</snippet>

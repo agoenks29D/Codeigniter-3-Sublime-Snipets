@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ENTITY_DECL_NODE
+]]>
+	</content>
+	<tabTrigger>XML_ENTITY_DECL_NODE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ENTITY_DECL_NODE</description>
+</snippet>

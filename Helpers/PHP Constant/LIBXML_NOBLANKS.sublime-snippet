@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_NOBLANKS
+]]>
+	</content>
+	<tabTrigger>LIBXML_NOBLANKS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_NOBLANKS</description>
+</snippet>

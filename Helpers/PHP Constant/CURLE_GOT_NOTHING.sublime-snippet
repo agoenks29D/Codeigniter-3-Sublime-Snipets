@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_GOT_NOTHING
+]]>
+	</content>
+	<tabTrigger>CURLE_GOT_NOTHING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_GOT_NOTHING</description>
+</snippet>

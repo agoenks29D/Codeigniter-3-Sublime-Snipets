@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FNMATCH_FUNCTION
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FNMATCH_FUNCTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FNMATCH_FUNCTION</description>
+</snippet>

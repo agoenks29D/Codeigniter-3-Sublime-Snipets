@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_CURSOR_TYPE_NO_CURSOR
+]]>
+	</content>
+	<tabTrigger>MYSQLI_CURSOR_TYPE_NO_CURSOR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_CURSOR_TYPE_NO_CURSOR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_ICO
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_ICO</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_ICO</description>
+</snippet>

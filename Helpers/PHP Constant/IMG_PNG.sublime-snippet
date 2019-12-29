@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_PNG
+]]>
+	</content>
+	<tabTrigger>IMG_PNG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_PNG</description>
+</snippet>

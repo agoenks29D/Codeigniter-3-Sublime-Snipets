@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Nauru
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Nauru</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Nauru</description>
+</snippet>

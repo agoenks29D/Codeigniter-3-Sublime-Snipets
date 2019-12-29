@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FTP_MOREDATA
+]]>
+	</content>
+	<tabTrigger>FTP_MOREDATA</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FTP_MOREDATA</description>
+</snippet>

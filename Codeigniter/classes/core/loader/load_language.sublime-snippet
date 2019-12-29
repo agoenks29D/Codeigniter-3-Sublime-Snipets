@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->language('${1:language}');
+]]>
+	</content>
+	<tabTrigger>load_language</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Language</description>
+</snippet>

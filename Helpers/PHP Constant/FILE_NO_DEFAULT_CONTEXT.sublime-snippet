@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILE_NO_DEFAULT_CONTEXT
+]]>
+	</content>
+	<tabTrigger>FILE_NO_DEFAULT_CONTEXT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILE_NO_DEFAULT_CONTEXT</description>
+</snippet>

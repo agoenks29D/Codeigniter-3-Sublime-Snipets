@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CRYPT_EXT_DES
+]]>
+	</content>
+	<tabTrigger>CRYPT_EXT_DES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CRYPT_EXT_DES</description>
+</snippet>

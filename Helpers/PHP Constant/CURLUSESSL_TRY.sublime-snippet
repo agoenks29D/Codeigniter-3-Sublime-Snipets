@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLUSESSL_TRY
+]]>
+	</content>
+	<tabTrigger>CURLUSESSL_TRY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLUSESSL_TRY</description>
+</snippet>

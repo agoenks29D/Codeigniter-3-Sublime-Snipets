@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_CURSOR_TYPE_FOR_UPDATE
+]]>
+	</content>
+	<tabTrigger>MYSQLI_CURSOR_TYPE_FOR_UPDATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_CURSOR_TYPE_FOR_UPDATE</description>
+</snippet>

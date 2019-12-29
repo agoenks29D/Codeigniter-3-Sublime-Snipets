@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_DOW_DAYNO
+]]>
+	</content>
+	<tabTrigger>CAL_DOW_DAYNO</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_DOW_DAYNO</description>
+</snippet>

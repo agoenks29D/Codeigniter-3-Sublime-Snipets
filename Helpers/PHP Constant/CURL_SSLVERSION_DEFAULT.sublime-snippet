@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_SSLVERSION_DEFAULT
+]]>
+	</content>
+	<tabTrigger>CURL_SSLVERSION_DEFAULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_SSLVERSION_DEFAULT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SA_UIDNEXT
+]]>
+	</content>
+	<tabTrigger>SA_UIDNEXT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SA_UIDNEXT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_METHOD_NOT_ALLOWED
+]]>
+	</content>
+	<tabTrigger>rest_http_method_not_allowed</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_METHOD_NOT_ALLOWED (405)</description>
+</snippet>

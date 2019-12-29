@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Australia/Lindeman
+]]>
+	</content>
+	<tabTrigger>_timezone_Australia_Lindeman</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Australia/Lindeman</description>
+</snippet>

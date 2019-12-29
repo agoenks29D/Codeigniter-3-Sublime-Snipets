@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILE_TEXT
+]]>
+	</content>
+	<tabTrigger>FILE_TEXT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILE_TEXT</description>
+</snippet>

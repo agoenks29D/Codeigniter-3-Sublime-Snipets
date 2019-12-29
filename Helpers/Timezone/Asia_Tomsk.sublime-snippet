@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Tomsk
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Tomsk</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Tomsk</description>
+</snippet>

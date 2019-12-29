@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_FILTER_COLORIZE
+]]>
+	</content>
+	<tabTrigger>IMG_FILTER_COLORIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_FILTER_COLORIZE</description>
+</snippet>

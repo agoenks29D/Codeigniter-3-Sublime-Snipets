@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORTCC
+]]>
+	</content>
+	<tabTrigger>SORTCC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORTCC</description>
+</snippet>

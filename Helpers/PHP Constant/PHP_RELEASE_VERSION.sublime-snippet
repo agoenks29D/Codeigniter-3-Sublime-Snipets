@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_RELEASE_VERSION
+]]>
+	</content>
+	<tabTrigger>PHP_RELEASE_VERSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_RELEASE_VERSION</description>
+</snippet>

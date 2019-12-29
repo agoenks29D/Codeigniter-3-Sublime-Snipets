@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_FTP_WEIRD_USER_REPLY
+]]>
+	</content>
+	<tabTrigger>CURLE_FTP_WEIRD_USER_REPLY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_FTP_WEIRD_USER_REPLY</description>
+</snippet>

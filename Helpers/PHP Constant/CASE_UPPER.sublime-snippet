@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CASE_UPPER
+]]>
+	</content>
+	<tabTrigger>CASE_UPPER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CASE_UPPER</description>
+</snippet>

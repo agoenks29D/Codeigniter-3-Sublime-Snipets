@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->driver('${1:_codeigniter_driver}');
+]]>
+	</content>
+	<tabTrigger>load_driver</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Driver</description>
+</snippet>

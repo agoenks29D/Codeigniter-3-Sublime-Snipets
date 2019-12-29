@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SCANDIR_SORT_NONE
+]]>
+	</content>
+	<tabTrigger>SCANDIR_SORT_NONE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SCANDIR_SORT_NONE</description>
+</snippet>

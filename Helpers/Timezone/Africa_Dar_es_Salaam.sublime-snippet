@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Dar_es_Salaam
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Dar_es_Salaam</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Dar_es_Salaam</description>
+</snippet>

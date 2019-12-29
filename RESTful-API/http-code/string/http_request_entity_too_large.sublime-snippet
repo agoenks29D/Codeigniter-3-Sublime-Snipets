@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_REQUEST_ENTITY_TOO_LARGE
+]]>
+	</content>
+	<tabTrigger>rest_http_request_entity_too_large</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_REQUEST_ENTITY_TOO_LARGE (413)</description>
+</snippet>

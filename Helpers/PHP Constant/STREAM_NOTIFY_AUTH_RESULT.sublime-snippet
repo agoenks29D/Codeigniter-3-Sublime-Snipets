@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_NOTIFY_AUTH_RESULT
+]]>
+	</content>
+	<tabTrigger>STREAM_NOTIFY_AUTH_RESULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_NOTIFY_AUTH_RESULT</description>
+</snippet>

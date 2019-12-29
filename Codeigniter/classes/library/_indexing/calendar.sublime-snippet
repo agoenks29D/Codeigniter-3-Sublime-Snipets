@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+calendar
+]]>
+	</content>
+	<tabTrigger>_library_calendar</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Calendar Library</description>
+</snippet>

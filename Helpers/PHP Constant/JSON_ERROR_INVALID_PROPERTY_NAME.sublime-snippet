@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_ERROR_INVALID_PROPERTY_NAME
+]]>
+	</content>
+	<tabTrigger>JSON_ERROR_INVALID_PROPERTY_NAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_ERROR_INVALID_PROPERTY_NAME</description>
+</snippet>

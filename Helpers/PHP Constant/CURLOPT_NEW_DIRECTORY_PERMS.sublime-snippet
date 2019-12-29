@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_NEW_DIRECTORY_PERMS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_NEW_DIRECTORY_PERMS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_NEW_DIRECTORY_PERMS</description>
+</snippet>

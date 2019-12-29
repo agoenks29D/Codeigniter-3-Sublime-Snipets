@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_LOADED_VERSION
+]]>
+	</content>
+	<tabTrigger>LIBXML_LOADED_VERSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_LOADED_VERSION</description>
+</snippet>

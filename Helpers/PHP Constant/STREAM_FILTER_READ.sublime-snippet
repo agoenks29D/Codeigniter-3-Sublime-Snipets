@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_FILTER_READ
+]]>
+	</content>
+	<tabTrigger>STREAM_FILTER_READ</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_FILTER_READ</description>
+</snippet>

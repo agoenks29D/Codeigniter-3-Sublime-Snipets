@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LC_MONETARY
+]]>
+	</content>
+	<tabTrigger>LC_MONETARY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LC_MONETARY</description>
+</snippet>

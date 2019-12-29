@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+NIL
+]]>
+	</content>
+	<tabTrigger>NIL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - NIL</description>
+</snippet>

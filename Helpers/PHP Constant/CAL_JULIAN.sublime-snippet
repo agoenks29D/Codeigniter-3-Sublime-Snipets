@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_JULIAN
+]]>
+	</content>
+	<tabTrigger>CAL_JULIAN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_JULIAN</description>
+</snippet>

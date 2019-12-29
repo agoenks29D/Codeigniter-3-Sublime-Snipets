@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_REDIRECT_URL
+]]>
+	</content>
+	<tabTrigger>CURLINFO_REDIRECT_URL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_REDIRECT_URL</description>
+</snippet>

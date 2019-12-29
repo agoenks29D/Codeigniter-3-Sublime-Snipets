@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_LOCAL_NAMESPACE
+]]>
+	</content>
+	<tabTrigger>XML_LOCAL_NAMESPACE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_LOCAL_NAMESPACE</description>
+</snippet>

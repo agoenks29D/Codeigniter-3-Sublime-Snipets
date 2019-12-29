@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_UNMATCHED_AS_NULL
+]]>
+	</content>
+	<tabTrigger>PREG_UNMATCHED_AS_NULL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_UNMATCHED_AS_NULL</description>
+</snippet>

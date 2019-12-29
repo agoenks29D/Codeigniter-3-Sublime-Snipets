@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+UPLOAD_ERR_OK
+]]>
+	</content>
+	<tabTrigger>UPLOAD_ERR_OK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - UPLOAD_ERR_OK</description>
+</snippet>

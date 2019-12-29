@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Makassar
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Makassar</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Makassar</description>
+</snippet>

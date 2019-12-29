@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_BREAK
+]]>
+	</content>
+	<tabTrigger>T_BREAK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_BREAK</description>
+</snippet>

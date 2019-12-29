@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Australia/Eucla
+]]>
+	</content>
+	<tabTrigger>_timezone_Australia_Eucla</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Australia/Eucla</description>
+</snippet>

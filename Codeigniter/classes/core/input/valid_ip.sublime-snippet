@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->valid_ip('${1:ip_address}','${2:_ip_version}');
+]]>
+	</content>
+	<tabTrigger>valid_ip</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Input ~ Valid Ip</description>
+</snippet>

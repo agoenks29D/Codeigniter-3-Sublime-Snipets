@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Sofia
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Sofia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Sofia</description>
+</snippet>

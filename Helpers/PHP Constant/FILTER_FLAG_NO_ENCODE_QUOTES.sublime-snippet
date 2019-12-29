@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_FLAG_NO_ENCODE_QUOTES
+]]>
+	</content>
+	<tabTrigger>FILTER_FLAG_NO_ENCODE_QUOTES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_FLAG_NO_ENCODE_QUOTES</description>
+</snippet>

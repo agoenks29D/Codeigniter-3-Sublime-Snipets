@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_FILTER_EDGEDETECT
+]]>
+	</content>
+	<tabTrigger>IMG_FILTER_EDGEDETECT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_FILTER_EDGEDETECT</description>
+</snippet>

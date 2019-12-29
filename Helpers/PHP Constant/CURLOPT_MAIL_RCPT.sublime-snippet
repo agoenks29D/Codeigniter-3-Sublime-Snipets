@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_MAIL_RCPT
+]]>
+	</content>
+	<tabTrigger>CURLOPT_MAIL_RCPT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_MAIL_RCPT</description>
+</snippet>

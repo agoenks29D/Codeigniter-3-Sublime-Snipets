@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_START_HEREDOC
+]]>
+	</content>
+	<tabTrigger>T_START_HEREDOC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_START_HEREDOC</description>
+</snippet>

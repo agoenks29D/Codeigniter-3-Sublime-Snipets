@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ASSERT_EXCEPTION
+]]>
+	</content>
+	<tabTrigger>ASSERT_EXCEPTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ASSERT_EXCEPTION</description>
+</snippet>

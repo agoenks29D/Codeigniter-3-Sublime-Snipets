@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Montserrat
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Montserrat</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Montserrat</description>
+</snippet>

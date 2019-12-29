@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_ERROR_STATE_MISMATCH
+]]>
+	</content>
+	<tabTrigger>JSON_ERROR_STATE_MISMATCH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_ERROR_STATE_MISMATCH</description>
+</snippet>

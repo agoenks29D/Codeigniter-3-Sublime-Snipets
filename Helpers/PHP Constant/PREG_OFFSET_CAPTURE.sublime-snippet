@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_OFFSET_CAPTURE
+]]>
+	</content>
+	<tabTrigger>PREG_OFFSET_CAPTURE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_OFFSET_CAPTURE</description>
+</snippet>

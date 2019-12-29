@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->dbforge('${1:database}', ${2:\$return});
+]]>
+	</content>
+	<tabTrigger>load_dbforge</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load DB Forge</description>
+</snippet>

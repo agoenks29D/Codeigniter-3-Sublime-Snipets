@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HTTPAUTH
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HTTPAUTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HTTPAUTH</description>
+</snippet>

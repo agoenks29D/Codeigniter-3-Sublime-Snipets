@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_NOERROR
+]]>
+	</content>
+	<tabTrigger>LIBXML_NOERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_NOERROR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+html5
+]]>
+	</content>
+	<tabTrigger>_doctype_html5</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTML 5</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->patch('${1:key}')
+]]>
+	</content>
+	<tabTrigger>_patch</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - PATCH Parameter</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_BLACKMAN
+]]>
+	</content>
+	<tabTrigger>IMG_BLACKMAN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_BLACKMAN</description>
+</snippet>

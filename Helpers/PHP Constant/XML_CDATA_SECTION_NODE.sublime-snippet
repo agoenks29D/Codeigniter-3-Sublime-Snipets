@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_CDATA_SECTION_NODE
+]]>
+	</content>
+	<tabTrigger>XML_CDATA_SECTION_NODE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_CDATA_SECTION_NODE</description>
+</snippet>

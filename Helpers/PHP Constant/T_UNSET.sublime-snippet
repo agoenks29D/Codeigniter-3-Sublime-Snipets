@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_UNSET
+]]>
+	</content>
+	<tabTrigger>T_UNSET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_UNSET</description>
+</snippet>

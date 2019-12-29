@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+download
+]]>
+	</content>
+	<tabTrigger>_helper_download</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Download Helper</description>
+</snippet>

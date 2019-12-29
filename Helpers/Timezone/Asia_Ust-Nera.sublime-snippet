@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Ust-Nera
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Ust-Nera</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Ust-Nera</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FNM_CASEFOLD
+]]>
+	</content>
+	<tabTrigger>FNM_CASEFOLD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FNM_CASEFOLD</description>
+</snippet>

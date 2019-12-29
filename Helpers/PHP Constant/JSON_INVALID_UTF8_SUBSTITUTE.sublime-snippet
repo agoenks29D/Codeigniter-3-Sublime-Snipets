@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_INVALID_UTF8_SUBSTITUTE
+]]>
+	</content>
+	<tabTrigger>JSON_INVALID_UTF8_SUBSTITUTE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_INVALID_UTF8_SUBSTITUTE</description>
+</snippet>

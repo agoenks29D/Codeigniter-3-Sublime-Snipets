@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->append('${1:data}');
+]]>
+	</content>
+	<tabTrigger>output_append</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Append</description>
+</snippet>

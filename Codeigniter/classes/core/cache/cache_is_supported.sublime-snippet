@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->cache->is_supported('${1:_cache_drivers}');
+]]>
+	</content>
+	<tabTrigger>cache_is_supported</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Cache ~ Is Supported</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Palau
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Palau</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Palau</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_FNMATCHFUNC_NOMATCH
+]]>
+	</content>
+	<tabTrigger>CURL_FNMATCHFUNC_NOMATCH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_FNMATCHFUNC_NOMATCH</description>
+</snippet>

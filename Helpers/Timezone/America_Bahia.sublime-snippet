@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Bahia
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Bahia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Bahia</description>
+</snippet>

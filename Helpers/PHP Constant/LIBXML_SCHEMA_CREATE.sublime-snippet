@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_SCHEMA_CREATE
+]]>
+	</content>
+	<tabTrigger>LIBXML_SCHEMA_CREATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_SCHEMA_CREATE</description>
+</snippet>

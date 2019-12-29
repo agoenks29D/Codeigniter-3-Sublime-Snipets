@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OPENSSL_PKCS1_PADDING
+]]>
+	</content>
+	<tabTrigger>OPENSSL_PKCS1_PADDING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OPENSSL_PKCS1_PADDING</description>
+</snippet>

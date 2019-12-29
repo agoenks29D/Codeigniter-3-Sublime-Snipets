@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+xhtml11
+]]>
+	</content>
+	<tabTrigger>_doctype_xhtml11</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>XHTML 1.1</description>
+</snippet>

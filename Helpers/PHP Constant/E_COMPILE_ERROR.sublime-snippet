@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_COMPILE_ERROR
+]]>
+	</content>
+	<tabTrigger>E_COMPILE_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_COMPILE_ERROR</description>
+</snippet>

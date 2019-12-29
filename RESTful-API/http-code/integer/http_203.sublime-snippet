@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NON_AUTHORITATIVE_INFORMATION
+]]>
+	</content>
+	<tabTrigger>rest_http_203</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NON_AUTHORITATIVE_INFORMATION (203)</description>
+</snippet>

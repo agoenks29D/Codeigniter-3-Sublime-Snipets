@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_TELNET_OPTION_SYNTAX
+]]>
+	</content>
+	<tabTrigger>CURLE_TELNET_OPTION_SYNTAX</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_TELNET_OPTION_SYNTAX</description>
+</snippet>

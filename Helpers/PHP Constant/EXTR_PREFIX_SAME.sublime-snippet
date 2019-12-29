@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+EXTR_PREFIX_SAME
+]]>
+	</content>
+	<tabTrigger>EXTR_PREFIX_SAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - EXTR_PREFIX_SAME</description>
+</snippet>

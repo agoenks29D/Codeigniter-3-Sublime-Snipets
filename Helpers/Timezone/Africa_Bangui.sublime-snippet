@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Bangui
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Bangui</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Bangui</description>
+</snippet>

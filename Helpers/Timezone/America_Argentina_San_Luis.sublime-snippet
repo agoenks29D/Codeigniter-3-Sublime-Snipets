@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Argentina/San_Luis
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Argentina_San_Luis</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Argentina/San_Luis</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILEINFO_MIME_ENCODING
+]]>
+	</content>
+	<tabTrigger>FILEINFO_MIME_ENCODING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILEINFO_MIME_ENCODING</description>
+</snippet>

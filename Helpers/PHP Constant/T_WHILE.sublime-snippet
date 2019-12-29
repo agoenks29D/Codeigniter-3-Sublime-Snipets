@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_WHILE
+]]>
+	</content>
+	<tabTrigger>T_WHILE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_WHILE</description>
+</snippet>

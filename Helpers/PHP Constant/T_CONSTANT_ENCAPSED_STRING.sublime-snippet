@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CONSTANT_ENCAPSED_STRING
+]]>
+	</content>
+	<tabTrigger>T_CONSTANT_ENCAPSED_STRING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CONSTANT_ENCAPSED_STRING</description>
+</snippet>

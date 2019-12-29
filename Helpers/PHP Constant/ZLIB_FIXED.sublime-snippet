@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_FIXED
+]]>
+	</content>
+	<tabTrigger>ZLIB_FIXED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_FIXED</description>
+</snippet>

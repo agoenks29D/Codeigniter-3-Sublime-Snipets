@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Tokyo
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Tokyo</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Tokyo</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+html
+]]>
+	</content>
+	<tabTrigger>_helper_html</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Html Helper</description>
+</snippet>

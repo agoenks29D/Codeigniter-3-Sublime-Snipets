@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_INSUFFICIENT_STORAGE
+]]>
+	</content>
+	<tabTrigger>rest_http_507</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_INSUFFICIENT_STORAGE (507)</description>
+</snippet>

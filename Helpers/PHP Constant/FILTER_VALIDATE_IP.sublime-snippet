@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_VALIDATE_IP
+]]>
+	</content>
+	<tabTrigger>FILTER_VALIDATE_IP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_VALIDATE_IP</description>
+</snippet>

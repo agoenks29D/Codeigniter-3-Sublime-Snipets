@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_TCP_FASTOPEN
+]]>
+	</content>
+	<tabTrigger>CURLOPT_TCP_FASTOPEN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_TCP_FASTOPEN</description>
+</snippet>

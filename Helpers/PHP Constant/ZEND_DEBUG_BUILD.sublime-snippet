@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZEND_DEBUG_BUILD
+]]>
+	</content>
+	<tabTrigger>ZEND_DEBUG_BUILD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZEND_DEBUG_BUILD</description>
+</snippet>

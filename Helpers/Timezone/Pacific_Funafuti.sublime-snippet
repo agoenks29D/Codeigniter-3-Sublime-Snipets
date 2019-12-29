@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Funafuti
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Funafuti</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Funafuti</description>
+</snippet>

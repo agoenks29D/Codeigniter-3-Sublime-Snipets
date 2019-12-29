@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Jayapura
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Jayapura</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Jayapura</description>
+</snippet>

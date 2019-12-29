@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->add_package_path('${1:path}');
+]]>
+	</content>
+	<tabTrigger>load_add_package_path</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Add Package Path</description>
+</snippet>

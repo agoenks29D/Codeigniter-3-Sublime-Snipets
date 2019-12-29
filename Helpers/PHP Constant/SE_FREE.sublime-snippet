@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SE_FREE
+]]>
+	</content>
+	<tabTrigger>SE_FREE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SE_FREE</description>
+</snippet>

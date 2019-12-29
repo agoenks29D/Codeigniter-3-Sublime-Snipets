@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_TIGER128
+]]>
+	</content>
+	<tabTrigger>MHASH_TIGER128</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_TIGER128</description>
+</snippet>

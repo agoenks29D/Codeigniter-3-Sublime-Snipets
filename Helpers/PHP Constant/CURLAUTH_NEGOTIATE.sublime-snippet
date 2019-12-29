@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLAUTH_NEGOTIATE
+]]>
+	</content>
+	<tabTrigger>CURLAUTH_NEGOTIATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLAUTH_NEGOTIATE</description>
+</snippet>

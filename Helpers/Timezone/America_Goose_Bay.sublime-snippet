@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Goose_Bay
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Goose_Bay</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Goose_Bay</description>
+</snippet>

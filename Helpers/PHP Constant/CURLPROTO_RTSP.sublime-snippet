@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_RTSP
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_RTSP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_RTSP</description>
+</snippet>

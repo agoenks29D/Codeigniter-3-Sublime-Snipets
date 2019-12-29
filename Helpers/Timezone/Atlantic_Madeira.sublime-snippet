@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Atlantic/Madeira
+]]>
+	</content>
+	<tabTrigger>_timezone_Atlantic_Madeira</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Atlantic/Madeira</description>
+</snippet>

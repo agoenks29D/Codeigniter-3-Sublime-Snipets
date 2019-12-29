@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Manaus
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Manaus</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Manaus</description>
+</snippet>

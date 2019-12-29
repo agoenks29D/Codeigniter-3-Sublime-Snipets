@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_BINARY_ENTITY_REF
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_BINARY_ENTITY_REF</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_BINARY_ENTITY_REF</description>
+</snippet>

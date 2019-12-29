@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_ROUND_HALF_EVEN
+]]>
+	</content>
+	<tabTrigger>PHP_ROUND_HALF_EVEN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_ROUND_HALF_EVEN</description>
+</snippet>

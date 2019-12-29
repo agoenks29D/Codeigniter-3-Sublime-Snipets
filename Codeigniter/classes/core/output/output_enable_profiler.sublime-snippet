@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->enable_profiler('${1:true}');
+]]>
+	</content>
+	<tabTrigger>output_enable_profiler</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Enable Profiler</description>
+</snippet>

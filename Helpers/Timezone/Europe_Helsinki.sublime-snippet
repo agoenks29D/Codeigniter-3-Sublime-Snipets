@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Helsinki
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Helsinki</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Helsinki</description>
+</snippet>

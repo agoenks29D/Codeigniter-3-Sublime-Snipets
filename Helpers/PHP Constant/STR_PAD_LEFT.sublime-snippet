@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STR_PAD_LEFT
+]]>
+	</content>
+	<tabTrigger>STR_PAD_LEFT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STR_PAD_LEFT</description>
+</snippet>

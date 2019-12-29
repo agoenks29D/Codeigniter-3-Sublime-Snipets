@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FTP_FAILED
+]]>
+	</content>
+	<tabTrigger>FTP_FAILED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FTP_FAILED</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENT_HTML5
+]]>
+	</content>
+	<tabTrigger>ENT_HTML5</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENT_HTML5</description>
+</snippet>

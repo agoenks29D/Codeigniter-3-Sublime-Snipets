@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_NETRC_IGNORED
+]]>
+	</content>
+	<tabTrigger>CURL_NETRC_IGNORED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_NETRC_IGNORED</description>
+</snippet>

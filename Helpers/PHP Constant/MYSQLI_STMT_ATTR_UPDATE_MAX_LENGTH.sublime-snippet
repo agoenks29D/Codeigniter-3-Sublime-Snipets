@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_STMT_ATTR_UPDATE_MAX_LENGTH
+]]>
+	</content>
+	<tabTrigger>MYSQLI_STMT_ATTR_UPDATE_MAX_LENGTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_STMT_ATTR_UPDATE_MAX_LENGTH</description>
+</snippet>

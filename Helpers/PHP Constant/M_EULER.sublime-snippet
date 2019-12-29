@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+M_EULER
+]]>
+	</content>
+	<tabTrigger>M_EULER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - M_EULER</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_CONFLICT
+]]>
+	</content>
+	<tabTrigger>rest_http_409</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_CONFLICT (409)</description>
+</snippet>

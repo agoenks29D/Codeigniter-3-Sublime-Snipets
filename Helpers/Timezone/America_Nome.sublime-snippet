@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Nome
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Nome</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Nome</description>
+</snippet>

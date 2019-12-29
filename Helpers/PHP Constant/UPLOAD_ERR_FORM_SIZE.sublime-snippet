@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+UPLOAD_ERR_FORM_SIZE
+]]>
+	</content>
+	<tabTrigger>UPLOAD_ERR_FORM_SIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - UPLOAD_ERR_FORM_SIZE</description>
+</snippet>

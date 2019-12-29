@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SEEK_SET
+]]>
+	</content>
+	<tabTrigger>SEEK_SET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SEEK_SET</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->cache->delete('${1:id}');
+]]>
+	</content>
+	<tabTrigger>cache_delete</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Cache ~ Delete</description>
+</snippet>

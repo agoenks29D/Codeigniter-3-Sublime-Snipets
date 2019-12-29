@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SA_UNSEEN
+]]>
+	</content>
+	<tabTrigger>SA_UNSEEN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SA_UNSEEN</description>
+</snippet>

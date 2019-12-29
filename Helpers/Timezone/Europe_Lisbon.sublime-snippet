@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Lisbon
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Lisbon</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Lisbon</description>
+</snippet>

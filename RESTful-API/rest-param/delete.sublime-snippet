@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->delete('${1:key}')
+]]>
+	</content>
+	<tabTrigger>_delete</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - DELETE Parameter</description>
+</snippet>

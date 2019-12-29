@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Australia/Darwin
+]]>
+	</content>
+	<tabTrigger>_timezone_Australia_Darwin</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Australia/Darwin</description>
+</snippet>

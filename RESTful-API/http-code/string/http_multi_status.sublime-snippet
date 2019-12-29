@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_MULTI_STATUS
+]]>
+	</content>
+	<tabTrigger>rest_http_multi_status</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_MULTI_STATUS (207)</description>
+</snippet>

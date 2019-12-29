@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Johannesburg
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Johannesburg</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Johannesburg</description>
+</snippet>

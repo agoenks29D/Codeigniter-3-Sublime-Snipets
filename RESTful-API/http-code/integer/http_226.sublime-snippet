@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_IM_USED
+]]>
+	</content>
+	<tabTrigger>rest_http_226</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_IM_USED (226)</description>
+</snippet>

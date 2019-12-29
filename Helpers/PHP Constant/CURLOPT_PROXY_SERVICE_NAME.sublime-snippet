@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PROXY_SERVICE_NAME
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PROXY_SERVICE_NAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PROXY_SERVICE_NAME</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+smiley
+]]>
+	</content>
+	<tabTrigger>_helper_smiley</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Smiley Helper</description>
+</snippet>

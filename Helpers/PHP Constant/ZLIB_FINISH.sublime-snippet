@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_FINISH
+]]>
+	</content>
+	<tabTrigger>ZLIB_FINISH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_FINISH</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_BIGINT_AS_STRING
+]]>
+	</content>
+	<tabTrigger>JSON_BIGINT_AS_STRING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_BIGINT_AS_STRING</description>
+</snippet>

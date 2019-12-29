@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PATH_SEPARATOR
+]]>
+	</content>
+	<tabTrigger>PATH_SEPARATOR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PATH_SEPARATOR</description>
+</snippet>

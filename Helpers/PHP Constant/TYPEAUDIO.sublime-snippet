@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+TYPEAUDIO
+]]>
+	</content>
+	<tabTrigger>TYPEAUDIO</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - TYPEAUDIO</description>
+</snippet>

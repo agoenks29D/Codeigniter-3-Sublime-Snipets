@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_BUFFERSIZE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_BUFFERSIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_BUFFERSIZE</description>
+</snippet>

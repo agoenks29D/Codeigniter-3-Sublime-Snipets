@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_OPTION_SKIP_WHITE
+]]>
+	</content>
+	<tabTrigger>XML_OPTION_SKIP_WHITE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_OPTION_SKIP_WHITE</description>
+</snippet>

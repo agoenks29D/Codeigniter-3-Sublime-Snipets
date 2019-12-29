@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->fetch_module();
+]]>
+	</content>
+	<tabTrigger>router_fetch_module</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter HMVC - Router Fetch Module</description>
+</snippet>

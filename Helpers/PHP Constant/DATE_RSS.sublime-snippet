@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DATE_RSS
+]]>
+	</content>
+	<tabTrigger>DATE_RSS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DATE_RSS</description>
+</snippet>

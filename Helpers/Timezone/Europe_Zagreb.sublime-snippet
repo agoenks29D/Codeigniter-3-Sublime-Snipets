@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Zagreb
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Zagreb</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Zagreb</description>
+</snippet>

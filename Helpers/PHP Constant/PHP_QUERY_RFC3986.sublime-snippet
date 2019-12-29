@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_QUERY_RFC3986
+]]>
+	</content>
+	<tabTrigger>PHP_QUERY_RFC3986</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_QUERY_RFC3986</description>
+</snippet>

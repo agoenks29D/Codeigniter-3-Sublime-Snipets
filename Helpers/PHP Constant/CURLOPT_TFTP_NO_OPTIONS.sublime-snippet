@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_TFTP_NO_OPTIONS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_TFTP_NO_OPTIONS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_TFTP_NO_OPTIONS</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Vaduz
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Vaduz</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Vaduz</description>
+</snippet>

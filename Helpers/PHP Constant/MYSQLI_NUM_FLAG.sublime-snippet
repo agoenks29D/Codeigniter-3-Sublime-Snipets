@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_NUM_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_NUM_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_NUM_FLAG</description>
+</snippet>

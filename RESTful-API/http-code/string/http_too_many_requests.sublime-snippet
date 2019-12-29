@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_TOO_MANY_REQUESTS
+]]>
+	</content>
+	<tabTrigger>rest_http_too_many_requests</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_TOO_MANY_REQUESTS (429)</description>
+</snippet>

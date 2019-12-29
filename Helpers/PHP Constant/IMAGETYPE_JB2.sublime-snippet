@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_JB2
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_JB2</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_JB2</description>
+</snippet>

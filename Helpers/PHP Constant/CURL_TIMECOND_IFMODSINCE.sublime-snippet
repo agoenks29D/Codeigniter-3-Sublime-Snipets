@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_TIMECOND_IFMODSINCE
+]]>
+	</content>
+	<tabTrigger>CURL_TIMECOND_IFMODSINCE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_TIMECOND_IFMODSINCE</description>
+</snippet>

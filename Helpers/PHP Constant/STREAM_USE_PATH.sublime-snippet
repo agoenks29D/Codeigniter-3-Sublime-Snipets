@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_USE_PATH
+]]>
+	</content>
+	<tabTrigger>STREAM_USE_PATH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_USE_PATH</description>
+</snippet>

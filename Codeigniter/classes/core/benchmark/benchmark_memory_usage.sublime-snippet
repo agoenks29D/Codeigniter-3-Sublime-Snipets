@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->benchmark->memory_usage();
+]]>
+	</content>
+	<tabTrigger>benchmark_memory_usage</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Benchmark ~ Memory Usage</description>
+</snippet>

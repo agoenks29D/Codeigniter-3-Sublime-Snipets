@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_BAD_GATEWAY
+]]>
+	</content>
+	<tabTrigger>rest_http_bad_gateway</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_BAD_GATEWAY (502)</description>
+</snippet>

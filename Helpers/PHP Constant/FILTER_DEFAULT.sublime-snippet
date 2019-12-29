@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_DEFAULT
+]]>
+	</content>
+	<tabTrigger>FILTER_DEFAULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_DEFAULT</description>
+</snippet>

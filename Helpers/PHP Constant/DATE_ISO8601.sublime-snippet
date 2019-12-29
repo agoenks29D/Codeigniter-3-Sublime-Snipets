@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DATE_ISO8601
+]]>
+	</content>
+	<tabTrigger>DATE_ISO8601</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DATE_ISO8601</description>
+</snippet>

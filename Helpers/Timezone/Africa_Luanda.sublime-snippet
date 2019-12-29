@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Luanda
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Luanda</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Luanda</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+GLOB_AVAILABLE_FLAGS
+]]>
+	</content>
+	<tabTrigger>GLOB_AVAILABLE_FLAGS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - GLOB_AVAILABLE_FLAGS</description>
+</snippet>

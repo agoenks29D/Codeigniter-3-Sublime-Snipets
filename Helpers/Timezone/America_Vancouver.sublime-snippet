@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Vancouver
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Vancouver</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Vancouver</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLM_CALL_MULTI_PERFORM
+]]>
+	</content>
+	<tabTrigger>CURLM_CALL_MULTI_PERFORM</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLM_CALL_MULTI_PERFORM</description>
+</snippet>

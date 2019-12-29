@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Abidjan
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Abidjan</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Abidjan</description>
+</snippet>

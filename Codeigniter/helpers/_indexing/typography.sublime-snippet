@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+typography
+]]>
+	</content>
+	<tabTrigger>_helper_typography</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Typography Helper</description>
+</snippet>

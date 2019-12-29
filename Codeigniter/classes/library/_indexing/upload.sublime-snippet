@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+upload
+]]>
+	</content>
+	<tabTrigger>_library_upload</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Upload Library</description>
+</snippet>

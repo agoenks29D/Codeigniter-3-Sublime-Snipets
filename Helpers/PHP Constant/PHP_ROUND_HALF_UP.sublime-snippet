@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_ROUND_HALF_UP
+]]>
+	</content>
+	<tabTrigger>PHP_ROUND_HALF_UP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_ROUND_HALF_UP</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Tegucigalpa
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Tegucigalpa</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Tegucigalpa</description>
+</snippet>

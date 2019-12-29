@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->request_headers();
+]]>
+	</content>
+	<tabTrigger>request_headers</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Request Headers</description>
+</snippet>

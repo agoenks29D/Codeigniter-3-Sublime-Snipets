@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENCBASE64
+]]>
+	</content>
+	<tabTrigger>ENCBASE64</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENCBASE64</description>
+</snippet>

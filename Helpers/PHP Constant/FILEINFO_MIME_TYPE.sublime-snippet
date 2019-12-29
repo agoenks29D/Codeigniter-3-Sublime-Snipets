@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILEINFO_MIME_TYPE
+]]>
+	</content>
+	<tabTrigger>FILEINFO_MIME_TYPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILEINFO_MIME_TYPE</description>
+</snippet>

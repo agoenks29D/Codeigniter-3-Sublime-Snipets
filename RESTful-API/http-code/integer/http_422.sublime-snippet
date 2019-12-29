@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_UNPROCESSABLE_ENTITY
+]]>
+	</content>
+	<tabTrigger>rest_http_422</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_UNPROCESSABLE_ENTITY (422)</description>
+</snippet>

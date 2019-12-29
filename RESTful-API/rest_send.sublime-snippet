@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->set_header(${1:rest_http_});
+\$this->send_response('${2:rests_}', ${4:array(
+)});
+]]>
+	</content>
+	<tabTrigger>res_send</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - RESTful Send Response</description>
+</snippet>

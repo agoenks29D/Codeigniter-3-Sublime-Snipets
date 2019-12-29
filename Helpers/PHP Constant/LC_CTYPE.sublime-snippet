@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LC_CTYPE
+]]>
+	</content>
+	<tabTrigger>LC_CTYPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LC_CTYPE</description>
+</snippet>

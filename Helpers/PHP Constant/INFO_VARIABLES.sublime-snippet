@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INFO_VARIABLES
+]]>
+	</content>
+	<tabTrigger>INFO_VARIABLES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INFO_VARIABLES</description>
+</snippet>

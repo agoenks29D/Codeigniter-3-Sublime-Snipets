@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_OPERATION_TIMEOUTED
+]]>
+	</content>
+	<tabTrigger>CURLE_OPERATION_TIMEOUTED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_OPERATION_TIMEOUTED</description>
+</snippet>

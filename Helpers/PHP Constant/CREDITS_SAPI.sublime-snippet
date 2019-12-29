@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CREDITS_SAPI
+]]>
+	</content>
+	<tabTrigger>CREDITS_SAPI</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CREDITS_SAPI</description>
+</snippet>

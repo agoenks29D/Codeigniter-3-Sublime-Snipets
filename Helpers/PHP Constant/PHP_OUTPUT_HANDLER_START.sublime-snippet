@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_OUTPUT_HANDLER_START
+]]>
+	</content>
+	<tabTrigger>PHP_OUTPUT_HANDLER_START</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_OUTPUT_HANDLER_START</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Isle_of_Man
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Isle_of_Man</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Isle_of_Man</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OPENSSL_DONT_ZERO_PAD_KEY
+]]>
+	</content>
+	<tabTrigger>OPENSSL_DONT_ZERO_PAD_KEY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OPENSSL_DONT_ZERO_PAD_KEY</description>
+</snippet>

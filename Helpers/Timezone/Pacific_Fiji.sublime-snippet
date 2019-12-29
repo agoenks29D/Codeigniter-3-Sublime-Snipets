@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Fiji
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Fiji</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Fiji</description>
+</snippet>

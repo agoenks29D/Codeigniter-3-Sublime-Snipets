@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OPENSSL_KEYTYPE_RSA
+]]>
+	</content>
+	<tabTrigger>OPENSSL_KEYTYPE_RSA</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OPENSSL_KEYTYPE_RSA</description>
+</snippet>

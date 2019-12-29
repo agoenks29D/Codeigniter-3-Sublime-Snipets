@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_ENCAPSED_AND_WHITESPACE
+]]>
+	</content>
+	<tabTrigger>T_ENCAPSED_AND_WHITESPACE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_ENCAPSED_AND_WHITESPACE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ASSERT_CALLBACK
+]]>
+	</content>
+	<tabTrigger>ASSERT_CALLBACK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ASSERT_CALLBACK</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_REFRESH_TABLES
+]]>
+	</content>
+	<tabTrigger>MYSQLI_REFRESH_TABLES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_REFRESH_TABLES</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_REQUEST_TIMEOUT
+]]>
+	</content>
+	<tabTrigger>rest_http_408</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_REQUEST_TIMEOUT (408)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SO_NOSERVER
+]]>
+	</content>
+	<tabTrigger>SO_NOSERVER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SO_NOSERVER</description>
+</snippet>

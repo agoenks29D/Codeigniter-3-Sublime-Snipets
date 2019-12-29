@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CONNECTION_NORMAL
+]]>
+	</content>
+	<tabTrigger>CONNECTION_NORMAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CONNECTION_NORMAL</description>
+</snippet>

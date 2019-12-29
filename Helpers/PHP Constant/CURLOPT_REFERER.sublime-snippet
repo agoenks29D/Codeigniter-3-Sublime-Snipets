@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_REFERER
+]]>
+	</content>
+	<tabTrigger>CURLOPT_REFERER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_REFERER</description>
+</snippet>

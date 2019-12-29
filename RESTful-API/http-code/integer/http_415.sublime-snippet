@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_UNSUPPORTED_MEDIA_TYPE
+]]>
+	</content>
+	<tabTrigger>rest_http_415</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_UNSUPPORTED_MEDIA_TYPE (415)</description>
+</snippet>

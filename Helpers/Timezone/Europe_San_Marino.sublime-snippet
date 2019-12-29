@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/San_Marino
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_San_Marino</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/San_Marino</description>
+</snippet>

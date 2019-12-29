@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_LPR
+]]>
+	</content>
+	<tabTrigger>LOG_LPR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_LPR</description>
+</snippet>

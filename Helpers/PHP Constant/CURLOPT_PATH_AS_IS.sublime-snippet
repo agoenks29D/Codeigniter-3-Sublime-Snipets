@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PATH_AS_IS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PATH_AS_IS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PATH_AS_IS</description>
+</snippet>

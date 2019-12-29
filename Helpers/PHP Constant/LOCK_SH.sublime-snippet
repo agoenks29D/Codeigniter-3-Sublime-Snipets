@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOCK_SH
+]]>
+	</content>
+	<tabTrigger>LOCK_SH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOCK_SH</description>
+</snippet>

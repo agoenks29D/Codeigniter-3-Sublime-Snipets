@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DOM_INVALID_ACCESS_ERR
+]]>
+	</content>
+	<tabTrigger>DOM_INVALID_ACCESS_ERR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DOM_INVALID_ACCESS_ERR</description>
+</snippet>

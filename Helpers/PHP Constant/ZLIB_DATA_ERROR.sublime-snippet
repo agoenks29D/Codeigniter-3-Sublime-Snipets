@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_DATA_ERROR
+]]>
+	</content>
+	<tabTrigger>ZLIB_DATA_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_DATA_ERROR</description>
+</snippet>

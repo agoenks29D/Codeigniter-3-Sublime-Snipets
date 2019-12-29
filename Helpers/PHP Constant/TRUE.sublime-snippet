@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+TRUE
+]]>
+	</content>
+	<tabTrigger>TRUE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - TRUE</description>
+</snippet>

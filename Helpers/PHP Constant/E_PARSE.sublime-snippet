@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_PARSE
+]]>
+	</content>
+	<tabTrigger>E_PARSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_PARSE</description>
+</snippet>

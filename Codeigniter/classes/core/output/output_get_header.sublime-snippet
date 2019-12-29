@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->get_header('${1:header}');
+]]>
+	</content>
+	<tabTrigger>output_get_header</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Get Header</description>
+</snippet>

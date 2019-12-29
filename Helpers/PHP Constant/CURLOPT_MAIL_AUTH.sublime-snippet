@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_MAIL_AUTH
+]]>
+	</content>
+	<tabTrigger>CURLOPT_MAIL_AUTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_MAIL_AUTH</description>
+</snippet>

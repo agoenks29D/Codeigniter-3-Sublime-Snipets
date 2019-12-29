@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_PROCESSING
+]]>
+	</content>
+	<tabTrigger>rest_http_102</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_PROCESSING (102)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_EXPECTATION_FAILED
+]]>
+	</content>
+	<tabTrigger>rest_http_417</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_EXPECTATION_FAILED (417)</description>
+</snippet>

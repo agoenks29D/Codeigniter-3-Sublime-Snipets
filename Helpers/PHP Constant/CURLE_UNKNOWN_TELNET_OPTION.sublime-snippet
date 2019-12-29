@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_UNKNOWN_TELNET_OPTION
+]]>
+	</content>
+	<tabTrigger>CURLE_UNKNOWN_TELNET_OPTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_UNKNOWN_TELNET_OPTION</description>
+</snippet>

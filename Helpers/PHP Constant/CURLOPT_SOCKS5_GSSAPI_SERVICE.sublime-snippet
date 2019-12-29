@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_SOCKS5_GSSAPI_SERVICE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_SOCKS5_GSSAPI_SERVICE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_SOCKS5_GSSAPI_SERVICE</description>
+</snippet>

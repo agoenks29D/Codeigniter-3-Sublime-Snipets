@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_AUTO_INCREMENT_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_AUTO_INCREMENT_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_AUTO_INCREMENT_FLAG</description>
+</snippet>

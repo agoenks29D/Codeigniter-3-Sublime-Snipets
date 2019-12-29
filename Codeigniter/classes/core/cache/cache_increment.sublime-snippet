@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->cache->increment('${1:id}');
+]]>
+	</content>
+	<tabTrigger>cache_increment</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Cache ~ Increment</description>
+</snippet>

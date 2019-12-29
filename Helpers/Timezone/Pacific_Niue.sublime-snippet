@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Niue
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Niue</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Niue</description>
+</snippet>

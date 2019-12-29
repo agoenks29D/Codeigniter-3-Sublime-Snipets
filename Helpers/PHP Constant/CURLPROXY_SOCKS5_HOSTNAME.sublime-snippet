@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROXY_SOCKS5_HOSTNAME
+]]>
+	</content>
+	<tabTrigger>CURLPROXY_SOCKS5_HOSTNAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROXY_SOCKS5_HOSTNAME</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ftp
+]]>
+	</content>
+	<tabTrigger>_library_ftp</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Ftp Library</description>
+</snippet>

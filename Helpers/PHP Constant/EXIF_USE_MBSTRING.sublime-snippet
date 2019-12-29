@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+EXIF_USE_MBSTRING
+]]>
+	</content>
+	<tabTrigger>EXIF_USE_MBSTRING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - EXIF_USE_MBSTRING</description>
+</snippet>

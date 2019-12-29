@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_SANITIZE_FULL_SPECIAL_CHARS
+]]>
+	</content>
+	<tabTrigger>FILTER_SANITIZE_FULL_SPECIAL_CHARS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_SANITIZE_FULL_SPECIAL_CHARS</description>
+</snippet>

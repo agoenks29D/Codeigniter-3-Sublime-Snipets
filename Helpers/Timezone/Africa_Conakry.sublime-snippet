@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Conakry
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Conakry</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Conakry</description>
+</snippet>

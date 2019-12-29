@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_NUM_CALS
+]]>
+	</content>
+	<tabTrigger>CAL_NUM_CALS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_NUM_CALS</description>
+</snippet>

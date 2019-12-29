@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_URL_STAT_LINK
+]]>
+	</content>
+	<tabTrigger>STREAM_URL_STAT_LINK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_URL_STAT_LINK</description>
+</snippet>

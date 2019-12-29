@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_IPPROTO_UDP
+]]>
+	</content>
+	<tabTrigger>STREAM_IPPROTO_UDP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_IPPROTO_UDP</description>
+</snippet>

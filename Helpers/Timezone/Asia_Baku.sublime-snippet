@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Baku
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Baku</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Baku</description>
+</snippet>

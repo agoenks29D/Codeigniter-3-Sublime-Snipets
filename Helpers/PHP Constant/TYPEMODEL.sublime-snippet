@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+TYPEMODEL
+]]>
+	</content>
+	<tabTrigger>TYPEMODEL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - TYPEMODEL</description>
+</snippet>

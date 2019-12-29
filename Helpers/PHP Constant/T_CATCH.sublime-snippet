@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CATCH
+]]>
+	</content>
+	<tabTrigger>T_CATCH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CATCH</description>
+</snippet>

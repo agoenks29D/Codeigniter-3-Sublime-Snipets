@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_SERVER_QUERY_NO_GOOD_INDEX_USED
+]]>
+	</content>
+	<tabTrigger>MYSQLI_SERVER_QUERY_NO_GOOD_INDEX_USED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_SERVER_QUERY_NO_GOOD_INDEX_USED</description>
+</snippet>

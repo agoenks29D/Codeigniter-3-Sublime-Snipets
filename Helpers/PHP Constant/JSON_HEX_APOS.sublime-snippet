@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_HEX_APOS
+]]>
+	</content>
+	<tabTrigger>JSON_HEX_APOS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_HEX_APOS</description>
+</snippet>

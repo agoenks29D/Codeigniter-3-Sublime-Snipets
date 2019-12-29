@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->get_var('${1:key}');
+]]>
+	</content>
+	<tabTrigger>load_get_var</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Get Var</description>
+</snippet>

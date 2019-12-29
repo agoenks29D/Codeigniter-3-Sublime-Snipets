@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_HEADER_OUT
+]]>
+	</content>
+	<tabTrigger>CURLINFO_HEADER_OUT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_HEADER_OUT</description>
+</snippet>

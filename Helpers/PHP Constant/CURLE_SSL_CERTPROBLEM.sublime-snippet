@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_SSL_CERTPROBLEM
+]]>
+	</content>
+	<tabTrigger>CURLE_SSL_CERTPROBLEM</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_SSL_CERTPROBLEM</description>
+</snippet>

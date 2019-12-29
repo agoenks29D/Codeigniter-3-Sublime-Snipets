@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ATTRIBUTE_NMTOKENS
+]]>
+	</content>
+	<tabTrigger>XML_ATTRIBUTE_NMTOKENS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ATTRIBUTE_NMTOKENS</description>
+</snippet>

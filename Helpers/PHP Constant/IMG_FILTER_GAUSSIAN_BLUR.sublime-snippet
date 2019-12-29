@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_FILTER_GAUSSIAN_BLUR
+]]>
+	</content>
+	<tabTrigger>IMG_FILTER_GAUSSIAN_BLUR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_FILTER_GAUSSIAN_BLUR</description>
+</snippet>

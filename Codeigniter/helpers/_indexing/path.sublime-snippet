@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+path
+]]>
+	</content>
+	<tabTrigger>_helper_path</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Path Helper</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_FOUND
+]]>
+	</content>
+	<tabTrigger>rest_http_302</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_FOUND (302)</description>
+</snippet>

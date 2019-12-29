@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_FLAG_NO_PRIV_RANGE
+]]>
+	</content>
+	<tabTrigger>FILTER_FLAG_NO_PRIV_RANGE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_FLAG_NO_PRIV_RANGE</description>
+</snippet>

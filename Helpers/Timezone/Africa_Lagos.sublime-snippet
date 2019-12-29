@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Lagos
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Lagos</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Lagos</description>
+</snippet>

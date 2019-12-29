@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+<![CDATA[
+public function ${1:index}_head()
+{
+	$2
+}
+]]>
+	</content>
+	<tabTrigger>rest_head</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - HEAD</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+mathml1
+]]>
+	</content>
+	<tabTrigger>_doctype_mathml1</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>MathML 1.01</description>
+</snippet>

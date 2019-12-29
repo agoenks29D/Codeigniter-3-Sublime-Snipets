@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_HTTP_RANGE_ERROR
+]]>
+	</content>
+	<tabTrigger>CURLE_HTTP_RANGE_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_HTTP_RANGE_ERROR</description>
+</snippet>

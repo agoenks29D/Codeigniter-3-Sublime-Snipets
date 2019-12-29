@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_IPRESOLVE_V4
+]]>
+	</content>
+	<tabTrigger>CURL_IPRESOLVE_V4</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_IPRESOLVE_V4</description>
+</snippet>

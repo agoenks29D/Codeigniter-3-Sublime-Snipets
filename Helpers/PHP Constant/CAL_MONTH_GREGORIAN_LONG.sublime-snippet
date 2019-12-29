@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_MONTH_GREGORIAN_LONG
+]]>
+	</content>
+	<tabTrigger>CAL_MONTH_GREGORIAN_LONG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_MONTH_GREGORIAN_LONG</description>
+</snippet>

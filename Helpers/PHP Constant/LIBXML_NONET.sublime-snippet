@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_NONET
+]]>
+	</content>
+	<tabTrigger>LIBXML_NONET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_NONET</description>
+</snippet>

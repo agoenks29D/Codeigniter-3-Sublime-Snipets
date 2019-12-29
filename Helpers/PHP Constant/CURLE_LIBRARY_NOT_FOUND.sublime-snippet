@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_LIBRARY_NOT_FOUND
+]]>
+	</content>
+	<tabTrigger>CURLE_LIBRARY_NOT_FOUND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_LIBRARY_NOT_FOUND</description>
+</snippet>

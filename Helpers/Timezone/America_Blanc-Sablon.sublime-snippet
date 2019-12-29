@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Blanc-Sablon
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Blanc-Sablon</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Blanc-Sablon</description>
+</snippet>

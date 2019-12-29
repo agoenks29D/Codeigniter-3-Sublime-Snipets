@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_BOTH
+]]>
+	</content>
+	<tabTrigger>MYSQLI_BOTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_BOTH</description>
+</snippet>

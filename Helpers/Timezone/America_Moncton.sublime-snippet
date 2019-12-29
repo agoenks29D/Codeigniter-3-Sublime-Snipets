@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Moncton
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Moncton</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Moncton</description>
+</snippet>

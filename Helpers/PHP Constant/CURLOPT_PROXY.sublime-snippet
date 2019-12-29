@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PROXY
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PROXY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PROXY</description>
+</snippet>

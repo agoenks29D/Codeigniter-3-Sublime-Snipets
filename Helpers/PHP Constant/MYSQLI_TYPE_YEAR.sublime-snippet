@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TYPE_YEAR
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TYPE_YEAR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TYPE_YEAR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->is_ajax_request();
+]]>
+	</content>
+	<tabTrigger>is_ajax_request</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Is Ajax Request</description>
+</snippet>

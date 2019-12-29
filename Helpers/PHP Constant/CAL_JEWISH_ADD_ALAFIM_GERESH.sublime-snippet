@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_JEWISH_ADD_ALAFIM_GERESH
+]]>
+	</content>
+	<tabTrigger>CAL_JEWISH_ADD_ALAFIM_GERESH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_JEWISH_ADD_ALAFIM_GERESH</description>
+</snippet>

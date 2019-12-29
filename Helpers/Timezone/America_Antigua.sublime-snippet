@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Antigua
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Antigua</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Antigua</description>
+</snippet>

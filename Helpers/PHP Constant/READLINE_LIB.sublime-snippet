@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+READLINE_LIB
+]]>
+	</content>
+	<tabTrigger>READLINE_LIB</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - READLINE_LIB</description>
+</snippet>

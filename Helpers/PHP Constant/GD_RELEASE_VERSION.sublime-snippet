@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+GD_RELEASE_VERSION
+]]>
+	</content>
+	<tabTrigger>GD_RELEASE_VERSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - GD_RELEASE_VERSION</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_DUPLICATE_ATTRIBUTE
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_DUPLICATE_ATTRIBUTE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_DUPLICATE_ATTRIBUTE</description>
+</snippet>

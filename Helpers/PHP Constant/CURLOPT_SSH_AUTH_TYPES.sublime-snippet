@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_SSH_AUTH_TYPES
+]]>
+	</content>
+	<tabTrigger>CURLOPT_SSH_AUTH_TYPES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_SSH_AUTH_TYPES</description>
+</snippet>

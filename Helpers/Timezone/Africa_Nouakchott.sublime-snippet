@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Nouakchott
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Nouakchott</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Nouakchott</description>
+</snippet>

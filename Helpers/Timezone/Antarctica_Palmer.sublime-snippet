@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Antarctica/Palmer
+]]>
+	</content>
+	<tabTrigger>_timezone_Antarctica_Palmer</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Antarctica/Palmer</description>
+</snippet>

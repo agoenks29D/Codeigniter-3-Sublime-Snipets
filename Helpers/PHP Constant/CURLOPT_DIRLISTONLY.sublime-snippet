@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_DIRLISTONLY
+]]>
+	</content>
+	<tabTrigger>CURLOPT_DIRLISTONLY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_DIRLISTONLY</description>
+</snippet>

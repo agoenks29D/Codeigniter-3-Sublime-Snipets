@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Pohnpei
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Pohnpei</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Pohnpei</description>
+</snippet>

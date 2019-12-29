@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_COULDNT_RESOLVE_PROXY
+]]>
+	</content>
+	<tabTrigger>CURLE_COULDNT_RESOLVE_PROXY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_COULDNT_RESOLVE_PROXY</description>
+</snippet>

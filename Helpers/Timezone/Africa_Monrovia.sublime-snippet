@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Monrovia
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Monrovia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Monrovia</description>
+</snippet>

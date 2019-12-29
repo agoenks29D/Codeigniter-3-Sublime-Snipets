@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Phoenix
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Phoenix</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Phoenix</description>
+</snippet>

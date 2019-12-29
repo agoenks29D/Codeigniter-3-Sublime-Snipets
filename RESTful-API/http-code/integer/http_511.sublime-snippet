@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NETWORK_AUTHENTICATION_REQUIRED
+]]>
+	</content>
+	<tabTrigger>rest_http_511</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NETWORK_AUTHENTICATION_REQUIRED (511)</description>
+</snippet>

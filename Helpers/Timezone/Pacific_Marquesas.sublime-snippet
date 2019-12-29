@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Marquesas
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Marquesas</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Marquesas</description>
+</snippet>

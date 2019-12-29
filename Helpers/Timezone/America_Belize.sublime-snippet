@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Belize
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Belize</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Belize</description>
+</snippet>

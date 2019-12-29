@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLSSH_AUTH_PUBLICKEY
+]]>
+	</content>
+	<tabTrigger>CURLSSH_AUTH_PUBLICKEY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLSSH_AUTH_PUBLICKEY</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_SSLCERTTYPE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_SSLCERTTYPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_SSLCERTTYPE</description>
+</snippet>

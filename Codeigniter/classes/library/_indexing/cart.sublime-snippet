@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+cart
+]]>
+	</content>
+	<tabTrigger>_library_cart</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Cart Library</description>
+</snippet>

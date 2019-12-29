@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLMOPT_MAX_PIPELINE_LENGTH
+]]>
+	</content>
+	<tabTrigger>CURLMOPT_MAX_PIPELINE_LENGTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLMOPT_MAX_PIPELINE_LENGTH</description>
+</snippet>

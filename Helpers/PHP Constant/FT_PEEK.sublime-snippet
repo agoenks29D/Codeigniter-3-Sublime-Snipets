@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FT_PEEK
+]]>
+	</content>
+	<tabTrigger>FT_PEEK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FT_PEEK</description>
+</snippet>

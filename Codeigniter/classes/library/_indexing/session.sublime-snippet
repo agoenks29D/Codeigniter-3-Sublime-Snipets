@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+session
+]]>
+	</content>
+	<tabTrigger>_library_session</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Session Library</description>
+</snippet>

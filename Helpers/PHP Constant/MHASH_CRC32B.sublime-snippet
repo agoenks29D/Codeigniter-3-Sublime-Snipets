@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_CRC32B
+]]>
+	</content>
+	<tabTrigger>MHASH_CRC32B</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_CRC32B</description>
+</snippet>

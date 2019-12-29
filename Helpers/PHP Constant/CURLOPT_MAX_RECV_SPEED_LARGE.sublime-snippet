@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_MAX_RECV_SPEED_LARGE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_MAX_RECV_SPEED_LARGE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_MAX_RECV_SPEED_LARGE</description>
+</snippet>

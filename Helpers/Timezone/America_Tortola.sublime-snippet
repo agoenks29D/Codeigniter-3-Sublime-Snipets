@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Tortola
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Tortola</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Tortola</description>
+</snippet>

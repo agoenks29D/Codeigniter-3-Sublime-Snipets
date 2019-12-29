@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Auckland
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Auckland</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Auckland</description>
+</snippet>

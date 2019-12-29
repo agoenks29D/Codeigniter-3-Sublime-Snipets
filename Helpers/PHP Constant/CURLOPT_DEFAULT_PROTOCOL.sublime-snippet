@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_DEFAULT_PROTOCOL
+]]>
+	</content>
+	<tabTrigger>CURLOPT_DEFAULT_PROTOCOL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_DEFAULT_PROTOCOL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+M_E
+]]>
+	</content>
+	<tabTrigger>M_E</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - M_E</description>
+</snippet>

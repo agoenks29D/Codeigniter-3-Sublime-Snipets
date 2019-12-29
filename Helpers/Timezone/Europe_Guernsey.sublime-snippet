@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Guernsey
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Guernsey</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Guernsey</description>
+</snippet>

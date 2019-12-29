@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_RETURN
+]]>
+	</content>
+	<tabTrigger>T_RETURN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_RETURN</description>
+</snippet>

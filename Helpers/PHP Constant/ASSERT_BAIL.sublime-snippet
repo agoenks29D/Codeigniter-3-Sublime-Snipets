@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ASSERT_BAIL
+]]>
+	</content>
+	<tabTrigger>ASSERT_BAIL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ASSERT_BAIL</description>
+</snippet>

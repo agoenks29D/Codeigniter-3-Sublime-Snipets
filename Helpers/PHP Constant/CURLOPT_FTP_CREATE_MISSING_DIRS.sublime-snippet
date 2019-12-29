@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FTP_CREATE_MISSING_DIRS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FTP_CREATE_MISSING_DIRS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FTP_CREATE_MISSING_DIRS</description>
+</snippet>

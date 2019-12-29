@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_USE_RESULT
+]]>
+	</content>
+	<tabTrigger>MYSQLI_USE_RESULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_USE_RESULT</description>
+</snippet>

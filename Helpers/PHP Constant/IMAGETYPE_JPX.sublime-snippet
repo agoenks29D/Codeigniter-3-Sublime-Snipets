@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_JPX
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_JPX</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_JPX</description>
+</snippet>

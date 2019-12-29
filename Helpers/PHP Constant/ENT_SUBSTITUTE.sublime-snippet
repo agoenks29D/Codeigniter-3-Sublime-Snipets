@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENT_SUBSTITUTE
+]]>
+	</content>
+	<tabTrigger>ENT_SUBSTITUTE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENT_SUBSTITUTE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TRANS_START_READ_ONLY
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TRANS_START_READ_ONLY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TRANS_START_READ_ONLY</description>
+</snippet>

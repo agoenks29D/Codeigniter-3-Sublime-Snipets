@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_VERSION_NOT_SUPPORTED
+]]>
+	</content>
+	<tabTrigger>rest_http_505</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_VERSION_NOT_SUPPORTED (505)</description>
+</snippet>

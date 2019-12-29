@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLM_OUT_OF_MEMORY
+]]>
+	</content>
+	<tabTrigger>CURLM_OUT_OF_MEMORY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLM_OUT_OF_MEMORY</description>
+</snippet>

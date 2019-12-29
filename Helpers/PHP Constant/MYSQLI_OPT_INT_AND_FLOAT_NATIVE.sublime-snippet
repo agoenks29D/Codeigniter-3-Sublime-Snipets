@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_OPT_INT_AND_FLOAT_NATIVE
+]]>
+	</content>
+	<tabTrigger>MYSQLI_OPT_INT_AND_FLOAT_NATIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_OPT_INT_AND_FLOAT_NATIVE</description>
+</snippet>

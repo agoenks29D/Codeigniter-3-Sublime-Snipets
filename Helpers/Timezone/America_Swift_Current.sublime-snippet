@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Swift_Current
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Swift_Current</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Swift_Current</description>
+</snippet>

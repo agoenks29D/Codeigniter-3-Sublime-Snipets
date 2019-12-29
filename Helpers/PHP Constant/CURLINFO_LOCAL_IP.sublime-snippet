@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_LOCAL_IP
+]]>
+	</content>
+	<tabTrigger>CURLINFO_LOCAL_IP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_LOCAL_IP</description>
+</snippet>

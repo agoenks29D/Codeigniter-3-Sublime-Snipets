@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_PSD
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_PSD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_PSD</description>
+</snippet>

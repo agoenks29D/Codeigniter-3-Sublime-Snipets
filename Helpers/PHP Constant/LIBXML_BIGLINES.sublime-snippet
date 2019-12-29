@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_BIGLINES
+]]>
+	</content>
+	<tabTrigger>LIBXML_BIGLINES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_BIGLINES</description>
+</snippet>

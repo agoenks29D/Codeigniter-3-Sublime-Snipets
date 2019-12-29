@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NOT_FOUND
+]]>
+	</content>
+	<tabTrigger>rest_http_not_found</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NOT_FOUND (404)</description>
+</snippet>

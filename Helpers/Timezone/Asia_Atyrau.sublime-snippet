@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Atyrau
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Atyrau</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Atyrau</description>
+</snippet>

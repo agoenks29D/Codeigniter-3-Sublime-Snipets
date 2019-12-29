@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPAUSE_ALL
+]]>
+	</content>
+	<tabTrigger>CURLPAUSE_ALL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPAUSE_ALL</description>
+</snippet>

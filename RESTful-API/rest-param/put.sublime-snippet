@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->put('${1:key}')
+]]>
+	</content>
+	<tabTrigger>_put</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - PUT Parameter</description>
+</snippet>

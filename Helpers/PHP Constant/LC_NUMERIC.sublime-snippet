@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LC_NUMERIC
+]]>
+	</content>
+	<tabTrigger>LC_NUMERIC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LC_NUMERIC</description>
+</snippet>

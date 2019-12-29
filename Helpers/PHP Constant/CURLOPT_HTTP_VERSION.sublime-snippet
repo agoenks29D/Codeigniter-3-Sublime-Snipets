@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HTTP_VERSION
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HTTP_VERSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HTTP_VERSION</description>
+</snippet>

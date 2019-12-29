@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_IS_URL
+]]>
+	</content>
+	<tabTrigger>STREAM_IS_URL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_IS_URL</description>
+</snippet>

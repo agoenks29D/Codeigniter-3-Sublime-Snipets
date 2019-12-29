@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FT_PREFETCHTEXT
+]]>
+	</content>
+	<tabTrigger>FT_PREFETCHTEXT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FT_PREFETCHTEXT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Bahrain
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Bahrain</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Bahrain</description>
+</snippet>

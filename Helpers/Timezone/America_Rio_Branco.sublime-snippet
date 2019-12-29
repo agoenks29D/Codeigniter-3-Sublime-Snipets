@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Rio_Branco
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Rio_Branco</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Rio_Branco</description>
+</snippet>

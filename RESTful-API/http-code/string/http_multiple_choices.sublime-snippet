@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_MULTIPLE_CHOICES
+]]>
+	</content>
+	<tabTrigger>rest_http_multiple_choices</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_MULTIPLE_CHOICES (300)</description>
+</snippet>

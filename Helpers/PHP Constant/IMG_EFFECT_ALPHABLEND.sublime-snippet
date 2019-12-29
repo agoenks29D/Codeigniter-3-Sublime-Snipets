@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_EFFECT_ALPHABLEND
+]]>
+	</content>
+	<tabTrigger>IMG_EFFECT_ALPHABLEND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_EFFECT_ALPHABLEND</description>
+</snippet>

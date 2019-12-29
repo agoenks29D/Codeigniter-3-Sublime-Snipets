@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INI_PERDIR
+]]>
+	</content>
+	<tabTrigger>INI_PERDIR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INI_PERDIR</description>
+</snippet>

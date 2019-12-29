@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_OBJECT_OPERATOR
+]]>
+	</content>
+	<tabTrigger>T_OBJECT_OPERATOR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_OBJECT_OPERATOR</description>
+</snippet>

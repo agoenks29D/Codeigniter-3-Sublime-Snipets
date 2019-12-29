@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+GD_BUNDLED
+]]>
+	</content>
+	<tabTrigger>GD_BUNDLED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - GD_BUNDLED</description>
+</snippet>

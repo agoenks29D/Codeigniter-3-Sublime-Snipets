@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_BAD_UTF8_ERROR
+]]>
+	</content>
+	<tabTrigger>PREG_BAD_UTF8_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_BAD_UTF8_ERROR</description>
+</snippet>

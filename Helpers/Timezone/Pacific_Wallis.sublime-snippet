@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Wallis
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Wallis</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Wallis</description>
+</snippet>

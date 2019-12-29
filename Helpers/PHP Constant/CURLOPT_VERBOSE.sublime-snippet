@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_VERBOSE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_VERBOSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_VERBOSE</description>
+</snippet>

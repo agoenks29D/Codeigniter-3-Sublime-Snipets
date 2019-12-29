@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FTP_ASCII
+]]>
+	</content>
+	<tabTrigger>FTP_ASCII</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FTP_ASCII</description>
+</snippet>

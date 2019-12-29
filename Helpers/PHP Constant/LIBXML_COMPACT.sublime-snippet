@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_COMPACT
+]]>
+	</content>
+	<tabTrigger>LIBXML_COMPACT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_COMPACT</description>
+</snippet>

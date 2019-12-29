@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_IMAPS
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_IMAPS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_IMAPS</description>
+</snippet>

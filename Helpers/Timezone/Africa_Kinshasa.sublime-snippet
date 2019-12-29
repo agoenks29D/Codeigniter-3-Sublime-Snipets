@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Kinshasa
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Kinshasa</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Kinshasa</description>
+</snippet>

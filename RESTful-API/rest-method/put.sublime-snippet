@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+<![CDATA[
+public function ${1:index}_put()
+{
+	$2
+}
+]]>
+	</content>
+	<tabTrigger>rest_put</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - PUT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILE_USE_INCLUDE_PATH
+]]>
+	</content>
+	<tabTrigger>FILE_USE_INCLUDE_PATH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILE_USE_INCLUDE_PATH</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INPUT_COOKIE
+]]>
+	</content>
+	<tabTrigger>INPUT_COOKIE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INPUT_COOKIE</description>
+</snippet>

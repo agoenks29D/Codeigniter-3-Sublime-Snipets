@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Argentina/Catamarca
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Argentina_Catamarca</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Argentina/Catamarca</description>
+</snippet>

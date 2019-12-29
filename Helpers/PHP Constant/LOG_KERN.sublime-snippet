@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_KERN
+]]>
+	</content>
+	<tabTrigger>LOG_KERN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_KERN</description>
+</snippet>

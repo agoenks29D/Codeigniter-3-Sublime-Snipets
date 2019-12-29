@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROXY_HTTP
+]]>
+	</content>
+	<tabTrigger>CURLPROXY_HTTP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROXY_HTTP</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_CREATED
+]]>
+	</content>
+	<tabTrigger>rest_http_created</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_CREATED (201)</description>
+</snippet>

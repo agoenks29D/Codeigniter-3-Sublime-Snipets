@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENT_XML1
+]]>
+	</content>
+	<tabTrigger>ENT_XML1</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENT_XML1</description>
+</snippet>

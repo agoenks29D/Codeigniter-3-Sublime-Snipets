@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Bratislava
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Bratislava</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Bratislava</description>
+</snippet>

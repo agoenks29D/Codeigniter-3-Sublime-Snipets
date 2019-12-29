@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->get_random_bytes(${1:length});
+]]>
+	</content>
+	<tabTrigger>get_random_bytes</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Security ~ Get Random Bytes</description>
+</snippet>

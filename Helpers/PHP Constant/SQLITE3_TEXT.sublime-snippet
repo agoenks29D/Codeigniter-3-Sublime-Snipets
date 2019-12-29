@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SQLITE3_TEXT
+]]>
+	</content>
+	<tabTrigger>SQLITE3_TEXT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SQLITE3_TEXT</description>
+</snippet>

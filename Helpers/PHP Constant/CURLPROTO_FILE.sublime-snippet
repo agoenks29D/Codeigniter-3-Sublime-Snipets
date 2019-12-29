@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_FILE
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_FILE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_FILE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DIRECTORY_SEPARATOR
+]]>
+	</content>
+	<tabTrigger>DIRECTORY_SEPARATOR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DIRECTORY_SEPARATOR</description>
+</snippet>

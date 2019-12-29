@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TRANS_COR_AND_CHAIN
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TRANS_COR_AND_CHAIN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TRANS_COR_AND_CHAIN</description>
+</snippet>
