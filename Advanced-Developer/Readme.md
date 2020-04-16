@@ -1,4 +1,4 @@
-# CiMS Sublime Snippet
+# Nightigniter Sublime Snippet
 
 ---
 

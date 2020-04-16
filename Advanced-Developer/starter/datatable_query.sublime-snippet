@@ -1,0 +1,36 @@
+<snippet>
+	<content>
+<![CDATA[
+\$data  = array();
+\$model = new Nightigniter\Model\\${1:ClassName};
+\$total = \$model->count();
+
+if (filter_var(\$this->input->get('server_side'),FILTER_VALIDATE_BOOLEAN))
+{
+	// listing data with limit & offset
+	\$model = datatable_query(\$model, \$this->input->get());
+	\$start = (is_numeric(\$this->input->get('start')) && \$this->input->get('start') !== -1)?round(\$this->input->get('start')):0;
+	\$limit = (is_numeric(\$this->input->get('limit')) && \$this->input->get('limit') !== -1)?round(\$this->input->get('limit')):\$model->count();
+	\$data  = \$model->with((!empty(\$this->input->get('relation')))?explode(',',\$this->input->get('relation')):array())->limit(\$limit)->offset(\$start)->get();
+}
+else
+{
+	// listing data for forced all
+	\$data = (filter_var(\$this->input->get('only_trash'),FILTER_VALIDATE_BOOLEAN))?\$model->onlyTrashed()->all():\$model->all();
+}
+
+/**
+ * send response
+ */
+\$this->output->set_content_type('application/json')->set_output(json_encode(array(
+	'draw' => \$this->input->get('draw'),
+	'data' => \$data,
+	'record_total' => \$total,
+	'record_filtered' => \$total
+)));
+]]>
+	</content>
+	<tabTrigger>datatable_query</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Datatable Query</description>
+</snippet>

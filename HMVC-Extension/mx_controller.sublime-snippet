@@ -18,7 +18,7 @@ class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends ${2:MX}_Controller
 	{
 		parent::__construct();
 	}
-	
+
 	public function index()
 	{
 		$3

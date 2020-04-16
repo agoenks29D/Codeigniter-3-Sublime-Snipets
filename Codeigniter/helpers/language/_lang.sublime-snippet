@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$lang['${1:key}'] = '';
+]]>
+	</content>
+	<tabTrigger>lang</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Language ~ Create</description>
+</snippet>
