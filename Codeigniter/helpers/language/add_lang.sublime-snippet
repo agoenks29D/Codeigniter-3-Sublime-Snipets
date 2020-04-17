@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$lang['${1:key}'] = '';
+\$lang['${1:key}'] = '${2:val}';
 ]]>
 	</content>
 	<tabTrigger>lang</tabTrigger>
