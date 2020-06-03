@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->output->parse_exec_vars = ${1:false};
+\$this->output->parse_exec_vars = ${1:FALSE};
 ]]>
 	</content>
 	<tabTrigger>output_parse_exec_vars</tabTrigger>

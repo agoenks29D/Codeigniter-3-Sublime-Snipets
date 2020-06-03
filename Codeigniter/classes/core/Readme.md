@@ -94,10 +94,10 @@
 
 | Method | Tab Trigger | Description |
 |--------|-------------|-------------|
-| `$this->output->parse_exec_vars = false;` | output_parse_exec_vars | Output ~ Parse Exec Vars |
+| `$this->output->parse_exec_vars = FALSE;` | output_parse_exec_vars | Output ~ Parse Exec Vars |
 | `$this->output->set_profiler_sections($sections);` | output_set_profiler_sections | Output ~ Set Profiler Sections |
 | `$this->output->append('data');` | output_append | Output ~ Append |
-| `$this->output->enable_profiler('true');` | output_enable_profiler | Output ~ Enable Profiler |
+| `$this->output->enable_profiler('TRUE');` | output_enable_profiler | Output ~ Enable Profiler |
 | `$this->output->get_content_type();` | output_get_content_type | Output ~ Get Content Type |
 | `$this->output->get_header('header');` | output_get_header | Output ~ Get Header |
 | `$this->output->get_output();` | get_output | Output ~ Get Output |

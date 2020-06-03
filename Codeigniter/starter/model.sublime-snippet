@@ -9,7 +9,7 @@
  * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 
-namespace Nightigniter;
+namespace Angeli;
 
 class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends $CI_MODEL_CLASS
 {
