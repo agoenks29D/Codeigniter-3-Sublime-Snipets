@@ -14,7 +14,7 @@
 				<key>name</key>
 				<string>AUTHOR_NAME</string>
 				<key>value</key>
-				<string>Author Name</string> <!-- Change Here -->
+				<string>Agung Dirgantara</string> <!-- Change Here -->
 			</dict>
 
 			<!-- Author Email -->
@@ -22,7 +22,7 @@
 				<key>name</key>
 				<string>AUTHOR_EMAIL</string>
 				<key>value</key>
-				<string>author@developer.org</string> <!-- Change Here -->
+				<string>agungmasda29@gmail.com</string> <!-- Change Here -->
 			</dict>
 
 			<!-- Codeigniter Model Class -->
@@ -30,7 +30,7 @@
 				<key>name</key>
 				<string>CI_MODEL_CLASS</string>
 				<key>value</key>
-				<string>CI_Model</string> <!-- Change Here -->
+				<string>MY_Model</string> <!-- Change Here -->
 			</dict>
 
 			<!-- RESTful Class -->
@@ -38,7 +38,7 @@
 				<key>name</key>
 				<string>RESTful_CLASS</string>
 				<key>value</key>
-				<string>RESTful_API</string> <!-- Change Here -->
+				<string>RESTful</string> <!-- Change Here -->
 			</dict>
 			
 		</array>
