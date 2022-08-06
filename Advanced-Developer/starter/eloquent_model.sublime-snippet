@@ -1,33 +1,30 @@
 <snippet>
 	<content>
 <![CDATA[
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 /**
- * @package Codeigniter
+ * @package    Angeli
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/$1/:name}
- * @category Model
- * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ * @package    Eloquent Model
+ * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 
-namespace ${2:Qualified\Name};
-
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\SoftDeletes;
+namespace ${2:Angeli\Eloquent};
 
 class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends Model
 {
-	use SoftDeletes;
+	use \Illuminate\Database\Eloquent\SoftDeletes;
+
 	public \$timestamps	= true;
 	
 	protected \$table 		= '${TM_FILENAME/(.+)\..+|.*/\l$1/}';
 	protected \$guarded		= array();
 	protected \$hidden 		= array();
 	protected \$fillable 	= array();
-	protected \$connection 	= ACTIVE_DATABASE_GROUP;
 }
 
 /* End of file ${TM_FILENAME} */
-/* Location : ./${TM_FILEPATH/.+\/(.+)\/(config|controllers|core|helpers|hooks|language|libraries|models|third_party|views)\/(.+)/$1\/$2\/$3/} */
+/* Location : ./${TM_FILEPATH/.+\/(.+)\/(config|controllers|core|eloquent|helpers|hooks|language|libraries|models|third_party|views)\/(.+)/$1\/$2\/$3/} */
 ]]>
 	</content>
 	<tabTrigger>model</tabTrigger>
