@@ -1,9 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->set_header(${1:rest_http_});
-\$this->send_response('${2:rests_}', ${4:array(
-)});
+\$this->response(array('${1:status}' => '${2:code}', '${3:data}' => ${4:array()}));
 ]]>
 	</content>
 	<tabTrigger>res_send</tabTrigger>

@@ -3,12 +3,11 @@
 <![CDATA[
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * @package Codeigniter
+ * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/\u$1/}
- * @category View
- * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ * @package    View
+ * @author     Agung Dirgantara <agungmasda29@gmail.com>
  */
-
 $2
 
 /* End of file ${TM_FILENAME} */

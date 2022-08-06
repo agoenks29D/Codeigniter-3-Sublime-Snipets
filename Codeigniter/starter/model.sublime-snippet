@@ -1,13 +1,15 @@
 <snippet>
 	<content>
 <![CDATA[
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 /**
- * @package Codeigniter
+ * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/\u$1/}
- * @category Model
- * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ * @package    Model
+ * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
+
+namespace Angeli;
 
 class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends $CI_MODEL_CLASS
 {

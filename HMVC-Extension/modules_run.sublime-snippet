@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-modules::run('${1:module/method}',\$params)
+Modules::run('${1:module/method}', \$params = array())
 ]]>
 	</content>
 	<tabTrigger>modules_run</tabTrigger>
