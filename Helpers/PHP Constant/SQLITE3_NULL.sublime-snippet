@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SQLITE3_NULL
+]]>
+	</content>
+	<tabTrigger>SQLITE3_NULL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SQLITE3_NULL</description>
+</snippet>

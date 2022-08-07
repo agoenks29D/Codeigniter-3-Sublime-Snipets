@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Costa_Rica
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Costa_Rica</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Costa_Rica</description>
+</snippet>

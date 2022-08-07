@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_MAXFILESIZE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_MAXFILESIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_MAXFILESIZE</description>
+</snippet>

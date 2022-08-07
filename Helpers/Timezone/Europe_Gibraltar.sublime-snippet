@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Gibraltar
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Gibraltar</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Gibraltar</description>
+</snippet>

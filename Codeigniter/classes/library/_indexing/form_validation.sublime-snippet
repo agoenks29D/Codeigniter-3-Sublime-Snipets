@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+form_validation
+]]>
+	</content>
+	<tabTrigger>_library_form_validation</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Form_validation Library</description>
+</snippet>

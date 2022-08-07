@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_BOOLEAN_AND
+]]>
+	</content>
+	<tabTrigger>T_BOOLEAN_AND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_BOOLEAN_AND</description>
+</snippet>

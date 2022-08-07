@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+thursday
+]]>
+	</content>
+	<tabTrigger>_day_thursday</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Day Name - Thursday</description>
+</snippet>

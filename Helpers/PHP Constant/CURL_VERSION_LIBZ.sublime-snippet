@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_VERSION_LIBZ
+]]>
+	</content>
+	<tabTrigger>CURL_VERSION_LIBZ</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_VERSION_LIBZ</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->get_request_header('${1:index}');
+]]>
+	</content>
+	<tabTrigger>get_request_header</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Get Request Header</description>
+</snippet>

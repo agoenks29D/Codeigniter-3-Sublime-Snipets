@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NOT_MODIFIED
+]]>
+	</content>
+	<tabTrigger>rest_http_not_modified</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NOT_MODIFIED (304)</description>
+</snippet>

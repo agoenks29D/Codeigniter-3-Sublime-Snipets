@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_USER_ERROR
+]]>
+	</content>
+	<tabTrigger>E_USER_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_USER_ERROR</description>
+</snippet>

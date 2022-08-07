@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->file('${1:file}');
+]]>
+	</content>
+	<tabTrigger>load_file</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load File</description>
+</snippet>

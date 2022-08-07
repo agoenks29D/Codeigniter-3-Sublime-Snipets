@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_CRYPTO_METHOD_SSLv2_SERVER
+]]>
+	</content>
+	<tabTrigger>STREAM_CRYPTO_METHOD_SSLv2_SERVER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_CRYPTO_METHOD_SSLv2_SERVER</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_SSL_VERIFYRESULT
+]]>
+	</content>
+	<tabTrigger>CURLINFO_SSL_VERIFYRESULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_SSL_VERIFYRESULT</description>
+</snippet>

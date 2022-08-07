@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->library('${1:_library}');
+]]>
+	</content>
+	<tabTrigger>load_library</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Library</description>
+</snippet>

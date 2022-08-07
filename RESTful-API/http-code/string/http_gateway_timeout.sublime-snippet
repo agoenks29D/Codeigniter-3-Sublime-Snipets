@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_GATEWAY_TIMEOUT
+]]>
+	</content>
+	<tabTrigger>rest_http_gateway_timeout</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_GATEWAY_TIMEOUT (504)</description>
+</snippet>

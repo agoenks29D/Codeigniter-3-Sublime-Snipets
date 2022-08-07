@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DOM_SYNTAX_ERR
+]]>
+	</content>
+	<tabTrigger>DOM_SYNTAX_ERR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DOM_SYNTAX_ERR</description>
+</snippet>

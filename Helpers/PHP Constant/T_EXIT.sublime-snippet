@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_EXIT
+]]>
+	</content>
+	<tabTrigger>T_EXIT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_EXIT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_HUFFMAN_ONLY
+]]>
+	</content>
+	<tabTrigger>ZLIB_HUFFMAN_ONLY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_HUFFMAN_ONLY</description>
+</snippet>

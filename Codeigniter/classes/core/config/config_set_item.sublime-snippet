@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->config->set_item('${1:item}', '${2:value}');
+]]>
+	</content>
+	<tabTrigger>config_set_item</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Config ~ Set Item</description>
+</snippet>

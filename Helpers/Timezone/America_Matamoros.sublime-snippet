@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Matamoros
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Matamoros</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Matamoros</description>
+</snippet>

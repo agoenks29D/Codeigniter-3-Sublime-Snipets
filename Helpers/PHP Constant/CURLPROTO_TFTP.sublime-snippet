@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_TFTP
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_TFTP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_TFTP</description>
+</snippet>

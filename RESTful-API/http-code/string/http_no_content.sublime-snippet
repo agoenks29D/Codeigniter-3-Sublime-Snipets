@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NO_CONTENT
+]]>
+	</content>
+	<tabTrigger>rest_http_no_content</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NO_CONTENT (204)</description>
+</snippet>

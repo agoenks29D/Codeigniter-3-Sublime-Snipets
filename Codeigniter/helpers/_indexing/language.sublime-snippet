@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+language
+]]>
+	</content>
+	<tabTrigger>_helper_language</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Language Helper</description>
+</snippet>

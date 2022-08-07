@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_USER_NOTICE
+]]>
+	</content>
+	<tabTrigger>E_USER_NOTICE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_USER_NOTICE</description>
+</snippet>

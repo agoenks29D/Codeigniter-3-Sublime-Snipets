@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PSFS_FEED_ME
+]]>
+	</content>
+	<tabTrigger>PSFS_FEED_ME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PSFS_FEED_ME</description>
+</snippet>

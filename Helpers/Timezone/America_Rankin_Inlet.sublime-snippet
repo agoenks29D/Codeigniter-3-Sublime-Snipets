@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Rankin_Inlet
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Rankin_Inlet</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Rankin_Inlet</description>
+</snippet>

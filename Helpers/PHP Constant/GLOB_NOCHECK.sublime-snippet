@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+GLOB_NOCHECK
+]]>
+	</content>
+	<tabTrigger>GLOB_NOCHECK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - GLOB_NOCHECK</description>
+</snippet>

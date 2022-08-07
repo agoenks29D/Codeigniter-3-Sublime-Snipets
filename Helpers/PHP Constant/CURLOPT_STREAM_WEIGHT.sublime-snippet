@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_STREAM_WEIGHT
+]]>
+	</content>
+	<tabTrigger>CURLOPT_STREAM_WEIGHT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_STREAM_WEIGHT</description>
+</snippet>

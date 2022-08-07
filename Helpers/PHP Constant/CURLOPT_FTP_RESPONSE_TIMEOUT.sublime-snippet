@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FTP_RESPONSE_TIMEOUT
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FTP_RESPONSE_TIMEOUT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FTP_RESPONSE_TIMEOUT</description>
+</snippet>

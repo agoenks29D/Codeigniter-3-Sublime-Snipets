@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_NOXMLDECL
+]]>
+	</content>
+	<tabTrigger>LIBXML_NOXMLDECL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_NOXMLDECL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLMOPT_MAX_HOST_CONNECTIONS
+]]>
+	</content>
+	<tabTrigger>CURLMOPT_MAX_HOST_CONNECTIONS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLMOPT_MAX_HOST_CONNECTIONS</description>
+</snippet>

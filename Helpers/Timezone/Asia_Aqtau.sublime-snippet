@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Aqtau
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Aqtau</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Aqtau</description>
+</snippet>

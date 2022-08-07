@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_GLOBAL
+]]>
+	</content>
+	<tabTrigger>T_GLOBAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_GLOBAL</description>
+</snippet>

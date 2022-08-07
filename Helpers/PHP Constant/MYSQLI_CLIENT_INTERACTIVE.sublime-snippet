@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_CLIENT_INTERACTIVE
+]]>
+	</content>
+	<tabTrigger>MYSQLI_CLIENT_INTERACTIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_CLIENT_INTERACTIVE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Omsk
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Omsk</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Omsk</description>
+</snippet>

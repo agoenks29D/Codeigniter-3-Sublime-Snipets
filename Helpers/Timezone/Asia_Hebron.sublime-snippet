@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Hebron
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Hebron</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Hebron</description>
+</snippet>

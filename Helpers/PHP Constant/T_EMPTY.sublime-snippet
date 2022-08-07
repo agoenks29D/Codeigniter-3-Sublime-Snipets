@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_EMPTY
+]]>
+	</content>
+	<tabTrigger>T_EMPTY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_EMPTY</description>
+</snippet>

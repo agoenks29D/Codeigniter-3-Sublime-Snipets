@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Los_Angeles
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Los_Angeles</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Los_Angeles</description>
+</snippet>

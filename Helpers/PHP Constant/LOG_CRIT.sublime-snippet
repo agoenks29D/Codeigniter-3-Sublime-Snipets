@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_CRIT
+]]>
+	</content>
+	<tabTrigger>LOG_CRIT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_CRIT</description>
+</snippet>

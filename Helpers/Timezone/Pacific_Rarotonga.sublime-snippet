@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Rarotonga
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Rarotonga</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Rarotonga</description>
+</snippet>

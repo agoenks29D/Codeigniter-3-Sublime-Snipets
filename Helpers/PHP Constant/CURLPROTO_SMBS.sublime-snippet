@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_SMBS
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_SMBS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_SMBS</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_PEEK
+]]>
+	</content>
+	<tabTrigger>STREAM_PEEK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_PEEK</description>
+</snippet>

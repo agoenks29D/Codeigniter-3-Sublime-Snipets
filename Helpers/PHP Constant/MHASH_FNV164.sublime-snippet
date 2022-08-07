@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_FNV164
+]]>
+	</content>
+	<tabTrigger>MHASH_FNV164</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_FNV164</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->view('${1:view}');
+]]>
+	</content>
+	<tabTrigger>load_view</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load View</description>
+</snippet>

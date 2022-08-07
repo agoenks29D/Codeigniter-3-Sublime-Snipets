@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PROXYPORT
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PROXYPORT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PROXYPORT</description>
+</snippet>

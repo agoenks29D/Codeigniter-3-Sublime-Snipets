@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+javascript
+]]>
+	</content>
+	<tabTrigger>_library_javascript</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Javascript Library</description>
+</snippet>

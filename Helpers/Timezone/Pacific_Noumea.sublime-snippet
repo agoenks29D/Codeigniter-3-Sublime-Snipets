@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Noumea
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Noumea</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Noumea</description>
+</snippet>

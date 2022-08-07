@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->set_content_type('application/json')->set_output(json_encode(${1:$data}));
+]]>
+	</content>
+	<tabTrigger>output_json</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Json</description>
+</snippet>

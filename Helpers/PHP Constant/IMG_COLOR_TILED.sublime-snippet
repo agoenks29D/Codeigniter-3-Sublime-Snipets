@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_COLOR_TILED
+]]>
+	</content>
+	<tabTrigger>IMG_COLOR_TILED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_COLOR_TILED</description>
+</snippet>

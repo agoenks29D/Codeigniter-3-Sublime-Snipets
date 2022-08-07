@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_HTTPS
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_HTTPS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_HTTPS</description>
+</snippet>

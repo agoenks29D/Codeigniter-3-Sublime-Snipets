@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Indian/Christmas
+]]>
+	</content>
+	<tabTrigger>_timezone_Indian_Christmas</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Indian/Christmas</description>
+</snippet>

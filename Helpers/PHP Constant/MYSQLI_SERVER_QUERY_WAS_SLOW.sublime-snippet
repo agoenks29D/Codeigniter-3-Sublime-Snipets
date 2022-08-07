@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_SERVER_QUERY_WAS_SLOW
+]]>
+	</content>
+	<tabTrigger>MYSQLI_SERVER_QUERY_WAS_SLOW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_SERVER_QUERY_WAS_SLOW</description>
+</snippet>

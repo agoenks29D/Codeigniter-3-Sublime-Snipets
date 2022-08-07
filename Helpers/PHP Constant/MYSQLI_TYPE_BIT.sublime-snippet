@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TYPE_BIT
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TYPE_BIT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TYPE_BIT</description>
+</snippet>

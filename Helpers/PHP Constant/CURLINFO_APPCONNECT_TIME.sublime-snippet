@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_APPCONNECT_TIME
+]]>
+	</content>
+	<tabTrigger>CURLINFO_APPCONNECT_TIME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_APPCONNECT_TIME</description>
+</snippet>

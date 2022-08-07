@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_OBJECT_AS_ARRAY
+]]>
+	</content>
+	<tabTrigger>JSON_OBJECT_AS_ARRAY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_OBJECT_AS_ARRAY</description>
+</snippet>

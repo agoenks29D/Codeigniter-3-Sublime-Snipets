@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PKCS7_NOVERIFY
+]]>
+	</content>
+	<tabTrigger>PKCS7_NOVERIFY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PKCS7_NOVERIFY</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_PARTIAL_OUTPUT_ON_ERROR
+]]>
+	</content>
+	<tabTrigger>JSON_PARTIAL_OUTPUT_ON_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_PARTIAL_OUTPUT_ON_ERROR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILEINFO_NONE
+]]>
+	</content>
+	<tabTrigger>FILEINFO_NONE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILEINFO_NONE</description>
+</snippet>

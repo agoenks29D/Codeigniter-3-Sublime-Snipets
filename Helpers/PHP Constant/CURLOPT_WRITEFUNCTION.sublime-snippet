@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_WRITEFUNCTION
+]]>
+	</content>
+	<tabTrigger>CURLOPT_WRITEFUNCTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_WRITEFUNCTION</description>
+</snippet>

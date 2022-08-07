@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+parser
+]]>
+	</content>
+	<tabTrigger>_library_parser</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Parser Library</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->get_package_paths();
+]]>
+	</content>
+	<tabTrigger>load_get_package_paths</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Get Package Paths</description>
+</snippet>

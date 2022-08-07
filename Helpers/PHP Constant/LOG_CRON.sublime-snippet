@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_CRON
+]]>
+	</content>
+	<tabTrigger>LOG_CRON</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_CRON</description>
+</snippet>

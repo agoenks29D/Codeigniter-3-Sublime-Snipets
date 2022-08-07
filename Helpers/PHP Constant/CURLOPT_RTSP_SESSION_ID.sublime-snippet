@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_RTSP_SESSION_ID
+]]>
+	</content>
+	<tabTrigger>CURLOPT_RTSP_SESSION_ID</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_RTSP_SESSION_ID</description>
+</snippet>

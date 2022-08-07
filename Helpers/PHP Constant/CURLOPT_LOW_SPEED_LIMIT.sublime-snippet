@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_LOW_SPEED_LIMIT
+]]>
+	</content>
+	<tabTrigger>CURLOPT_LOW_SPEED_LIMIT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_LOW_SPEED_LIMIT</description>
+</snippet>

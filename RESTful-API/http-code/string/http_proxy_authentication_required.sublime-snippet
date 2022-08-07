@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_PROXY_AUTHENTICATION_REQUIRED
+]]>
+	</content>
+	<tabTrigger>rest_http_proxy_authentication_required</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_PROXY_AUTHENTICATION_REQUIRED (407)</description>
+</snippet>

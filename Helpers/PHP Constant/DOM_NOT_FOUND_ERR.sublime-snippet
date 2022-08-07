@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DOM_NOT_FOUND_ERR
+]]>
+	</content>
+	<tabTrigger>DOM_NOT_FOUND_ERR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DOM_NOT_FOUND_ERR</description>
+</snippet>

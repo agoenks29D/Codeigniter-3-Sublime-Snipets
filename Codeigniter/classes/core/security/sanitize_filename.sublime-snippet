@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->sanitize_filename('${1:file_path}');
+]]>
+	</content>
+	<tabTrigger>sanitize_filename</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Security ~ Sanitize Filename</description>
+</snippet>

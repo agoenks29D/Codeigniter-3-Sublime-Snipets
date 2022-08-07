@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_NEW
+]]>
+	</content>
+	<tabTrigger>T_NEW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_NEW</description>
+</snippet>

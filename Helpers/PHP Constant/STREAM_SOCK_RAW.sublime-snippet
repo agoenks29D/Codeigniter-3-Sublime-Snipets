@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_SOCK_RAW
+]]>
+	</content>
+	<tabTrigger>STREAM_SOCK_RAW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_SOCK_RAW</description>
+</snippet>

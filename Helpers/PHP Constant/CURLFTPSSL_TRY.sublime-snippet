@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTPSSL_TRY
+]]>
+	</content>
+	<tabTrigger>CURLFTPSSL_TRY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTPSSL_TRY</description>
+</snippet>

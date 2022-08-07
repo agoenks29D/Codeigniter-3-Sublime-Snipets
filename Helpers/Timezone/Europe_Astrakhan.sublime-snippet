@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Astrakhan
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Astrakhan</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Astrakhan</description>
+</snippet>

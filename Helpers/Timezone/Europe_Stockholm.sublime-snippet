@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Stockholm
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Stockholm</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Stockholm</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_LOCALPORTRANGE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_LOCALPORTRANGE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_LOCALPORTRANGE</description>
+</snippet>

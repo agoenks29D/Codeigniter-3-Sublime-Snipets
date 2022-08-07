@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_ARRAY_CAST
+]]>
+	</content>
+	<tabTrigger>T_ARRAY_CAST</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_ARRAY_CAST</description>
+</snippet>

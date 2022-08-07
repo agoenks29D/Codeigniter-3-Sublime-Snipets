@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Kigali
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Kigali</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Kigali</description>
+</snippet>

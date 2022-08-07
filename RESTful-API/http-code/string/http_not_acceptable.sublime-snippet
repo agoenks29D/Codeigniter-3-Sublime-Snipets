@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_NOT_ACCEPTABLE
+]]>
+	</content>
+	<tabTrigger>rest_http_not_acceptable</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_NOT_ACCEPTABLE (406)</description>
+</snippet>

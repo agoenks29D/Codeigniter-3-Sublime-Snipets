@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Atlantic/South_Georgia
+]]>
+	</content>
+	<tabTrigger>_timezone_Atlantic_South_Georgia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Atlantic/South_Georgia</description>
+</snippet>

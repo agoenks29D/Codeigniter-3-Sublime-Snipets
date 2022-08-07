@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_WINDOWS_VERSION_SP_MAJOR
+]]>
+	</content>
+	<tabTrigger>PHP_WINDOWS_VERSION_SP_MAJOR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_WINDOWS_VERSION_SP_MAJOR</description>
+</snippet>

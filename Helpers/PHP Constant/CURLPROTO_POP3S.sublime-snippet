@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_POP3S
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_POP3S</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_POP3S</description>
+</snippet>

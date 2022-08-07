@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_BSPLINE
+]]>
+	</content>
+	<tabTrigger>IMG_BSPLINE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_BSPLINE</description>
+</snippet>

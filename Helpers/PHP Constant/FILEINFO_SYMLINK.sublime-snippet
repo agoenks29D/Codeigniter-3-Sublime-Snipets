@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILEINFO_SYMLINK
+]]>
+	</content>
+	<tabTrigger>FILEINFO_SYMLINK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILEINFO_SYMLINK</description>
+</snippet>

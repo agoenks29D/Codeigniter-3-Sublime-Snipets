@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Efate
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Efate</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Efate</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Cuiaba
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Cuiaba</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Cuiaba</description>
+</snippet>

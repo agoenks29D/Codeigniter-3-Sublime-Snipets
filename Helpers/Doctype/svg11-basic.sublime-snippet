@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+svg11-basic
+]]>
+	</content>
+	<tabTrigger>_doctype_svg11-basic</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>SVG 1.1 Basic</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Indiana/Indianapolis
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Indiana_Indianapolis</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Indiana/Indianapolis</description>
+</snippet>

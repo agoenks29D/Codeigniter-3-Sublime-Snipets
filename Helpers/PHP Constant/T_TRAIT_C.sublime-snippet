@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_TRAIT_C
+]]>
+	</content>
+	<tabTrigger>T_TRAIT_C</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_TRAIT_C</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORT_NUMERIC
+]]>
+	</content>
+	<tabTrigger>SORT_NUMERIC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORT_NUMERIC</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Indian/Antananarivo
+]]>
+	</content>
+	<tabTrigger>_timezone_Indian_Antananarivo</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Indian/Antananarivo</description>
+</snippet>

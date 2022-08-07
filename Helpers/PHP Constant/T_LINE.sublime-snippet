@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_LINE
+]]>
+	</content>
+	<tabTrigger>T_LINE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_LINE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ASSERT_QUIET_EVAL
+]]>
+	</content>
+	<tabTrigger>ASSERT_QUIET_EVAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ASSERT_QUIET_EVAL</description>
+</snippet>

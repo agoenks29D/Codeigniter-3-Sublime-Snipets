@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_DNS_SERVERS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_DNS_SERVERS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_DNS_SERVERS</description>
+</snippet>

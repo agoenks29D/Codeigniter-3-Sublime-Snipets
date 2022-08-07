@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HTTP200ALIASES
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HTTP200ALIASES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HTTP200ALIASES</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_RTMP
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_RTMP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_RTMP</description>
+</snippet>

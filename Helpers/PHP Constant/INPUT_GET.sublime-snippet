@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INPUT_GET
+]]>
+	</content>
+	<tabTrigger>INPUT_GET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INPUT_GET</description>
+</snippet>

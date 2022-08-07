@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Nipigon
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Nipigon</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Nipigon</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Kolkata
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Kolkata</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Kolkata</description>
+</snippet>

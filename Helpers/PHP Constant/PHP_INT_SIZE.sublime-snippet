@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_INT_SIZE
+]]>
+	</content>
+	<tabTrigger>PHP_INT_SIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_INT_SIZE</description>
+</snippet>

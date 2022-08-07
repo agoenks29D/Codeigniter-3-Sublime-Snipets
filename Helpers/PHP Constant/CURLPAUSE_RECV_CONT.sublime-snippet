@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPAUSE_RECV_CONT
+]]>
+	</content>
+	<tabTrigger>CURLPAUSE_RECV_CONT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPAUSE_RECV_CONT</description>
+</snippet>

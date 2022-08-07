@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_REPORT_ERRORS
+]]>
+	</content>
+	<tabTrigger>STREAM_REPORT_ERRORS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_REPORT_ERRORS</description>
+</snippet>

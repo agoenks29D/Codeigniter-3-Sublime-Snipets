@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_FLAG_ENCODE_AMP
+]]>
+	</content>
+	<tabTrigger>FILTER_FLAG_ENCODE_AMP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_FLAG_ENCODE_AMP</description>
+</snippet>

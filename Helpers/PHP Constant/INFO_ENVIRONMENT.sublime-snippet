@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INFO_ENVIRONMENT
+]]>
+	</content>
+	<tabTrigger>INFO_ENVIRONMENT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INFO_ENVIRONMENT</description>
+</snippet>

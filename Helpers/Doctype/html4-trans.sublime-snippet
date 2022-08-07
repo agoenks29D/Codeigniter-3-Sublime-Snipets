@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+html4-trans
+]]>
+	</content>
+	<tabTrigger>_doctype_html4-trans</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTML 4 Transitional</description>
+</snippet>

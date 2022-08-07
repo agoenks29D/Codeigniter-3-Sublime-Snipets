@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PROXYUSERNAME
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PROXYUSERNAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PROXYUSERNAME</description>
+</snippet>

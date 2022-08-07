@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HTTPPROXYTUNNEL
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HTTPPROXYTUNNEL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HTTPPROXYTUNNEL</description>
+</snippet>

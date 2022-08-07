@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_ARC_ROUNDED
+]]>
+	</content>
+	<tabTrigger>IMG_ARC_ROUNDED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_ARC_ROUNDED</description>
+</snippet>

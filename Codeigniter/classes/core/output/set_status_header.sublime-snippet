@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->set_status_header('${1:200}');
+]]>
+	</content>
+	<tabTrigger>set_status_header</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Set Status Header</description>
+</snippet>

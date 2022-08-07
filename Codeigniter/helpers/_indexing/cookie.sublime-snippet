@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+cookie
+]]>
+	</content>
+	<tabTrigger>_helper_cookie</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Cookie Helper</description>
+</snippet>

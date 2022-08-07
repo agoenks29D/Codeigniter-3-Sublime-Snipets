@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+M_PI
+]]>
+	</content>
+	<tabTrigger>M_PI</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - M_PI</description>
+</snippet>

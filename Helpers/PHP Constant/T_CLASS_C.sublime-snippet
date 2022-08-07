@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CLASS_C
+]]>
+	</content>
+	<tabTrigger>T_CLASS_C</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CLASS_C</description>
+</snippet>

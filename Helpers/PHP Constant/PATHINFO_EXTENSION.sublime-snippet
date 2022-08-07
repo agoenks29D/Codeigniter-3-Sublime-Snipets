@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PATHINFO_EXTENSION
+]]>
+	</content>
+	<tabTrigger>PATHINFO_EXTENSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PATHINFO_EXTENSION</description>
+</snippet>

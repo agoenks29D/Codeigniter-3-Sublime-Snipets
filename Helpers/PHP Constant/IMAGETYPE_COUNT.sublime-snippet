@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_COUNT
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_COUNT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_COUNT</description>
+</snippet>

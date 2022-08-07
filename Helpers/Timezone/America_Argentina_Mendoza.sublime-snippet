@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Argentina/Mendoza
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Argentina_Mendoza</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Argentina/Mendoza</description>
+</snippet>

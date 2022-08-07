@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_GREP_INVERT
+]]>
+	</content>
+	<tabTrigger>PREG_GREP_INVERT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_GREP_INVERT</description>
+</snippet>

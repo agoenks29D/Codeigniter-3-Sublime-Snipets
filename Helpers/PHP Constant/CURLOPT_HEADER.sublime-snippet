@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HEADER
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HEADER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HEADER</description>
+</snippet>

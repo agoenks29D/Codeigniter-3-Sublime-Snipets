@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PSFS_FLAG_FLUSH_CLOSE
+]]>
+	</content>
+	<tabTrigger>PSFS_FLAG_FLUSH_CLOSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PSFS_FLAG_FLUSH_CLOSE</description>
+</snippet>

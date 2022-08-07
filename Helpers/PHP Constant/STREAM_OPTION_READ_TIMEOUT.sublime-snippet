@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_OPTION_READ_TIMEOUT
+]]>
+	</content>
+	<tabTrigger>STREAM_OPTION_READ_TIMEOUT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_OPTION_READ_TIMEOUT</description>
+</snippet>

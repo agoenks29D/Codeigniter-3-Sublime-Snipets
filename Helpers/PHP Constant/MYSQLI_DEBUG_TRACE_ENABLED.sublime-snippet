@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_DEBUG_TRACE_ENABLED
+]]>
+	</content>
+	<tabTrigger>MYSQLI_DEBUG_TRACE_ENABLED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_DEBUG_TRACE_ENABLED</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->set_profiler_sections(${1:\$sections});
+]]>
+	</content>
+	<tabTrigger>output_set_profiler_sections</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Set Profiler Sections</description>
+</snippet>

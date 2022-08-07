@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_ERROR_INF_OR_NAN
+]]>
+	</content>
+	<tabTrigger>JSON_ERROR_INF_OR_NAN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_ERROR_INF_OR_NAN</description>
+</snippet>

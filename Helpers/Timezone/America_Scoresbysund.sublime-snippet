@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Scoresbysund
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Scoresbysund</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Scoresbysund</description>
+</snippet>

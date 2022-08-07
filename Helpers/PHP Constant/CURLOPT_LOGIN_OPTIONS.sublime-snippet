@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_LOGIN_OPTIONS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_LOGIN_OPTIONS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_LOGIN_OPTIONS</description>
+</snippet>

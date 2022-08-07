@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_TAG_MISMATCH
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_TAG_MISMATCH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_TAG_MISMATCH</description>
+</snippet>

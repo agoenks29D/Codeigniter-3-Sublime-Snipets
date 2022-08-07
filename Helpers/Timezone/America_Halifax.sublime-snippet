@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Halifax
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Halifax</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Halifax</description>
+</snippet>

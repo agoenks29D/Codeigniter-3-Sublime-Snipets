@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+captcha
+]]>
+	</content>
+	<tabTrigger>_helper_captcha</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Captcha Helper</description>
+</snippet>

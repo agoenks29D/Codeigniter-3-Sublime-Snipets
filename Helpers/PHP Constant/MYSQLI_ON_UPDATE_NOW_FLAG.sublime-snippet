@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_ON_UPDATE_NOW_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_ON_UPDATE_NOW_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_ON_UPDATE_NOW_FLAG</description>
+</snippet>

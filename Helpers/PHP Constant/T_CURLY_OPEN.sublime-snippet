@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CURLY_OPEN
+]]>
+	</content>
+	<tabTrigger>T_CURLY_OPEN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CURLY_OPEN</description>
+</snippet>

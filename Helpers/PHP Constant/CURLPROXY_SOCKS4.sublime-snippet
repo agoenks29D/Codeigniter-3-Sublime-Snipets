@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROXY_SOCKS4
+]]>
+	</content>
+	<tabTrigger>CURLPROXY_SOCKS4</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROXY_SOCKS4</description>
+</snippet>

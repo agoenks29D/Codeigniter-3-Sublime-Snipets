@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_SHORTCACHE
+]]>
+	</content>
+	<tabTrigger>OP_SHORTCACHE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_SHORTCACHE</description>
+</snippet>

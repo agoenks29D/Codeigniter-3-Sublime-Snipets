@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CAL_FRENCH
+]]>
+	</content>
+	<tabTrigger>CAL_FRENCH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CAL_FRENCH</description>
+</snippet>

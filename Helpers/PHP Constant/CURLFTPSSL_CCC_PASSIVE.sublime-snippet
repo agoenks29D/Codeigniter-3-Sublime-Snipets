@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTPSSL_CCC_PASSIVE
+]]>
+	</content>
+	<tabTrigger>CURLFTPSSL_CCC_PASSIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTPSSL_CCC_PASSIVE</description>
+</snippet>

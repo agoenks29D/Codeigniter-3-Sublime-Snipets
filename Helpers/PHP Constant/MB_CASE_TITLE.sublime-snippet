@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MB_CASE_TITLE
+]]>
+	</content>
+	<tabTrigger>MB_CASE_TITLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MB_CASE_TITLE</description>
+</snippet>

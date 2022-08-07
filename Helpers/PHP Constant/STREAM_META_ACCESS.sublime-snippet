@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_META_ACCESS
+]]>
+	</content>
+	<tabTrigger>STREAM_META_ACCESS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_META_ACCESS</description>
+</snippet>

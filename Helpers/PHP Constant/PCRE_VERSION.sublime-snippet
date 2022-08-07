@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PCRE_VERSION
+]]>
+	</content>
+	<tabTrigger>PCRE_VERSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PCRE_VERSION</description>
+</snippet>

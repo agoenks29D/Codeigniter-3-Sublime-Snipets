@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Kamchatka
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Kamchatka</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Kamchatka</description>
+</snippet>

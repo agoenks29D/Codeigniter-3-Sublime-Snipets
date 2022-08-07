@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PREQUOTE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PREQUOTE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PREQUOTE</description>
+</snippet>

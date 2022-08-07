@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Rainy_River
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Rainy_River</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Rainy_River</description>
+</snippet>

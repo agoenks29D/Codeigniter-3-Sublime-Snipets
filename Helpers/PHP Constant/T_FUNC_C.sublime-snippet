@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_FUNC_C
+]]>
+	</content>
+	<tabTrigger>T_FUNC_C</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_FUNC_C</description>
+</snippet>

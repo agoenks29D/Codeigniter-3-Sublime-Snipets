@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_UNCLOSED_CDATA_SECTION
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_UNCLOSED_CDATA_SECTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_UNCLOSED_CDATA_SECTION</description>
+</snippet>

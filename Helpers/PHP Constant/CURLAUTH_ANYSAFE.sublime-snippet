@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLAUTH_ANYSAFE
+]]>
+	</content>
+	<tabTrigger>CURLAUTH_ANYSAFE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLAUTH_ANYSAFE</description>
+</snippet>

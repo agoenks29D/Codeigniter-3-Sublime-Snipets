@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PEAR_INSTALL_DIR
+]]>
+	</content>
+	<tabTrigger>PEAR_INSTALL_DIR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PEAR_INSTALL_DIR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Kosrae
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Kosrae</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Kosrae</description>
+</snippet>

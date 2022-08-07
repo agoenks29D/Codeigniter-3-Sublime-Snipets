@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+TYPEOTHER
+]]>
+	</content>
+	<tabTrigger>TYPEOTHER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - TYPEOTHER</description>
+</snippet>

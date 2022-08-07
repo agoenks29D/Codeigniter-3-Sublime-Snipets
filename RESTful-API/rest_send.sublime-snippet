@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->response(${1:array()}, ${2:200});
+]]>
+	</content>
+	<tabTrigger>res_send</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - RESTful Send Response</description>
+</snippet>

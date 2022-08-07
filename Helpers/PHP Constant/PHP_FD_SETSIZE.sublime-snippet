@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_FD_SETSIZE
+]]>
+	</content>
+	<tabTrigger>PHP_FD_SETSIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_FD_SETSIZE</description>
+</snippet>

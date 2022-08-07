@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORT_DESC
+]]>
+	</content>
+	<tabTrigger>SORT_DESC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORT_DESC</description>
+</snippet>

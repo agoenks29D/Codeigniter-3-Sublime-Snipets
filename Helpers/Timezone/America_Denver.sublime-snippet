@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Denver
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Denver</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Denver</description>
+</snippet>

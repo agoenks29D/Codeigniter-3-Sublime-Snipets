@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_REQUIRE_ONCE
+]]>
+	</content>
+	<tabTrigger>T_REQUIRE_ONCE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_REQUIRE_ONCE</description>
+</snippet>

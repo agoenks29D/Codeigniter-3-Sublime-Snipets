@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Jakarta
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Jakarta</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Jakarta</description>
+</snippet>

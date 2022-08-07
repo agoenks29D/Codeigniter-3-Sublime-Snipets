@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Australia/Sydney
+]]>
+	</content>
+	<tabTrigger>_timezone_Australia_Sydney</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Australia/Sydney</description>
+</snippet>

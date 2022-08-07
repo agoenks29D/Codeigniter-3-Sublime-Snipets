@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_REFRESH_GRANT
+]]>
+	</content>
+	<tabTrigger>MYSQLI_REFRESH_GRANT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_REFRESH_GRANT</description>
+</snippet>

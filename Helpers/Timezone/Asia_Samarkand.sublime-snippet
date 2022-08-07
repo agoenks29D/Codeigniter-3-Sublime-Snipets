@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Samarkand
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Samarkand</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Samarkand</description>
+</snippet>

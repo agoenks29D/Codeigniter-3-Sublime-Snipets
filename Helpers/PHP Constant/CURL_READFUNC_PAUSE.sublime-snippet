@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_READFUNC_PAUSE
+]]>
+	</content>
+	<tabTrigger>CURL_READFUNC_PAUSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_READFUNC_PAUSE</description>
+</snippet>

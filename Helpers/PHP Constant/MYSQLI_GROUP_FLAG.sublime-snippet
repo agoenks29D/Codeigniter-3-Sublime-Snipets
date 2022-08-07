@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_GROUP_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_GROUP_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_GROUP_FLAG</description>
+</snippet>

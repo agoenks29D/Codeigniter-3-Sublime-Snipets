@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INI_SYSTEM
+]]>
+	</content>
+	<tabTrigger>INI_SYSTEM</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INI_SYSTEM</description>
+</snippet>

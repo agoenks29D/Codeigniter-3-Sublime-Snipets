@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_STRICT
+]]>
+	</content>
+	<tabTrigger>E_STRICT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_STRICT</description>
+</snippet>

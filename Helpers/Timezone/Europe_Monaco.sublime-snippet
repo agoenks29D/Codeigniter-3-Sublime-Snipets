@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Monaco
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Monaco</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Monaco</description>
+</snippet>

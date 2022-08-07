@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->get_csrf_hash();
+]]>
+	</content>
+	<tabTrigger>get_csrf_hash</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Security ~ Get Csrf Hash</description>
+</snippet>

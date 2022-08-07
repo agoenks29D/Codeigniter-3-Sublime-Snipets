@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILEINFO_RAW
+]]>
+	</content>
+	<tabTrigger>FILEINFO_RAW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILEINFO_RAW</description>
+</snippet>

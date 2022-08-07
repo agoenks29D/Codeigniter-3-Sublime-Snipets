@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Mazatlan
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Mazatlan</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Mazatlan</description>
+</snippet>

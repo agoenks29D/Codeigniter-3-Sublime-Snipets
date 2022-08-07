@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_CONTINUE
+]]>
+	</content>
+	<tabTrigger>T_CONTINUE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_CONTINUE</description>
+</snippet>

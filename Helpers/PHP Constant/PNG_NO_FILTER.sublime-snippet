@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PNG_NO_FILTER
+]]>
+	</content>
+	<tabTrigger>PNG_NO_FILTER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PNG_NO_FILTER</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->plugin(\$plugin);
+]]>
+	</content>
+	<tabTrigger>load_plugin</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter HMVC - Load Plugin</description>
+</snippet>

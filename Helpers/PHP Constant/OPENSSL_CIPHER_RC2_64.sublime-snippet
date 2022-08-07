@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OPENSSL_CIPHER_RC2_64
+]]>
+	</content>
+	<tabTrigger>OPENSSL_CIPHER_RC2_64</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OPENSSL_CIPHER_RC2_64</description>
+</snippet>

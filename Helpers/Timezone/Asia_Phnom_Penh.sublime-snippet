@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Phnom_Penh
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Phnom_Penh</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Phnom_Penh</description>
+</snippet>

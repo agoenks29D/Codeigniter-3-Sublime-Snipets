@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAP_READTIMEOUT
+]]>
+	</content>
+	<tabTrigger>IMAP_READTIMEOUT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAP_READTIMEOUT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/St_Thomas
+]]>
+	</content>
+	<tabTrigger>_timezone_America_St_Thomas</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/St_Thomas</description>
+</snippet>

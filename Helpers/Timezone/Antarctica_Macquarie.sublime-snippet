@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Antarctica/Macquarie
+]]>
+	</content>
+	<tabTrigger>_timezone_Antarctica_Macquarie</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Antarctica/Macquarie</description>
+</snippet>

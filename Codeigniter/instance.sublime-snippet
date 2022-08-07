@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:ci} =& get_instance();
+]]></content>
+	<tabTrigger>ci_instance</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - get_instance()</description>
+</snippet>

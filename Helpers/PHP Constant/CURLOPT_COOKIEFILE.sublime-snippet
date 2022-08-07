@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_COOKIEFILE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_COOKIEFILE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_COOKIEFILE</description>
+</snippet>

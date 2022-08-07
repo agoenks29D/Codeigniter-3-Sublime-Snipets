@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Antarctica/Mawson
+]]>
+	</content>
+	<tabTrigger>_timezone_Antarctica_Mawson</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Antarctica/Mawson</description>
+</snippet>

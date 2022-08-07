@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Detroit
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Detroit</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Detroit</description>
+</snippet>

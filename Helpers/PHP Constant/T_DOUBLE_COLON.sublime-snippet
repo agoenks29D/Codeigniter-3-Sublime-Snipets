@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DOUBLE_COLON
+]]>
+	</content>
+	<tabTrigger>T_DOUBLE_COLON</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DOUBLE_COLON</description>
+</snippet>

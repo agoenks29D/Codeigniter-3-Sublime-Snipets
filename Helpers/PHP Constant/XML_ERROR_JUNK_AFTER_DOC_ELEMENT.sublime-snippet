@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_JUNK_AFTER_DOC_ELEMENT
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_JUNK_AFTER_DOC_ELEMENT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_JUNK_AFTER_DOC_ELEMENT</description>
+</snippet>

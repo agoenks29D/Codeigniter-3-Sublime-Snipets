@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Budapest
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Budapest</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Budapest</description>
+</snippet>

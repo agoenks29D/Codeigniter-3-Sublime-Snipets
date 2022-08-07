@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_SERVICE_UNAVAILABLE
+]]>
+	</content>
+	<tabTrigger>rest_http_service_unavailable</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_SERVICE_UNAVAILABLE (503)</description>
+</snippet>

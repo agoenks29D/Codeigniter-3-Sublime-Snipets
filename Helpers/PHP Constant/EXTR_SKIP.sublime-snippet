@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+EXTR_SKIP
+]]>
+	</content>
+	<tabTrigger>EXTR_SKIP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - EXTR_SKIP</description>
+</snippet>

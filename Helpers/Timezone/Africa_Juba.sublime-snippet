@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Juba
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Juba</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Juba</description>
+</snippet>

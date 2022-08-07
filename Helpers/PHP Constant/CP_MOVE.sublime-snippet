@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CP_MOVE
+]]>
+	</content>
+	<tabTrigger>CP_MOVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CP_MOVE</description>
+</snippet>

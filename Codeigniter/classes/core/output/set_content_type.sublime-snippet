@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->set_content_type('${1:mime_type}');
+]]>
+	</content>
+	<tabTrigger>set_content_type</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Set Content Type</description>
+</snippet>

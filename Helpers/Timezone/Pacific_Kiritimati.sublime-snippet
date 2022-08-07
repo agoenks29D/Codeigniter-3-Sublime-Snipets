@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Kiritimati
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Kiritimati</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Kiritimati</description>
+</snippet>

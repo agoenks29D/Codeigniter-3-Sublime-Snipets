@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->get_post('${1:name}');
+]]>
+	</content>
+	<tabTrigger>_get_post</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - $_GET[''] / $_POST['']</description>
+</snippet>

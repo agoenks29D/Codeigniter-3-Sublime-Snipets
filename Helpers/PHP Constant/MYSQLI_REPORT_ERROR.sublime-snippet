@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_REPORT_ERROR
+]]>
+	</content>
+	<tabTrigger>MYSQLI_REPORT_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_REPORT_ERROR</description>
+</snippet>

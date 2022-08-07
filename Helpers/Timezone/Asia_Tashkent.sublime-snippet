@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Tashkent
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Tashkent</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Tashkent</description>
+</snippet>

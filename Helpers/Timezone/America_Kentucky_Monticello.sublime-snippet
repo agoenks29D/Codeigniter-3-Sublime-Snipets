@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Kentucky/Monticello
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Kentucky_Monticello</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Kentucky/Monticello</description>
+</snippet>

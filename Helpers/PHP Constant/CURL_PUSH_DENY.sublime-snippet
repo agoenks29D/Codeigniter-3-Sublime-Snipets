@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_PUSH_DENY
+]]>
+	</content>
+	<tabTrigger>CURL_PUSH_DENY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_PUSH_DENY</description>
+</snippet>

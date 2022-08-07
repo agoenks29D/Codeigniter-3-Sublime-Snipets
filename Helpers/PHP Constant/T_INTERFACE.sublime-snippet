@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_INTERFACE
+]]>
+	</content>
+	<tabTrigger>T_INTERFACE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_INTERFACE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_PROXYAUTH_AVAIL
+]]>
+	</content>
+	<tabTrigger>CURLINFO_PROXYAUTH_AVAIL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_PROXYAUTH_AVAIL</description>
+</snippet>

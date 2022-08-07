@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CREDITS_ALL
+]]>
+	</content>
+	<tabTrigger>CREDITS_ALL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CREDITS_ALL</description>
+</snippet>

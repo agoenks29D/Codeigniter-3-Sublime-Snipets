@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LIBXML_DTDVALID
+]]>
+	</content>
+	<tabTrigger>LIBXML_DTDVALID</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LIBXML_DTDVALID</description>
+</snippet>

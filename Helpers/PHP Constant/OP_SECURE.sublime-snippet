@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_SECURE
+]]>
+	</content>
+	<tabTrigger>OP_SECURE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_SECURE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SQLITE3_OPEN_READWRITE
+]]>
+	</content>
+	<tabTrigger>SQLITE3_OPEN_READWRITE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SQLITE3_OPEN_READWRITE</description>
+</snippet>

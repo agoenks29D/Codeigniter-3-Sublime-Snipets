@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Pitcairn
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Pitcairn</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Pitcairn</description>
+</snippet>

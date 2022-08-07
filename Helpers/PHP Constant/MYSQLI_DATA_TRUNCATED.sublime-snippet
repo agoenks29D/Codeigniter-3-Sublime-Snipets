@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_DATA_TRUNCATED
+]]>
+	</content>
+	<tabTrigger>MYSQLI_DATA_TRUNCATED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_DATA_TRUNCATED</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INPUT_ENV
+]]>
+	</content>
+	<tabTrigger>INPUT_ENV</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INPUT_ENV</description>
+</snippet>

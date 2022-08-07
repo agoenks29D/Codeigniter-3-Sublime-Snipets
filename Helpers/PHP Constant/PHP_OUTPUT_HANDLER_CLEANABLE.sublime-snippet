@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_OUTPUT_HANDLER_CLEANABLE
+]]>
+	</content>
+	<tabTrigger>PHP_OUTPUT_HANDLER_CLEANABLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_OUTPUT_HANDLER_CLEANABLE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_SIZE_UPLOAD
+]]>
+	</content>
+	<tabTrigger>CURLINFO_SIZE_UPLOAD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_SIZE_UPLOAD</description>
+</snippet>

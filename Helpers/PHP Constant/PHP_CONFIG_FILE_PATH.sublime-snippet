@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_CONFIG_FILE_PATH
+]]>
+	</content>
+	<tabTrigger>PHP_CONFIG_FILE_PATH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_CONFIG_FILE_PATH</description>
+</snippet>

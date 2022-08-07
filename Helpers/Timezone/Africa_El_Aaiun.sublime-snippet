@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/El_Aaiun
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_El_Aaiun</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/El_Aaiun</description>
+</snippet>

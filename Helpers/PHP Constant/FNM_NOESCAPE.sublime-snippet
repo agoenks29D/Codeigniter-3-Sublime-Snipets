@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FNM_NOESCAPE
+]]>
+	</content>
+	<tabTrigger>FNM_NOESCAPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FNM_NOESCAPE</description>
+</snippet>

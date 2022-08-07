@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+/* End of file ${TM_FILENAME} */
+/* Location : ./${TM_FILEPATH/.+\/(.+)\/(config|controllers|core|helpers|hooks|language|libraries|models|third_party|views)\/(.+)/$1\/$2\/$3/} */
+]]>
+	</content>
+	<tabTrigger>eof</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - End of File</description>
+</snippet>

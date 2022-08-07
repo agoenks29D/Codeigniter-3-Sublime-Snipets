@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Kirov
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Kirov</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Kirov</description>
+</snippet>

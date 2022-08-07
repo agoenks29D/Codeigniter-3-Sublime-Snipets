@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_DOCUMENT_NODE
+]]>
+	</content>
+	<tabTrigger>XML_DOCUMENT_NODE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_DOCUMENT_NODE</description>
+</snippet>

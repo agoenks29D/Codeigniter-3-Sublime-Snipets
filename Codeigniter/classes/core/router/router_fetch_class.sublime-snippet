@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->fetch_class();
+]]>
+	</content>
+	<tabTrigger>router_fetch_class</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Router ~ Fetch Class</description>
+</snippet>

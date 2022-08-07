@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INI_SCANNER_RAW
+]]>
+	</content>
+	<tabTrigger>INI_SCANNER_RAW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INI_SCANNER_RAW</description>
+</snippet>

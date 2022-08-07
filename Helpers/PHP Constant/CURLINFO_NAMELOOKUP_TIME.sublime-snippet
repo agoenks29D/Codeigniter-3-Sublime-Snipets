@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_NAMELOOKUP_TIME
+]]>
+	</content>
+	<tabTrigger>CURLINFO_NAMELOOKUP_TIME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_NAMELOOKUP_TIME</description>
+</snippet>

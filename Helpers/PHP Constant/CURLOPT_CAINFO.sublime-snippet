@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_CAINFO
+]]>
+	</content>
+	<tabTrigger>CURLOPT_CAINFO</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_CAINFO</description>
+</snippet>

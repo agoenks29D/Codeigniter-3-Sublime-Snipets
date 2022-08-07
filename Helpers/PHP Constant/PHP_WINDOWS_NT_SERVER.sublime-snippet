@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_WINDOWS_NT_SERVER
+]]>
+	</content>
+	<tabTrigger>PHP_WINDOWS_NT_SERVER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_WINDOWS_NT_SERVER</description>
+</snippet>

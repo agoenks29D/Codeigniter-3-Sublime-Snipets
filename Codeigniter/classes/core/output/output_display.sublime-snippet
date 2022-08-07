@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->output->_display('${1:content}');
+]]>
+	</content>
+	<tabTrigger>output_display</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Output ~ Display</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_REDIRECT_COUNT
+]]>
+	</content>
+	<tabTrigger>CURLINFO_REDIRECT_COUNT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_REDIRECT_COUNT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_ANONYMOUS
+]]>
+	</content>
+	<tabTrigger>OP_ANONYMOUS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_ANONYMOUS</description>
+</snippet>

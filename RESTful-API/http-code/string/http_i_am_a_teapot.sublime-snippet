@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_I_AM_A_TEAPOT
+]]>
+	</content>
+	<tabTrigger>rest_http_i_am_a_teapot</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_I_AM_A_TEAPOT (418)</description>
+</snippet>

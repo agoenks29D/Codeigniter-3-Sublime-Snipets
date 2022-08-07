@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STR_PAD_BOTH
+]]>
+	</content>
+	<tabTrigger>STR_PAD_BOTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STR_PAD_BOTH</description>
+</snippet>

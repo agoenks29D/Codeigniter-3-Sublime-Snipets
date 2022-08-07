@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FALSE
+]]>
+	</content>
+	<tabTrigger>FALSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FALSE</description>
+</snippet>

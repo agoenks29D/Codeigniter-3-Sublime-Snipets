@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ST_SET
+]]>
+	</content>
+	<tabTrigger>ST_SET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ST_SET</description>
+</snippet>

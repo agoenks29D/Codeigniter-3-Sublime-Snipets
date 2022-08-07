@@ -1,0 +1,19 @@
+<snippet>
+	<content>
+<![CDATA[
+\$cookie = array(
+	'name'   => 'The Cookie Name',
+	'value'  => 'The Value',
+	'expire' => '86500',
+	'domain' => '.some-domain.com',
+	'path'   => '/',
+	'prefix' => 'myprefix_',
+	'secure' => TRUE
+);
+\$this->input->set_cookie(\$cookie);
+]]>
+	</content>
+	<tabTrigger>set_cookie</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Input ~ Set Cookie</description>
+</snippet>

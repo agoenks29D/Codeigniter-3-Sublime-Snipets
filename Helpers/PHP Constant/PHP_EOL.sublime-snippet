@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_EOL
+]]>
+	</content>
+	<tabTrigger>PHP_EOL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_EOL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/El_Salvador
+]]>
+	</content>
+	<tabTrigger>_timezone_America_El_Salvador</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/El_Salvador</description>
+</snippet>

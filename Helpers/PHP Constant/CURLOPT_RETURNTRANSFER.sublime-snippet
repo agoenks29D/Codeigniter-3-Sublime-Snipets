@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_RETURNTRANSFER
+]]>
+	</content>
+	<tabTrigger>CURLOPT_RETURNTRANSFER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_RETURNTRANSFER</description>
+</snippet>

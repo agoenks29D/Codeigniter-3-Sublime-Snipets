@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+june
+]]>
+	</content>
+	<tabTrigger>_month_june</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Month Name - June</description>
+</snippet>

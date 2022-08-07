@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTPMETHOD_NOCWD
+]]>
+	</content>
+	<tabTrigger>CURLFTPMETHOD_NOCWD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTPMETHOD_NOCWD</description>
+</snippet>

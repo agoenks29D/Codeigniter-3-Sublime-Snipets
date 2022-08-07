@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_PID
+]]>
+	</content>
+	<tabTrigger>LOG_PID</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_PID</description>
+</snippet>

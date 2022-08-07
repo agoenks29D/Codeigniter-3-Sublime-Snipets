@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Barbados
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Barbados</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Barbados</description>
+</snippet>

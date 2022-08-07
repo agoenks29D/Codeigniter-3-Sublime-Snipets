@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_VARIABLE
+]]>
+	</content>
+	<tabTrigger>T_VARIABLE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_VARIABLE</description>
+</snippet>

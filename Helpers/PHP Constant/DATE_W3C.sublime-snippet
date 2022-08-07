@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DATE_W3C
+]]>
+	</content>
+	<tabTrigger>DATE_W3C</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DATE_W3C</description>
+</snippet>

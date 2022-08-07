@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_IGNORE_URL
+]]>
+	</content>
+	<tabTrigger>STREAM_IGNORE_URL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_IGNORE_URL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_INT_CAST
+]]>
+	</content>
+	<tabTrigger>T_INT_CAST</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_INT_CAST</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FT_UID
+]]>
+	</content>
+	<tabTrigger>FT_UID</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FT_UID</description>
+</snippet>

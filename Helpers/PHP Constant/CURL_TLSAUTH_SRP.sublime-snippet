@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_TLSAUTH_SRP
+]]>
+	</content>
+	<tabTrigger>CURL_TLSAUTH_SRP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_TLSAUTH_SRP</description>
+</snippet>

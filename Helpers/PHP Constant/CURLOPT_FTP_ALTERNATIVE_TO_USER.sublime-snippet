@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FTP_ALTERNATIVE_TO_USER
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FTP_ALTERNATIVE_TO_USER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FTP_ALTERNATIVE_TO_USER</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_IFF
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_IFF</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_IFF</description>
+</snippet>

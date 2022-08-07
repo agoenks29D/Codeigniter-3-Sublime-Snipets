@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_JOAAT
+]]>
+	</content>
+	<tabTrigger>MHASH_JOAAT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_JOAAT</description>
+</snippet>

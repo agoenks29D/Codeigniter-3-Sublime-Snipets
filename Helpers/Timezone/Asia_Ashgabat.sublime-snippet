@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Ashgabat
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Ashgabat</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Ashgabat</description>
+</snippet>

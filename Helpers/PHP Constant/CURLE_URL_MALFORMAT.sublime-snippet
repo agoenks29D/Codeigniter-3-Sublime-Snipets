@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_URL_MALFORMAT
+]]>
+	</content>
+	<tabTrigger>CURLE_URL_MALFORMAT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_URL_MALFORMAT</description>
+</snippet>

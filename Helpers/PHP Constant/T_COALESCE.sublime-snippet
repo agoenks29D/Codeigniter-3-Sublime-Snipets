@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_COALESCE
+]]>
+	</content>
+	<tabTrigger>T_COALESCE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_COALESCE</description>
+</snippet>

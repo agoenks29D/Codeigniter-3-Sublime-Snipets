@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_PERROR
+]]>
+	</content>
+	<tabTrigger>LOG_PERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_PERROR</description>
+</snippet>

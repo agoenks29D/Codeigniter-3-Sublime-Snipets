@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FT_INTERNAL
+]]>
+	</content>
+	<tabTrigger>FT_INTERNAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FT_INTERNAL</description>
+</snippet>

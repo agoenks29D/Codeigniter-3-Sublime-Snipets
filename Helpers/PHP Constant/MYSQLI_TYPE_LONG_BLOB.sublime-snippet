@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_TYPE_LONG_BLOB
+]]>
+	</content>
+	<tabTrigger>MYSQLI_TYPE_LONG_BLOB</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_TYPE_LONG_BLOB</description>
+</snippet>

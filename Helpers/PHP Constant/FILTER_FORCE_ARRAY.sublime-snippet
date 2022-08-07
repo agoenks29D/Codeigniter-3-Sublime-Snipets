@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILTER_FORCE_ARRAY
+]]>
+	</content>
+	<tabTrigger>FILTER_FORCE_ARRAY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILTER_FORCE_ARRAY</description>
+</snippet>

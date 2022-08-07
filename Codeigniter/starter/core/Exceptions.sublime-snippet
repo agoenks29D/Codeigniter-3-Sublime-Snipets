@@ -1,0 +1,24 @@
+<snippet>
+	<content>
+<![CDATA[
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+/**
+ * @package Codeigniter
+ * @subpackage ${TM_FILENAME/(.+)\..+|.*/$1/:name}
+ * @category Libraries
+ * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ */
+
+class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends ${2:CI}_Exceptions
+{
+	$3
+}
+
+/* End of file ${TM_FILENAME} */
+/* Location : ./${TM_FILEPATH/.+\/(.+)\/(config|controllers|core|helpers|hooks|language|libraries|models|third_party|views)\/(.+)/$1\/$2\/$3/} */
+]]>
+	</content>
+	<tabTrigger>core_class_exceptions</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Core Class Exceptions</description>
+</snippet>

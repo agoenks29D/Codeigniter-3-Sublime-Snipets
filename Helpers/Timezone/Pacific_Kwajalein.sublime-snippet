@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Kwajalein
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Kwajalein</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Kwajalein</description>
+</snippet>

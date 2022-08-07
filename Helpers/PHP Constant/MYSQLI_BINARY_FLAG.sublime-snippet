@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_BINARY_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_BINARY_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_BINARY_FLAG</description>
+</snippet>

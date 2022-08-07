@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_LDAP_INVALID_URL
+]]>
+	</content>
+	<tabTrigger>CURLE_LDAP_INVALID_URL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_LDAP_INVALID_URL</description>
+</snippet>

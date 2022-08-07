@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_INTERNAL_ERROR
+]]>
+	</content>
+	<tabTrigger>PREG_INTERNAL_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_INTERNAL_ERROR</description>
+</snippet>

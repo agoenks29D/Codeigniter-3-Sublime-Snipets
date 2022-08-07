@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_PROXYHEADER
+]]>
+	</content>
+	<tabTrigger>CURLOPT_PROXYHEADER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_PROXYHEADER</description>
+</snippet>

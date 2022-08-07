@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Marigot
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Marigot</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Marigot</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_HALT_COMPILER
+]]>
+	</content>
+	<tabTrigger>T_HALT_COMPILER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_HALT_COMPILER</description>
+</snippet>

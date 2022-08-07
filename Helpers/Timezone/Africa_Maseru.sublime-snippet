@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Maseru
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Maseru</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Maseru</description>
+</snippet>

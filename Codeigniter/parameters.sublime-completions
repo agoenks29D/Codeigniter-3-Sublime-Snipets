@@ -1,0 +1,53 @@
+{
+	"scope": "source.php, embedding.php, text.html.basic",
+	"completions":
+	[
+		/**
+		 * IP Versions
+		 */
+		{"trigger": "_ip_version4", "contents": "ipv4"},
+		{"trigger": "_ip_version6", "contents": "ipv6"},
+
+		/**
+		 * Drivers
+		 */
+		{"trigger": "_codeigniter_driver", "contents": "cache"},
+		
+		/**
+		 * Cache Drivers
+		 */
+		{"trigger": "_cache_drivers", "contents": "file"},
+		{"trigger": "_cache_drivers", "contents": "apc"},
+		{"trigger": "_cache_drivers", "contents": "memcached"},
+		{"trigger": "_cache_drivers", "contents": "wincache"},
+		{"trigger": "_cache_drivers", "contents": "redis"},
+
+		/**
+		 * Calendar Day Type
+		 */
+		{"trigger": "_day_type_long", "contents": "long"},
+		{"trigger": "_day_type_short", "contents": "short"},
+		{"trigger": "_day_type_abr", "contents": "abr"},
+
+		/**
+		 * Encrypt
+		 */
+		{"trigger": "encryption_driver_mcrypt", "contents": "mcrypt"},
+		{"trigger": "encryption_driver_openssl", "contents": "openssl"},
+
+		{"trigger": "encryption_cipher", "contents": "mcrypt"},
+		{"trigger": "encryption_cipher", "contents": "mcrypt"},
+
+		/**
+		 * Encryption Mode
+		 */
+		{"trigger": "encryption_mode_cbc", "contents": "cbc"},
+		{"trigger": "encryption_mode_ctr", "contents": "ctr"},
+		{"trigger": "encryption_mode_cfb8", "contents": "cfb8"},
+		{"trigger": "encryption_mode_ofb", "contents": "ofb"},
+		{"trigger": "encryption_mode_ofb8", "contents": "ofb8"},
+		{"trigger": "encryption_mode_ecb", "contents": "ecb"},
+		{"trigger": "encryption_mode_xts", "contents": "xts"},
+		{"trigger": "encryption_mode_stream", "contents": "stream"}
+	]
+}

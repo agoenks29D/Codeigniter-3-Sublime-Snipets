@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->server('${1:index}');
+]]>
+	</content>
+	<tabTrigger>_server</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - $_SERVER['']</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Istanbul
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Istanbul</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Istanbul</description>
+</snippet>

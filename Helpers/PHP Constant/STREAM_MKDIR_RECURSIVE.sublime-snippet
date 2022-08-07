@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_MKDIR_RECURSIVE
+]]>
+	</content>
+	<tabTrigger>STREAM_MKDIR_RECURSIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_MKDIR_RECURSIVE</description>
+</snippet>

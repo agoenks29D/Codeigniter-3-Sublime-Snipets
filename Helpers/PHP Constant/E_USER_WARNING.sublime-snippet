@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+E_USER_WARNING
+]]>
+	</content>
+	<tabTrigger>E_USER_WARNING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - E_USER_WARNING</description>
+</snippet>

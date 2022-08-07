@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+table
+]]>
+	</content>
+	<tabTrigger>_library_table</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Table Library</description>
+</snippet>

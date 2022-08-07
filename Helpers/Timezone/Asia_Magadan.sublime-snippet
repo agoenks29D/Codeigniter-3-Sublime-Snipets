@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Magadan
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Magadan</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Magadan</description>
+</snippet>

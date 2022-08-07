@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DNS_ANY
+]]>
+	</content>
+	<tabTrigger>DNS_ANY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DNS_ANY</description>
+</snippet>

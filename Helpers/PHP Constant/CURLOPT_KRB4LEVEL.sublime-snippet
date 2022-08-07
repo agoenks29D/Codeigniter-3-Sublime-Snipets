@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_KRB4LEVEL
+]]>
+	</content>
+	<tabTrigger>CURLOPT_KRB4LEVEL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_KRB4LEVEL</description>
+</snippet>

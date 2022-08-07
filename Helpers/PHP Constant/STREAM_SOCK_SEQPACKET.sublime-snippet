@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_SOCK_SEQPACKET
+]]>
+	</content>
+	<tabTrigger>STREAM_SOCK_SEQPACKET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_SOCK_SEQPACKET</description>
+</snippet>

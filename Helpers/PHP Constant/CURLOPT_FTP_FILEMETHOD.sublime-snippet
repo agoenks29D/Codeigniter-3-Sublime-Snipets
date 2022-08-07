@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_FTP_FILEMETHOD
+]]>
+	</content>
+	<tabTrigger>CURLOPT_FTP_FILEMETHOD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_FTP_FILEMETHOD</description>
+</snippet>

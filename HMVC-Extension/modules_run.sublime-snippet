@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+modules::run('${1:module/method}',\$params)
+]]>
+	</content>
+	<tabTrigger>modules_run</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter HMVC - Run Module</description>
+</snippet>

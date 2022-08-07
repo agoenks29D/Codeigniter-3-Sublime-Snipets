@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->helper('${1:_helper}');
+]]>
+	</content>
+	<tabTrigger>load_helper</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Helper</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FILE_IGNORE_NEW_LINES
+]]>
+	</content>
+	<tabTrigger>FILE_IGNORE_NEW_LINES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FILE_IGNORE_NEW_LINES</description>
+</snippet>

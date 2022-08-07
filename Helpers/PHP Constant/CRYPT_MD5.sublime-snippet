@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CRYPT_MD5
+]]>
+	</content>
+	<tabTrigger>CRYPT_MD5</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CRYPT_MD5</description>
+</snippet>

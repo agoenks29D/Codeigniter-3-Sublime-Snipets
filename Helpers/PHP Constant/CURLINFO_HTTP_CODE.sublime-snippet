@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_HTTP_CODE
+]]>
+	</content>
+	<tabTrigger>CURLINFO_HTTP_CODE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_HTTP_CODE</description>
+</snippet>

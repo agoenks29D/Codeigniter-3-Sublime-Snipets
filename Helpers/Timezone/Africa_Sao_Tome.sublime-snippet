@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Sao_Tome
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Sao_Tome</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Sao_Tome</description>
+</snippet>

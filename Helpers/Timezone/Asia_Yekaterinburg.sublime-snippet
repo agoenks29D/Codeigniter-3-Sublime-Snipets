@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Yekaterinburg
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Yekaterinburg</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Yekaterinburg</description>
+</snippet>

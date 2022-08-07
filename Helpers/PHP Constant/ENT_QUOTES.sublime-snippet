@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENT_QUOTES
+]]>
+	</content>
+	<tabTrigger>ENT_QUOTES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENT_QUOTES</description>
+</snippet>

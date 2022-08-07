@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Bamako
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Bamako</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Bamako</description>
+</snippet>

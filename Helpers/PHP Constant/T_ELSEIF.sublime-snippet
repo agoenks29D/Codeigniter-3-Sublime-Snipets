@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_ELSEIF
+]]>
+	</content>
+	<tabTrigger>T_ELSEIF</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_ELSEIF</description>
+</snippet>

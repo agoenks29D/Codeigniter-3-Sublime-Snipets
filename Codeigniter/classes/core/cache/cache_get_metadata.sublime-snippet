@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->cache->get_metadata('${1:id}');
+]]>
+	</content>
+	<tabTrigger>cache_get_metadata</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Cache ~ Get Metadata</description>
+</snippet>

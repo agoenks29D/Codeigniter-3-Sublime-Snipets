@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Antarctica/DumontDUrville
+]]>
+	</content>
+	<tabTrigger>_timezone_Antarctica_DumontDUrville</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Antarctica/DumontDUrville</description>
+</snippet>

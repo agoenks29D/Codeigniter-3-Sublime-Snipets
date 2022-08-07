@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_FILE_COULDNT_READ_FILE
+]]>
+	</content>
+	<tabTrigger>CURLE_FILE_COULDNT_READ_FILE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_FILE_COULDNT_READ_FILE</description>
+</snippet>

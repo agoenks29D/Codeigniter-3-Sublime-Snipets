@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->options('${1:key}')
+]]>
+	</content>
+	<tabTrigger>_options</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - OPTIONS Parameter</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->load->model('${1:model}');
+]]>
+	</content>
+	<tabTrigger>load_model</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Load Model</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Regina
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Regina</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Regina</description>
+</snippet>

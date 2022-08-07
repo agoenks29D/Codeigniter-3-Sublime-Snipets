@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ARRAY_FILTER_USE_BOTH
+]]>
+	</content>
+	<tabTrigger>ARRAY_FILTER_USE_BOTH</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ARRAY_FILTER_USE_BOTH</description>
+</snippet>

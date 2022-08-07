@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->config->load('${1:file}');
+]]>
+	</content>
+	<tabTrigger>config_load</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Config ~ Load</description>
+</snippet>

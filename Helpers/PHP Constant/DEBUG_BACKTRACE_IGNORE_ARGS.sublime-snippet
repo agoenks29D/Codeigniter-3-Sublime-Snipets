@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DEBUG_BACKTRACE_IGNORE_ARGS
+]]>
+	</content>
+	<tabTrigger>DEBUG_BACKTRACE_IGNORE_ARGS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DEBUG_BACKTRACE_IGNORE_ARGS</description>
+</snippet>

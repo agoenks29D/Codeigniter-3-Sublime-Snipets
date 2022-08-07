@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_PRECONDITION_FAILED
+]]>
+	</content>
+	<tabTrigger>rest_http_412</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_PRECONDITION_FAILED (412)</description>
+</snippet>

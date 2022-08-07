@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DOLLAR_OPEN_CURLY_BRACES
+]]>
+	</content>
+	<tabTrigger>T_DOLLAR_OPEN_CURLY_BRACES</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DOLLAR_OPEN_CURLY_BRACES</description>
+</snippet>

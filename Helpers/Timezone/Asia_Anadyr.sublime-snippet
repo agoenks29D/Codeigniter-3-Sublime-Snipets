@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Anadyr
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Anadyr</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Anadyr</description>
+</snippet>

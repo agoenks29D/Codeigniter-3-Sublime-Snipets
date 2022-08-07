@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_FORBIDDEN
+]]>
+	</content>
+	<tabTrigger>rest_http_403</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_FORBIDDEN (403)</description>
+</snippet>

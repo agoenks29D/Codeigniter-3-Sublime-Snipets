@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_RTSPREQ_PAUSE
+]]>
+	</content>
+	<tabTrigger>CURL_RTSPREQ_PAUSE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_RTSPREQ_PAUSE</description>
+</snippet>

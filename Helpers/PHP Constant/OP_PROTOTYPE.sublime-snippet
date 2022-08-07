@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_PROTOTYPE
+]]>
+	</content>
+	<tabTrigger>OP_PROTOTYPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_PROTOTYPE</description>
+</snippet>

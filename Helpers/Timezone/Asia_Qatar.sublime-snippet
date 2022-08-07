@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Qatar
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Qatar</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Qatar</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Yerevan
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Yerevan</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Yerevan</description>
+</snippet>

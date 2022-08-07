@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_SESSION_DISABLED
+]]>
+	</content>
+	<tabTrigger>PHP_SESSION_DISABLED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_SESSION_DISABLED</description>
+</snippet>

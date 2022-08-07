@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+DOM_WRONG_DOCUMENT_ERR
+]]>
+	</content>
+	<tabTrigger>DOM_WRONG_DOCUMENT_ERR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - DOM_WRONG_DOCUMENT_ERR</description>
+</snippet>

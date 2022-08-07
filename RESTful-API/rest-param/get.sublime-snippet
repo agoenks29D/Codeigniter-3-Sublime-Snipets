@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->get('${1:key}')
+]]>
+	</content>
+	<tabTrigger>_get</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter RESTful - GET Parameter</description>
+</snippet>

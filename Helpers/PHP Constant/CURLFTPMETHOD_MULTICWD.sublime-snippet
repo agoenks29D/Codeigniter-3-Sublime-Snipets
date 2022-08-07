@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTPMETHOD_MULTICWD
+]]>
+	</content>
+	<tabTrigger>CURLFTPMETHOD_MULTICWD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTPMETHOD_MULTICWD</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Thimphu
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Thimphu</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Thimphu</description>
+</snippet>

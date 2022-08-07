@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+M_2_SQRTPI
+]]>
+	</content>
+	<tabTrigger>M_2_SQRTPI</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - M_2_SQRTPI</description>
+</snippet>

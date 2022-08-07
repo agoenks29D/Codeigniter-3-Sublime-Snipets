@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_SHARE_IN_USE
+]]>
+	</content>
+	<tabTrigger>CURLE_SHARE_IN_USE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_SHARE_IN_USE</description>
+</snippet>

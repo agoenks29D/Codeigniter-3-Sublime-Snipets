@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+XML_ERROR_BAD_CHAR_REF
+]]>
+	</content>
+	<tabTrigger>XML_ERROR_BAD_CHAR_REF</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - XML_ERROR_BAD_CHAR_REF</description>
+</snippet>

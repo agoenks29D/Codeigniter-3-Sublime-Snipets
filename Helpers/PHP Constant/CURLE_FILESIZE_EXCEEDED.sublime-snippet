@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_FILESIZE_EXCEEDED
+]]>
+	</content>
+	<tabTrigger>CURLE_FILESIZE_EXCEEDED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_FILESIZE_EXCEEDED</description>
+</snippet>

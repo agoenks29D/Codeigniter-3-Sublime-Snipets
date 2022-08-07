@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SA_UIDVALIDITY
+]]>
+	</content>
+	<tabTrigger>SA_UIDVALIDITY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SA_UIDVALIDITY</description>
+</snippet>

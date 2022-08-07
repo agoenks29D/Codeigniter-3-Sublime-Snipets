@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ASSERT_ACTIVE
+]]>
+	</content>
+	<tabTrigger>ASSERT_ACTIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ASSERT_ACTIVE</description>
+</snippet>

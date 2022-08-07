@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_REQUEST_HEADER_FIELDS_TOO_LARGE
+]]>
+	</content>
+	<tabTrigger>rest_http_431</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_REQUEST_HEADER_FIELDS_TOO_LARGE (431)</description>
+</snippet>

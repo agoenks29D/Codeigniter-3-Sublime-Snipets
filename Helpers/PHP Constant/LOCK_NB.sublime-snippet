@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOCK_NB
+]]>
+	</content>
+	<tabTrigger>LOCK_NB</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOCK_NB</description>
+</snippet>

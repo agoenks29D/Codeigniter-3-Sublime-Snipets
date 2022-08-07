@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DEFAULT
+]]>
+	</content>
+	<tabTrigger>T_DEFAULT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DEFAULT</description>
+</snippet>

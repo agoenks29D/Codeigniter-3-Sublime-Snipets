@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_UNESCAPED_UNICODE
+]]>
+	</content>
+	<tabTrigger>JSON_UNESCAPED_UNICODE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_UNESCAPED_UNICODE</description>
+</snippet>

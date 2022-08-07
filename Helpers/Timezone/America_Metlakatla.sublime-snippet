@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Metlakatla
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Metlakatla</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Metlakatla</description>
+</snippet>

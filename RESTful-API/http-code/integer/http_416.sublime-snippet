@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_REQUESTED_RANGE_NOT_SATISFIABLE
+]]>
+	</content>
+	<tabTrigger>rest_http_416</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_REQUESTED_RANGE_NOT_SATISFIABLE (416)</description>
+</snippet>

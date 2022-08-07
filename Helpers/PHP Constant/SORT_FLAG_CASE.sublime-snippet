@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORT_FLAG_CASE
+]]>
+	</content>
+	<tabTrigger>SORT_FLAG_CASE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORT_FLAG_CASE</description>
+</snippet>

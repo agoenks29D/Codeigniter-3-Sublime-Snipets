@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->entity_decode('${1:string}');
+]]>
+	</content>
+	<tabTrigger>security_entity_decode</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Security ~ Entity Decode</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+date
+]]>
+	</content>
+	<tabTrigger>_helper_date</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Date Helper</description>
+</snippet>

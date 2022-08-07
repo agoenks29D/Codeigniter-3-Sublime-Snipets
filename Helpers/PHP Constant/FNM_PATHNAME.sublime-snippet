@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FNM_PATHNAME
+]]>
+	</content>
+	<tabTrigger>FNM_PATHNAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FNM_PATHNAME</description>
+</snippet>

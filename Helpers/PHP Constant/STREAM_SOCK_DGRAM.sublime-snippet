@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_SOCK_DGRAM
+]]>
+	</content>
+	<tabTrigger>STREAM_SOCK_DGRAM</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_SOCK_DGRAM</description>
+</snippet>

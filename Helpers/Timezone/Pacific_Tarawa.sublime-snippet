@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Tarawa
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Tarawa</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Tarawa</description>
+</snippet>

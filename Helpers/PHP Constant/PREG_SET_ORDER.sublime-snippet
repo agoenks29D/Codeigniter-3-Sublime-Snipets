@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_SET_ORDER
+]]>
+	</content>
+	<tabTrigger>PREG_SET_ORDER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_SET_ORDER</description>
+</snippet>

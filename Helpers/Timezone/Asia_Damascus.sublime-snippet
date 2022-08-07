@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Damascus
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Damascus</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Damascus</description>
+</snippet>

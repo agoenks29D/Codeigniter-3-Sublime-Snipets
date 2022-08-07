@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_OS_ERRNO
+]]>
+	</content>
+	<tabTrigger>CURLINFO_OS_ERRNO</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_OS_ERRNO</description>
+</snippet>

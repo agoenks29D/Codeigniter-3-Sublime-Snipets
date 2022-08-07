@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Asmara
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Asmara</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Asmara</description>
+</snippet>

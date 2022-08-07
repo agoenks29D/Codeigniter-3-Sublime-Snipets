@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_PF_UNIX
+]]>
+	</content>
+	<tabTrigger>STREAM_PF_UNIX</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_PF_UNIX</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Hovd
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Hovd</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Hovd</description>
+</snippet>

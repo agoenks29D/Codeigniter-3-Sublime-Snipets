@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Grand_Turk
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Grand_Turk</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Grand_Turk</description>
+</snippet>

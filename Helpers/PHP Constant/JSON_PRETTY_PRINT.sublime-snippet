@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_PRETTY_PRINT
+]]>
+	</content>
+	<tabTrigger>JSON_PRETTY_PRINT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_PRETTY_PRINT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FORCE_GZIP
+]]>
+	</content>
+	<tabTrigger>FORCE_GZIP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FORCE_GZIP</description>
+</snippet>

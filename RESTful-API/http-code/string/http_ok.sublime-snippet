@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_OK
+]]>
+	</content>
+	<tabTrigger>rest_http_ok</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_OK (200)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_ADLER32
+]]>
+	</content>
+	<tabTrigger>MHASH_ADLER32</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_ADLER32</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->config->slash_item('${1:item}');
+]]>
+	</content>
+	<tabTrigger>config_slash_item</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Config ~ Slash Item</description>
+</snippet>

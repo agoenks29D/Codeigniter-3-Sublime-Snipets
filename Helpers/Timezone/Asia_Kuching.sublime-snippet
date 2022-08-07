@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Kuching
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Kuching</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Kuching</description>
+</snippet>

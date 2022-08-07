@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_PRI_KEY_FLAG
+]]>
+	</content>
+	<tabTrigger>MYSQLI_PRI_KEY_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_PRI_KEY_FLAG</description>
+</snippet>

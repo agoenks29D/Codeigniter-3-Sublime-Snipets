@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_UNKNOWN
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_UNKNOWN</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_UNKNOWN</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DEC
+]]>
+	</content>
+	<tabTrigger>T_DEC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DEC</description>
+</snippet>

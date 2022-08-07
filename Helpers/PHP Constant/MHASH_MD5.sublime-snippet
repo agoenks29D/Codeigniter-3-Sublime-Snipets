@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_MD5
+]]>
+	</content>
+	<tabTrigger>MHASH_MD5</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_MD5</description>
+</snippet>

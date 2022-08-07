@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_SILENT
+]]>
+	</content>
+	<tabTrigger>OP_SILENT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_SILENT</description>
+</snippet>

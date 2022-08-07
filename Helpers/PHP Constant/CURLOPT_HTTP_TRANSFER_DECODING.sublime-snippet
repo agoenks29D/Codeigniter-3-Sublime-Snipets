@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_HTTP_TRANSFER_DECODING
+]]>
+	</content>
+	<tabTrigger>CURLOPT_HTTP_TRANSFER_DECODING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_HTTP_TRANSFER_DECODING</description>
+</snippet>

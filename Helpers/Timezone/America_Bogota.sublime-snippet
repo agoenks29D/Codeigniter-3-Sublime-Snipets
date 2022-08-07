@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Bogota
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Bogota</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Bogota</description>
+</snippet>

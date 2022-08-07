@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_BINDIR
+]]>
+	</content>
+	<tabTrigger>PHP_BINDIR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_BINDIR</description>
+</snippet>

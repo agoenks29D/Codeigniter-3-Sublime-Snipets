@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ENC8BIT
+]]>
+	</content>
+	<tabTrigger>ENC8BIT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ENC8BIT</description>
+</snippet>

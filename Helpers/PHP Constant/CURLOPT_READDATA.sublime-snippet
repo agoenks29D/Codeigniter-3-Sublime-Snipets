@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_READDATA
+]]>
+	</content>
+	<tabTrigger>CURLOPT_READDATA</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_READDATA</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_LENGTH_REQUIRED
+]]>
+	</content>
+	<tabTrigger>rest_http_length_required</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_LENGTH_REQUIRED (411)</description>
+</snippet>

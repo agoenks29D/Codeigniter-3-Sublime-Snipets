@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->is_cli_request();
+]]>
+	</content>
+	<tabTrigger>is_cli_request</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Is CLI Request</description>
+</snippet>

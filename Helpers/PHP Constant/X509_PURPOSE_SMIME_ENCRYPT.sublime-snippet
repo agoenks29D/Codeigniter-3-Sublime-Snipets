@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+X509_PURPOSE_SMIME_ENCRYPT
+]]>
+	</content>
+	<tabTrigger>X509_PURPOSE_SMIME_ENCRYPT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - X509_PURPOSE_SMIME_ENCRYPT</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_FILETIME
+]]>
+	</content>
+	<tabTrigger>CURLINFO_FILETIME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_FILETIME</description>
+</snippet>

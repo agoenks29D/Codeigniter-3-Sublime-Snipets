@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_SSL_CACERT
+]]>
+	</content>
+	<tabTrigger>CURLE_SSL_CACERT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_SSL_CACERT</description>
+</snippet>

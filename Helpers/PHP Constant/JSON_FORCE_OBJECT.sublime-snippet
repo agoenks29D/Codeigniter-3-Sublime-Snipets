@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON_FORCE_OBJECT
+]]>
+	</content>
+	<tabTrigger>JSON_FORCE_OBJECT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - JSON_FORCE_OBJECT</description>
+</snippet>

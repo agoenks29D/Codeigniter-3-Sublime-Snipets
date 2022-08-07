@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_STMT_ATTR_CURSOR_TYPE
+]]>
+	</content>
+	<tabTrigger>MYSQLI_STMT_ATTR_CURSOR_TYPE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_STMT_ATTR_CURSOR_TYPE</description>
+</snippet>

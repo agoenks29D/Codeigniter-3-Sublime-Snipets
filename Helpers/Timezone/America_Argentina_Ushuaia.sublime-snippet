@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Argentina/Ushuaia
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Argentina_Ushuaia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Argentina/Ushuaia</description>
+</snippet>

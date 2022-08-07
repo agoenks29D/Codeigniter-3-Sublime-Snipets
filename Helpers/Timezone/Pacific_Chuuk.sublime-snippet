@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Pacific/Chuuk
+]]>
+	</content>
+	<tabTrigger>_timezone_Pacific_Chuuk</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Pacific/Chuuk</description>
+</snippet>

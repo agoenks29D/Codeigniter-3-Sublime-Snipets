@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Warsaw
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Warsaw</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Warsaw</description>
+</snippet>

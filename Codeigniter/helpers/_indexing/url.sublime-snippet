@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+url
+]]>
+	</content>
+	<tabTrigger>_helper_url</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Url Helper</description>
+</snippet>

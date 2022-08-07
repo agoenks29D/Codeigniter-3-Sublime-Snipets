@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_UNAUTHORIZED
+]]>
+	</content>
+	<tabTrigger>rest_http_401</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_UNAUTHORIZED (401)</description>
+</snippet>

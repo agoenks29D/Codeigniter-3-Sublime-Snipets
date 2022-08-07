@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_HANNING
+]]>
+	</content>
+	<tabTrigger>IMG_HANNING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_HANNING</description>
+</snippet>

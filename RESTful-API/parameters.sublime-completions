@@ -1,0 +1,20 @@
+{
+	"scope": "source.php, embedding.php, text.html.basic",
+	"completions":
+	[
+		/**
+		 * RESTful status
+		 */
+		{"trigger": "rests_success", "contents": "success"},
+		{"trigger": "rests_failed", "contents": "failed"},
+		{"trigger": "rests_error", "contents": "error"},
+		/**
+		 * RESTful message
+		 */
+		{"trigger": "rest_msg_validation_errors", "contents": "validation_errors"},
+		{"trigger": "rest_msg_data_not_found", "contents": "data_not_found"},
+		{"trigger": "rest_msg_unauthorized", "contents": "unauthorized"},
+		{"trigger": "rest_msg_access_forbidden", "contents": "access_forbidden"},
+		{"trigger": "rest_msg_internal_server_error", "contents": "internal_server_error"}
+	]
+}

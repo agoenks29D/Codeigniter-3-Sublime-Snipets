@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMAGETYPE_JPEG2000
+]]>
+	</content>
+	<tabTrigger>IMAGETYPE_JPEG2000</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMAGETYPE_JPEG2000</description>
+</snippet>

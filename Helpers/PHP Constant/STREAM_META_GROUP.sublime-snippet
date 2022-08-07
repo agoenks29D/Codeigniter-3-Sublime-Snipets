@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_META_GROUP
+]]>
+	</content>
+	<tabTrigger>STREAM_META_GROUP</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_META_GROUP</description>
+</snippet>

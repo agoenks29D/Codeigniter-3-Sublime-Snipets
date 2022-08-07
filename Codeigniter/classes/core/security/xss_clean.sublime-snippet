@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->router->xss_clean('${1:string}');
+]]>
+	</content>
+	<tabTrigger>xss_clean</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - XSS Clean</description>
+</snippet>

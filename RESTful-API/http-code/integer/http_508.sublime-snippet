@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_LOOP_DETECTED
+]]>
+	</content>
+	<tabTrigger>rest_http_508</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_LOOP_DETECTED (508)</description>
+</snippet>

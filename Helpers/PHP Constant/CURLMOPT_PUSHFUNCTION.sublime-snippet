@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLMOPT_PUSHFUNCTION
+]]>
+	</content>
+	<tabTrigger>CURLMOPT_PUSHFUNCTION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLMOPT_PUSHFUNCTION</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+security
+]]>
+	</content>
+	<tabTrigger>_helper_security</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic, text.html, text.html.twig</scope>
+	<description>Codeigniter - Security Helper</description>
+</snippet>

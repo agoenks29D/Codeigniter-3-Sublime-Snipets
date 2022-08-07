@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Port-au-Prince
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Port-au-Prince</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Port-au-Prince</description>
+</snippet>

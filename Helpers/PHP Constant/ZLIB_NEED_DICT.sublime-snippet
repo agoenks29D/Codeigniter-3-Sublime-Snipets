@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_NEED_DICT
+]]>
+	</content>
+	<tabTrigger>ZLIB_NEED_DICT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_NEED_DICT</description>
+</snippet>

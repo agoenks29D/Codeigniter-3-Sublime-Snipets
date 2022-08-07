@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_META_OWNER_NAME
+]]>
+	</content>
+	<tabTrigger>STREAM_META_OWNER_NAME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_META_OWNER_NAME</description>
+</snippet>

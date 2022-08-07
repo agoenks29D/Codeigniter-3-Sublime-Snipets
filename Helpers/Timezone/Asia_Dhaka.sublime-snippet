@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Dhaka
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Dhaka</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Dhaka</description>
+</snippet>

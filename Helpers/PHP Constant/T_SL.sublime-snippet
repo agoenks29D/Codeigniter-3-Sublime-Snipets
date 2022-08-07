@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_SL
+]]>
+	</content>
+	<tabTrigger>T_SL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_SL</description>
+</snippet>

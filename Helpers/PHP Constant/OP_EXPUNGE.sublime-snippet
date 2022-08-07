@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_EXPUNGE
+]]>
+	</content>
+	<tabTrigger>OP_EXPUNGE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_EXPUNGE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_ENCODING_DEFLATE
+]]>
+	</content>
+	<tabTrigger>ZLIB_ENCODING_DEFLATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_ENCODING_DEFLATE</description>
+</snippet>

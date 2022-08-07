@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->config->item('${1:name}');
+]]>
+	</content>
+	<tabTrigger>config_item</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Config ~ Item</description>
+</snippet>

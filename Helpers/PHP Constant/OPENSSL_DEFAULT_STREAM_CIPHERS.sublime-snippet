@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OPENSSL_DEFAULT_STREAM_CIPHERS
+]]>
+	</content>
+	<tabTrigger>OPENSSL_DEFAULT_STREAM_CIPHERS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OPENSSL_DEFAULT_STREAM_CIPHERS</description>
+</snippet>

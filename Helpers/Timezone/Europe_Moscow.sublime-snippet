@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Moscow
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Moscow</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Moscow</description>
+</snippet>

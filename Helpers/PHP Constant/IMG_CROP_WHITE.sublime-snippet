@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_CROP_WHITE
+]]>
+	</content>
+	<tabTrigger>IMG_CROP_WHITE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_CROP_WHITE</description>
+</snippet>

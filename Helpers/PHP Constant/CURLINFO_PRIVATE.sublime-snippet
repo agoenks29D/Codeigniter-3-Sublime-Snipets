@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_PRIVATE
+]]>
+	</content>
+	<tabTrigger>CURLINFO_PRIVATE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_PRIVATE</description>
+</snippet>

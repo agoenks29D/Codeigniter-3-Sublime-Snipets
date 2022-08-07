@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+OP_READONLY
+]]>
+	</content>
+	<tabTrigger>OP_READONLY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - OP_READONLY</description>
+</snippet>

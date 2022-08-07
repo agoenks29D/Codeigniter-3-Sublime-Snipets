@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLFTP_CREATE_DIR_NONE
+]]>
+	</content>
+	<tabTrigger>CURLFTP_CREATE_DIR_NONE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLFTP_CREATE_DIR_NONE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_UNSUPPORTED_PROTOCOL
+]]>
+	</content>
+	<tabTrigger>CURLE_UNSUPPORTED_PROTOCOL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_UNSUPPORTED_PROTOCOL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_IPRESOLVE
+]]>
+	</content>
+	<tabTrigger>CURLOPT_IPRESOLVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_IPRESOLVE</description>
+</snippet>

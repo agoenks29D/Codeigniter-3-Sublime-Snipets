@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_OK
+]]>
+	</content>
+	<tabTrigger>ZLIB_OK</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_OK</description>
+</snippet>

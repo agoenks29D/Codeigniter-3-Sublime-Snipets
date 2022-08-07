@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LATT_MARKED
+]]>
+	</content>
+	<tabTrigger>LATT_MARKED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LATT_MARKED</description>
+</snippet>

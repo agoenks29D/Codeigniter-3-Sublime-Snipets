@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_SHA384
+]]>
+	</content>
+	<tabTrigger>MHASH_SHA384</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_SHA384</description>
+</snippet>

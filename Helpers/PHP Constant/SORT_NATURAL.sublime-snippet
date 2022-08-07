@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+SORT_NATURAL
+]]>
+	</content>
+	<tabTrigger>SORT_NATURAL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - SORT_NATURAL</description>
+</snippet>

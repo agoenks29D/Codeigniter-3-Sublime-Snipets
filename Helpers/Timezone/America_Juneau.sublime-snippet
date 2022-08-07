@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Juneau
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Juneau</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Juneau</description>
+</snippet>

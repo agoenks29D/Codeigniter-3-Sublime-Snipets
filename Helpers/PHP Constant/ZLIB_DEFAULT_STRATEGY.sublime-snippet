@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZLIB_DEFAULT_STRATEGY
+]]>
+	</content>
+	<tabTrigger>ZLIB_DEFAULT_STRATEGY</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZLIB_DEFAULT_STRATEGY</description>
+</snippet>

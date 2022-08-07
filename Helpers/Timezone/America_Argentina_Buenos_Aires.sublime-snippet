@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Argentina/Buenos_Aires
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Argentina_Buenos_Aires</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Argentina/Buenos_Aires</description>
+</snippet>

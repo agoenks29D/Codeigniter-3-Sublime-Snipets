@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->cache->cache_info();
+]]>
+	</content>
+	<tabTrigger>cache_info</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Cache ~ Info</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CASE_LOWER
+]]>
+	</content>
+	<tabTrigger>CASE_LOWER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CASE_LOWER</description>
+</snippet>

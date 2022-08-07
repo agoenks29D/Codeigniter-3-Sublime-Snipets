@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PHP_SESSION_ACTIVE
+]]>
+	</content>
+	<tabTrigger>PHP_SESSION_ACTIVE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PHP_SESSION_ACTIVE</description>
+</snippet>

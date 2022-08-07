@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PKCS7_NOATTR
+]]>
+	</content>
+	<tabTrigger>PKCS7_NOATTR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PKCS7_NOATTR</description>
+</snippet>

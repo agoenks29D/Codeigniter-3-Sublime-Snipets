@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_POWER
+]]>
+	</content>
+	<tabTrigger>IMG_POWER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_POWER</description>
+</snippet>

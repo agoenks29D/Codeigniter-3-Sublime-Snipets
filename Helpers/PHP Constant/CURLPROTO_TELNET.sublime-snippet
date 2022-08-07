@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_TELNET
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_TELNET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_TELNET</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_SERVER_BIND
+]]>
+	</content>
+	<tabTrigger>STREAM_SERVER_BIND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_SERVER_BIND</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Pyongyang
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Pyongyang</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Pyongyang</description>
+</snippet>

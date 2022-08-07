@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLPROTO_LDAPS
+]]>
+	</content>
+	<tabTrigger>CURLPROTO_LDAPS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLPROTO_LDAPS</description>
+</snippet>

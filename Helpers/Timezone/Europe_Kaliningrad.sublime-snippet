@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Europe/Kaliningrad
+]]>
+	</content>
+	<tabTrigger>_timezone_Europe_Kaliningrad</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Europe/Kaliningrad</description>
+</snippet>

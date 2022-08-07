@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+#==============================================================
+#	DISABLE INDEX FOLDER
+#==============================================================
+	Options -Indexes
+#--------------------------------------------------------------#
+
+#==============================================================
+#	CODEIGNITER HTACCESS
+#==============================================================
+	RewriteEngine on
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule .* index.php/$0 [PT,L]
+#--------------------------------------------------------------#
+
+#==============================================================
+#	CODEIGNITER ENVIRONMENT
+#==============================================================
+	<IfModule mod_env.c>
+		SetEnv CI_ENV development
+	</IfModule>
+#--------------------------------------------------------------#
+]]></content>
+	<tabTrigger>ci_htaccess</tabTrigger>
+	<scope>text.plain</scope>
+	<description>Codeigniter - .htaccess</description>
+</snippet>

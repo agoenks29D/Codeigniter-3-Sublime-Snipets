@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Urumqi
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Urumqi</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Urumqi</description>
+</snippet>

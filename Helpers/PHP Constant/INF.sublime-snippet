@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INF
+]]>
+	</content>
+	<tabTrigger>INF</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INF</description>
+</snippet>

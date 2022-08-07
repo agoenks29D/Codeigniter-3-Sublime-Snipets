@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FTP_AUTORESUME
+]]>
+	</content>
+	<tabTrigger>FTP_AUTORESUME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FTP_AUTORESUME</description>
+</snippet>

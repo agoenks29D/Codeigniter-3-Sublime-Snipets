@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+LOG_USER
+]]>
+	</content>
+	<tabTrigger>LOG_USER</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - LOG_USER</description>
+</snippet>

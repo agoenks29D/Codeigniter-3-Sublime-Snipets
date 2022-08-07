@@ -1,0 +1,47 @@
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Global</string>
+	<key>scope</key>
+	<string />
+	<key>settings</key>
+	<dict>
+		<key>shellVariables</key>
+		<array>
+
+			<!-- Author Name -->
+			<dict>
+				<key>name</key>
+				<string>AUTHOR_NAME</string>
+				<key>value</key>
+				<string>Agung Dirgantara</string> <!-- Change Here -->
+			</dict>
+
+			<!-- Author Email -->
+			<dict>
+				<key>name</key>
+				<string>AUTHOR_EMAIL</string>
+				<key>value</key>
+				<string>agungmasda29@gmail.com</string> <!-- Change Here -->
+			</dict>
+
+			<!-- Codeigniter Model Class -->
+			<dict>
+				<key>name</key>
+				<string>CI_MODEL_CLASS</string>
+				<key>value</key>
+				<string>MY_Model</string> <!-- Change Here -->
+			</dict>
+
+			<!-- RESTful Class -->
+			<dict>
+				<key>name</key>
+				<string>RESTful_CLASS</string>
+				<key>value</key>
+				<string>RESTful</string> <!-- Change Here -->
+			</dict>
+			
+		</array>
+	</dict>
+</dict>
+</plist>

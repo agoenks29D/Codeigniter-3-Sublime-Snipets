@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_CONDITION_UNMET
+]]>
+	</content>
+	<tabTrigger>CURLINFO_CONDITION_UNMET</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_CONDITION_UNMET</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Atlantic/St_Helena
+]]>
+	</content>
+	<tabTrigger>_timezone_Atlantic_St_Helena</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Atlantic/St_Helena</description>
+</snippet>

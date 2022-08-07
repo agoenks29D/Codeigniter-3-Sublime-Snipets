@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+FTP_TIMEOUT_SEC
+]]>
+	</content>
+	<tabTrigger>FTP_TIMEOUT_SEC</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - FTP_TIMEOUT_SEC</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->input->input_stream('${1:index}');
+]]>
+	</content>
+	<tabTrigger>input_stream</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - Input ~ Stream</description>
+</snippet>

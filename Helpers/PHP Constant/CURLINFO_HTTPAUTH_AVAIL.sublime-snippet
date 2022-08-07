@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_HTTPAUTH_AVAIL
+]]>
+	</content>
+	<tabTrigger>CURLINFO_HTTPAUTH_AVAIL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_HTTPAUTH_AVAIL</description>
+</snippet>

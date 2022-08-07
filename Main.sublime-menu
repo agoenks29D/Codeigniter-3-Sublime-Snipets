@@ -1,0 +1,75 @@
+[
+	{
+		"id": "preferences",
+		"children":
+		[
+			{
+				"caption": "Package Settings",
+				"mnemonic": "P",
+				"id": "package-settings",
+				"children":
+				[
+					{
+						"caption": "Codeigniter 3 Snippets",
+						"id": "Codeigniter 3 Snippets",
+						"children":
+						[
+							{
+								"caption": "Preferences",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter3Snippets.tmPreferences"}
+							},
+							{ "caption": "-"},
+							{
+								"caption": "Codeigniter",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter/Readme.md"}
+							},
+							{
+								"caption": "Codeigniter Core Classes",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter/classes/core/Readme.md"}
+							},
+							{
+								"caption": "Codeigniter Libraries",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter/classes/library/Readme.md"}
+							},
+							{
+								"caption": "Codeigniter Helpers",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter/helpers/Readme.md"}
+							},
+							{
+								"caption": "RESTful Library",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/RESTful-API/Readme.md"}
+							},
+							{
+								"caption": "HMVC Extension",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/HMVC-Extension/Readme.md"}
+							},
+							{
+								"caption": "Helpers",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Helpers/Readme.md"}
+							},
+							{ "caption": "-"},
+							{
+								"caption": "README",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/Readme.md"}
+							},
+							{
+								"caption": "LICENSE",
+								"command": "open_file",
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/LICENSE"}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

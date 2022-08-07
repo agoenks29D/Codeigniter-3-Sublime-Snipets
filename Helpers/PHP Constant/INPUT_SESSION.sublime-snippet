@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+INPUT_SESSION
+]]>
+	</content>
+	<tabTrigger>INPUT_SESSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - INPUT_SESSION</description>
+</snippet>

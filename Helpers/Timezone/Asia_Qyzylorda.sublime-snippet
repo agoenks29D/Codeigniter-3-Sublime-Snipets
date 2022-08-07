@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Qyzylorda
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Qyzylorda</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Qyzylorda</description>
+</snippet>

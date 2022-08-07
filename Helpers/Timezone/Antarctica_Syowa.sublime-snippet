@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Antarctica/Syowa
+]]>
+	</content>
+	<tabTrigger>_timezone_Antarctica_Syowa</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Antarctica/Syowa</description>
+</snippet>

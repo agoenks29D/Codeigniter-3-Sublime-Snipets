@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURL_LOCK_DATA_SSL_SESSION
+]]>
+	</content>
+	<tabTrigger>CURL_LOCK_DATA_SSL_SESSION</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURL_LOCK_DATA_SSL_SESSION</description>
+</snippet>

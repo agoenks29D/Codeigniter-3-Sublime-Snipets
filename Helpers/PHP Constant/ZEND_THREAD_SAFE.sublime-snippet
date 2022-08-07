@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ZEND_THREAD_SAFE
+]]>
+	</content>
+	<tabTrigger>ZEND_THREAD_SAFE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - ZEND_THREAD_SAFE</description>
+</snippet>

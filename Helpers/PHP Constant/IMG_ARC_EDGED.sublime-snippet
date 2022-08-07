@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_ARC_EDGED
+]]>
+	</content>
+	<tabTrigger>IMG_ARC_EDGED</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_ARC_EDGED</description>
+</snippet>

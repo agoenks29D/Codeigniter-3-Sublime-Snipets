@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+IMG_ARC_CHORD
+]]>
+	</content>
+	<tabTrigger>IMG_ARC_CHORD</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - IMG_ARC_CHORD</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DECLARE
+]]>
+	</content>
+	<tabTrigger>T_DECLARE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DECLARE</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_RTSP_CSEQ_RECV
+]]>
+	</content>
+	<tabTrigger>CURLINFO_RTSP_CSEQ_RECV</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_RTSP_CSEQ_RECV</description>
+</snippet>

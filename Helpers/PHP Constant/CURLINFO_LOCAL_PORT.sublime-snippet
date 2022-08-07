@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLINFO_LOCAL_PORT
+]]>
+	</content>
+	<tabTrigger>CURLINFO_LOCAL_PORT</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLINFO_LOCAL_PORT</description>
+</snippet>

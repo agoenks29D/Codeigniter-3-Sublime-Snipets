@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE
+]]>
+	</content>
+	<tabTrigger>CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE</description>
+</snippet>

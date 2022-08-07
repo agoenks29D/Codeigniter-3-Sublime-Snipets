@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_FAILED_DEPENDENCY
+]]>
+	</content>
+	<tabTrigger>rest_http_424</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_FAILED_DEPENDENCY (424)</description>
+</snippet>

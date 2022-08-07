@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLGSSAPI_DELEGATION_POLICY_FLAG
+]]>
+	</content>
+	<tabTrigger>CURLGSSAPI_DELEGATION_POLICY_FLAG</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLGSSAPI_DELEGATION_POLICY_FLAG</description>
+</snippet>

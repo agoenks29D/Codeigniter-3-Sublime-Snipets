@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+PREG_BACKTRACK_LIMIT_ERROR
+]]>
+	</content>
+	<tabTrigger>PREG_BACKTRACK_LIMIT_ERROR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - PREG_BACKTRACK_LIMIT_ERROR</description>
+</snippet>

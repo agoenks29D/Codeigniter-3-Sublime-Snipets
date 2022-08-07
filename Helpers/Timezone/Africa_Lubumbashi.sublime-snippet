@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Lubumbashi
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Lubumbashi</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Lubumbashi</description>
+</snippet>

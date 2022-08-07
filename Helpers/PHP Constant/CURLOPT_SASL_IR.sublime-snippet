@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_SASL_IR
+]]>
+	</content>
+	<tabTrigger>CURLOPT_SASL_IR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_SASL_IR</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MYSQLI_INIT_COMMAND
+]]>
+	</content>
+	<tabTrigger>MYSQLI_INIT_COMMAND</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MYSQLI_INIT_COMMAND</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Atlantic/Cape_Verde
+]]>
+	</content>
+	<tabTrigger>_timezone_Atlantic_Cape_Verde</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Atlantic/Cape_Verde</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+America/Dawson
+]]>
+	</content>
+	<tabTrigger>_timezone_America_Dawson</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - America/Dawson</description>
+</snippet>

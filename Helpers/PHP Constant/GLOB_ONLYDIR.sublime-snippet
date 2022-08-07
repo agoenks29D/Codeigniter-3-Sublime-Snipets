@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+GLOB_ONLYDIR
+]]>
+	</content>
+	<tabTrigger>GLOB_ONLYDIR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - GLOB_ONLYDIR</description>
+</snippet>

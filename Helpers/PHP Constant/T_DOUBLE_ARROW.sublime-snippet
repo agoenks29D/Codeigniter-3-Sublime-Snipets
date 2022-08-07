@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+T_DOUBLE_ARROW
+]]>
+	</content>
+	<tabTrigger>T_DOUBLE_ARROW</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - T_DOUBLE_ARROW</description>
+</snippet>

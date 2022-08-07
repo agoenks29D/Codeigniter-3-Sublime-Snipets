@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLE_BAD_DOWNLOAD_RESUME
+]]>
+	</content>
+	<tabTrigger>CURLE_BAD_DOWNLOAD_RESUME</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLE_BAD_DOWNLOAD_RESUME</description>
+</snippet>

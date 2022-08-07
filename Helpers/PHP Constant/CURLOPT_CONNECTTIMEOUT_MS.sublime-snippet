@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_CONNECTTIMEOUT_MS
+]]>
+	</content>
+	<tabTrigger>CURLOPT_CONNECTTIMEOUT_MS</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_CONNECTTIMEOUT_MS</description>
+</snippet>

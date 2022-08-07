@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Asia/Nicosia
+]]>
+	</content>
+	<tabTrigger>_timezone_Asia_Nicosia</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Asia/Nicosia</description>
+</snippet>

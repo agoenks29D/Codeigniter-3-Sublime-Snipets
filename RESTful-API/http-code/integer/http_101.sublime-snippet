@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+$RESTful_CLASS::HTTP_SWITCHING_PROTOCOLS
+]]>
+	</content>
+	<tabTrigger>rest_http_101</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>HTTP_SWITCHING_PROTOCOLS (101)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+STREAM_BUFFER_FULL
+]]>
+	</content>
+	<tabTrigger>STREAM_BUFFER_FULL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - STREAM_BUFFER_FULL</description>
+</snippet>

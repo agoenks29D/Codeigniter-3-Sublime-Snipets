@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+MHASH_WHIRLPOOL
+]]>
+	</content>
+	<tabTrigger>MHASH_WHIRLPOOL</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - MHASH_WHIRLPOOL</description>
+</snippet>

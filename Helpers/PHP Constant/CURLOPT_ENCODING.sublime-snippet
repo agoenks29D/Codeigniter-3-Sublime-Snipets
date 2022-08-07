@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_ENCODING
+]]>
+	</content>
+	<tabTrigger>CURLOPT_ENCODING</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_ENCODING</description>
+</snippet>

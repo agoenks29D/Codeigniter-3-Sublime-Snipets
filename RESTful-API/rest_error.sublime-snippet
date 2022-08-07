@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+\$this->response(array('error' => '${1:validation}', 'data' => ${2:\$this->form_validation->error_array()}), ${3:400});
+]]>
+	</content>
+	<tabTrigger>rest_error</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Codeigniter - RESTful Validation Error</description>
+</snippet>

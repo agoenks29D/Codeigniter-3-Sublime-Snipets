@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Africa/Accra
+]]>
+	</content>
+	<tabTrigger>_timezone_Africa_Accra</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>Timezone - Africa/Accra</description>
+</snippet>

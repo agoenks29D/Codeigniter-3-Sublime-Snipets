@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_DNS_LOCAL_IP6
+]]>
+	</content>
+	<tabTrigger>CURLOPT_DNS_LOCAL_IP6</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_DNS_LOCAL_IP6</description>
+</snippet>

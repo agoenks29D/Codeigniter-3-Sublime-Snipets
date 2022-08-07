@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+CURLOPT_STDERR
+]]>
+	</content>
+	<tabTrigger>CURLOPT_STDERR</tabTrigger>
+	<scope>source.php, embedding.php, text.html.basic</scope>
+	<description>PHP Constant - CURLOPT_STDERR</description>
+</snippet>
