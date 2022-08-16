@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->post('${1:key}')
+\$this->post('${1:key}')${2:;}
 ]]>
 	</content>
 	<tabTrigger>_post</tabTrigger>

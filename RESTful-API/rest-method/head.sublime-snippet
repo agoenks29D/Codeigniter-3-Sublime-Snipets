@@ -1,9 +1,9 @@
 <snippet>
 	<content>
 <![CDATA[
-public function ${1:index}_head()
+public function ${1:index}_head(${2:${3:\$param1}, ${4:\$param2}, ${5:\$param3}})
 {
-	$2
+	$6
 }
 ]]>
 	</content>

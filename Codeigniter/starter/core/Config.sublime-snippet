@@ -3,10 +3,10 @@
 <![CDATA[
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * @package Codeigniter
+ * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/$1/:name}
- * @category Libraries
- * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ * @category   Config Class
+ * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 
 class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends ${2:CI}_Config

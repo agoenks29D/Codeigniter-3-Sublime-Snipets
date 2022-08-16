@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->load->plugin(\$plugin);
+\$this->load->plugin(${1:name});
 ]]>
 	</content>
 	<tabTrigger>load_plugin</tabTrigger>

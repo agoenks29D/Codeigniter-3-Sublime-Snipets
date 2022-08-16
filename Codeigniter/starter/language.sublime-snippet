@@ -3,10 +3,10 @@
 <![CDATA[
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * @package Codeigniter
+ * @package    Codeigniter
  * @subpackage ${TM_FILENAME/((MY_)?(.+)_lang)\..+|.*/\u$3/}
- * @category Language
- * @author $AUTHOR_NAME <$AUTHOR_EMAIL>
+ * @category   Language
+ * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 
 $2

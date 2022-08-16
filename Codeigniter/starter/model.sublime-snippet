@@ -3,9 +3,9 @@
 <![CDATA[
 <?php
 /**
- * @package    Codeigniter
+ * @package    Angeli\\${TM_FILENAME/(.+)\..+|.*/\u$1/}
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/\u$1/}
- * @package    Model
+ * @category   Model
  * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 
@@ -13,6 +13,15 @@ namespace Angeli;
 
 class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends $CI_MODEL_CLASS
 {
+	/**
+	 * constructor
+	 */
+	public function __construct()
+	{
+		parent::__construct();
+		\$this->set_table('${7:${TM_FILENAME/(.+)\..+|.*/\l\l\l$1/}}');
+	}
+
 	$3
 }
 

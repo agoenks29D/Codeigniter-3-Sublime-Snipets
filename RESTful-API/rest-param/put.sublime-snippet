@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->put('${1:key}')
+\$this->put('${1:key}')${2:;}
 ]]>
 	</content>
 	<tabTrigger>_put</tabTrigger>

@@ -5,7 +5,7 @@
 /**
  * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/$1/:name}
- * @package    HMVC Controller
+ * @category   HMVC Controller
  * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
 

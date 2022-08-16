@@ -17,7 +17,7 @@
 							{
 								"caption": "Preferences",
 								"command": "open_file",
-								"args": {"file": "${packages}/Codeigniter 3 Snippets/Codeigniter3Snippets.tmPreferences"}
+								"args": {"file": "${packages}/Codeigniter 3 Snippets/User.tmPreferences"}
 							},
 							{ "caption": "-"},
 							{

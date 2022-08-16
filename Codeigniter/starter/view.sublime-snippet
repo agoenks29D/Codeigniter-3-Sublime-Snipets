@@ -5,7 +5,7 @@
 /**
  * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/\u$1/}
- * @package    View
+ * @category    View
  * @author     Agung Dirgantara <agungmasda29@gmail.com>
  */
 $2

@@ -5,10 +5,9 @@
 /**
  * @package    Codeigniter
  * @subpackage ${TM_FILENAME/((MY_)?(.+)_helper)\..+|.*/\u$3/}
- * @package    Helper
+ * @category   Helper
  * @author     $AUTHOR_NAME <$AUTHOR_EMAIL>
  */
-
 
 $2
 

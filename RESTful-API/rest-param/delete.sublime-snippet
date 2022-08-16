@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-\$this->delete('${1:key}')
+\$this->delete('${1:key}')${2:;}
 ]]>
 	</content>
 	<tabTrigger>_delete</tabTrigger>

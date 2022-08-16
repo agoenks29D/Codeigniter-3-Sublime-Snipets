@@ -5,7 +5,7 @@
 /**
  * @package    Codeigniter
  * @subpackage ${TM_FILENAME/(.+)\..+|.*/$1/:name}
- * @package    RESTful Controller
+ * @category   RESTful Controller
  * @author     Agung Dirgantara <agungmasda29@gmail.com>
  */
 
